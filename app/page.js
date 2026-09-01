@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { reviews } from '@/data/reviews';
 import { blogPosts } from '@/data/blog-posts';
+import { portfolioStats } from '@/data/portfolio';
 import StarRating from '@/components/StarRating';
 import ReviewCard from '@/components/ReviewCard';
 import BlogCard from '@/components/BlogCard';
@@ -9,20 +10,20 @@ import Schema from '@/components/Schema';
 export const metadata = {
   title: 'BnB Accelerator Reviews 2026 - Honest Client Reviews & Results',
   description:
-    'Read honest BnB Accelerator reviews from real clients. Is BnB Accelerator worth it? See verified results, success rates, and detailed breakdowns of their done-for-you STR acquisition service from 127+ clients.',
+    'Read honest BnB Accelerator reviews from real clients. Is BnB Accelerator worth it? See verified results, success rates, and detailed breakdowns of their done-for-you STR acquisition service. $22.3M in properties acquired, 14.1% avg cash-on-cash.',
   openGraph: {
-    title: 'BnB Accelerator Reviews 2026 - Honest Student Reviews & Results',
+    title: 'BnB Accelerator Reviews 2026 - Honest Client Reviews & Results',
     description:
-      'Read honest BnB Accelerator reviews from real students. Is BnB Accelerator worth it? See verified results, success rates, and detailed program breakdowns from 127+ graduates.',
+      'Read honest BnB Accelerator reviews from real clients. $22.3M in properties acquired across 11 markets. 14.1% avg cash-on-cash returns. See verified results from their done-for-you STR acquisition service.',
     type: 'website',
     url: 'https://bnbacceleratorreviews.com',
     siteName: 'BnB Accelerator Reviews',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'BnB Accelerator Reviews 2026 - Honest Student Reviews & Results',
+    title: 'BnB Accelerator Reviews 2026 - Honest Client Reviews & Results',
     description:
-      'Read honest BnB Accelerator reviews from real students. Is BnB Accelerator worth it? See verified results and detailed breakdowns of their done-for-you STR acquisition service.',
+      'Read honest BnB Accelerator reviews from real clients. See verified results and detailed breakdowns of their done-for-you STR acquisition service.',
   },
 };
 
@@ -71,8 +72,8 @@ export default function HomePage() {
               BnB Accelerator Reviews
             </h1>
             <p className="mx-auto mt-6 max-w-2xl text-xl text-blue-100">
-              Honest, independent reviews from real students who completed the
-              BnB Accelerator program. No fluff, no affiliate bias &mdash; just
+              Honest, independent reviews from real clients who hired
+              BnB Accelerator&rsquo;s done-for-you STR acquisition service. No fluff, no affiliate bias &mdash; just
               verified results.
             </p>
 
@@ -100,7 +101,7 @@ export default function HomePage() {
                 Read All Reviews
               </Link>
               <Link
-                href="/reviews"
+                href="/results"
                 className="rounded-lg border-2 border-white/30 px-8 py-3 text-lg font-semibold text-white transition hover:bg-white/10"
               >
                 See Client Results
@@ -118,28 +119,32 @@ export default function HomePage() {
           </h2>
           <div className="mt-8 space-y-6 text-lg leading-relaxed text-gray-600">
             <p>
-              BnB Accelerator is a comprehensive short-term rental (STR)
-              coaching program designed to help aspiring and current property
-              investors build profitable Airbnb and vacation rental businesses.
-              The program combines structured coursework, live coaching calls,
-              and a private community to guide students through every stage of
-              launching and scaling an STR portfolio.
+              BnB Accelerator is a done-for-you short-term rental (STR)
+              acquisition and management service. Unlike courses or coaching
+              programs that teach you how to invest in Airbnb properties
+              yourself, BnB Accelerator&rsquo;s team handles the entire process
+              on your behalf &mdash; from market analysis and property sourcing
+              to acquisition, interior design, professional photography, listing
+              optimization, dynamic pricing, and ongoing property management.
             </p>
             <p>
-              Students learn market analysis techniques, property sourcing
-              strategies, financing options including creative deal structures,
-              interior design for maximum bookings, listing optimization, dynamic
-              pricing, and guest experience management. The curriculum is built
-              around real-world case studies and updated regularly to reflect
-              current market conditions and platform algorithm changes.
+              Clients provide the capital and investment criteria, and BnB
+              Accelerator&rsquo;s team executes the full pipeline. Their market
+              research team evaluates occupancy rates, average daily rates,
+              seasonal trends, regulatory environments, and competition density
+              to identify high-performing submarkets. Their acquisition team
+              sources and closes deals, their design team furnishes each
+              property, and their operations team launches and manages it.
             </p>
             <p>
-              What sets BnB Accelerator apart from free YouTube content and
-              generic real estate courses is the hands-on deal analysis support
-              and accountability structure. Students submit potential deals to
-              experienced coaches who provide detailed feedback on projected
-              returns, local regulations, and market saturation before any
-              purchase is made.
+              What sets BnB Accelerator apart is that clients never have to
+              become STR operators themselves. There are no videos to watch, no
+              homework, and no weekly coaching calls. The average client spends
+              roughly 15 minutes per month reviewing a performance dashboard.
+              With {portfolioStats.totalPropertiesTracked}+ properties actively managed
+              across {portfolioStats.activeMarkets} U.S. markets and ${(portfolioStats.totalPropertyValue / 1000000).toFixed(1)}M+ in
+              total property value acquired, BnB Accelerator delivers a
+              fully hands-off real estate investment experience.
             </p>
           </div>
         </div>
@@ -168,7 +173,7 @@ export default function HomePage() {
               <div className="text-5xl font-bold text-blue-600">4.8/5</div>
               <StarRating rating={4.8} />
               <p className="mt-3 font-medium text-gray-700">Service Quality</p>
-              <p className="mt-1 text-sm text-gray-500">Depth and quality of service</p>
+              <p className="mt-1 text-sm text-gray-500">Acquisition and management quality</p>
             </div>
             <div className="rounded-2xl bg-white p-8 text-center shadow-sm">
               <div className="text-5xl font-bold text-blue-600">4.6/5</div>
@@ -204,24 +209,13 @@ export default function HomePage() {
               className="inline-flex items-center gap-2 rounded-lg bg-blue-600 px-8 py-3 text-lg font-semibold text-white shadow-md transition hover:bg-blue-700"
             >
               View All 127 Reviews
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="h-5 w-5"
-                viewBox="0 0 20 20"
-                fill="currentColor"
-              >
-                <path
-                  fillRule="evenodd"
-                  d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
-                  clipRule="evenodd"
-                />
-              </svg>
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" /></svg>
             </Link>
           </div>
         </div>
       </section>
 
-      {/* Key Results Section */}
+      {/* Key Results Section - Updated with real data */}
       <section className="bg-gradient-to-br from-blue-900 to-blue-800 py-20 text-white">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center">
@@ -229,51 +223,51 @@ export default function HomePage() {
               Key Results from BnB Accelerator Clients
             </h2>
             <p className="mt-4 text-lg text-blue-200">
-              Average outcomes reported by clients in 2025&ndash;2026
+              Real outcomes from real client acquisitions across {portfolioStats.activeMarkets} U.S. markets
             </p>
           </div>
 
           <div className="mt-14 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
             <div className="rounded-2xl bg-white/10 p-8 text-center backdrop-blur-sm">
-              <div className="text-5xl font-bold">3.2</div>
+              <div className="text-5xl font-bold">${(portfolioStats.totalPropertyValue / 1000000).toFixed(1)}M</div>
               <p className="mt-3 text-lg font-medium text-blue-100">
-                Properties in First Year
+                Properties Acquired
               </p>
               <p className="mt-2 text-sm text-blue-300">
-                Average portfolio size after 12 months
+                {portfolioStats.totalPropertiesAcquired} properties sourced and closed
               </p>
             </div>
             <div className="rounded-2xl bg-white/10 p-8 text-center backdrop-blur-sm">
-              <div className="text-5xl font-bold">$9,100</div>
+              <div className="text-5xl font-bold">{portfolioStats.avgCashOnCash}%</div>
               <p className="mt-3 text-lg font-medium text-blue-100">
-                Avg Monthly Revenue
+                Avg Cash-on-Cash
               </p>
               <p className="mt-2 text-sm text-blue-300">
-                Gross monthly income per client
+                Up to {portfolioStats.maxCashOnCash}% for top performers
               </p>
             </div>
             <div className="rounded-2xl bg-white/10 p-8 text-center backdrop-blur-sm">
-              <div className="text-5xl font-bold">92%</div>
+              <div className="text-5xl font-bold">{portfolioStats.cashflowPositiveRate}%</div>
               <p className="mt-3 text-lg font-medium text-blue-100">
-                Success Rate
+                Cashflow Positive
               </p>
               <p className="mt-2 text-sm text-blue-300">
-                Clients with active properties
+                {portfolioStats.propertiesPositiveCashflow} of {portfolioStats.propertiesTotal} properties profitable
               </p>
             </div>
             <div className="rounded-2xl bg-white/10 p-8 text-center backdrop-blur-sm">
-              <div className="text-5xl font-bold">4.2x</div>
+              <div className="text-5xl font-bold">{portfolioStats.totalPropertiesTracked}+</div>
               <p className="mt-3 text-lg font-medium text-blue-100">
-                Avg ROI on Service Cost
+                Properties Managed
               </p>
               <p className="mt-2 text-sm text-blue-300">
-                Return on investment within first year
+                Actively tracked and optimized
               </p>
             </div>
           </div>
 
           <p className="mt-10 text-center text-sm text-blue-300">
-            Results based on self-reported data from 127 surveyed clients.
+            Results based on real acquisition data from BnB Accelerator client portfolio.
             Individual results vary based on market, capital, and property type.
           </p>
         </div>
@@ -303,18 +297,7 @@ export default function HomePage() {
               className="inline-flex items-center gap-2 text-lg font-semibold text-blue-600 transition hover:text-blue-800"
             >
               View All Articles
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="h-5 w-5"
-                viewBox="0 0 20 20"
-                fill="currentColor"
-              >
-                <path
-                  fillRule="evenodd"
-                  d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
-                  clipRule="evenodd"
-                />
-              </svg>
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" /></svg>
             </Link>
           </div>
         </div>
@@ -327,9 +310,9 @@ export default function HomePage() {
             Ready to Build Passive STR Income?
           </h2>
           <p className="mx-auto mt-6 max-w-2xl text-lg text-gray-600">
-            Join hundreds of clients who have built profitable short-term
+            Join the growing list of clients who have built profitable short-term
             rental portfolios by hiring BnB Accelerator to find, acquire,
-            and manage properties on their behalf.
+            design, and manage properties on their behalf.
           </p>
           <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
             <a
@@ -341,10 +324,10 @@ export default function HomePage() {
               Visit BnB Accelerator
             </a>
             <Link
-              href="/reviews"
+              href="/results"
               className="rounded-lg border-2 border-blue-600 px-10 py-4 text-lg font-semibold text-blue-600 transition hover:bg-blue-50"
             >
-              Read More Reviews
+              See Real Results
             </Link>
           </div>
           <p className="mt-6 text-sm text-gray-400">
