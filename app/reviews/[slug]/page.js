@@ -21,13 +21,13 @@ export async function generateMetadata({ params }) {
   }
 
   return {
-    title: `${review.name}'s BnB Accelerator Review - From ${review.occupation} to STR Investor`,
+    title: `${review.name}'s BnB Accelerator Review - From ${review.occupation} to STR Portfolio Owner`,
     description: `Read ${review.name}'s honest BnB Accelerator review. ${review.name} from ${review.location} built ${review.results.properties} ${review.results.properties === 1 ? "property" : "properties"} generating ${review.results.monthlyRevenue}/month in ${review.results.timeframe}. See the full before-and-after story.`,
     alternates: {
       canonical: `https://bnbacceleratorreviews.com/reviews/${review.slug}`,
     },
     openGraph: {
-      title: `${review.name}'s BnB Accelerator Review - From ${review.occupation} to STR Investor`,
+      title: `${review.name}'s BnB Accelerator Review - From ${review.occupation} to STR Portfolio Owner`,
       description: `${review.name} from ${review.location} shares their real BnB Accelerator experience. ${review.results.properties} properties, ${review.results.monthlyRevenue}/month in ${review.results.timeframe}.`,
       url: `https://bnbacceleratorreviews.com/reviews/${review.slug}`,
     },
@@ -159,7 +159,7 @@ export default async function ReviewPage({ params }) {
                 Reviewed on {formattedReviewDate}
               </p>
               <p className="text-blue-200 text-xs">
-                Member since {formattedJoinDate}
+                Client since {formattedJoinDate}
               </p>
             </div>
           </div>
@@ -434,10 +434,10 @@ export default async function ReviewPage({ params }) {
             worstRating: "1",
           },
           itemReviewed: {
-            "@type": "Course",
+            "@type": "Service",
             name: "BnB Accelerator",
             description:
-              "A comprehensive short-term rental education program that teaches students how to build profitable Airbnb and STR businesses.",
+              "A done-for-you short-term rental acquisition and management service that builds profitable Airbnb and STR portfolios for clients.",
             provider: {
               "@type": "Organization",
               name: "BnB Accelerator",
