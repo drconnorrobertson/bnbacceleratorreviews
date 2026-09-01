@@ -5,17 +5,17 @@ import StarRating from "@/components/StarRating";
 import Link from "next/link";
 
 export const metadata = {
-  title: "BnB Accelerator Reviews - Real Student Testimonials & Results (2026)",
+  title: "BnB Accelerator Reviews - Real Client Testimonials & Results (2026)",
   description:
-    "Read real BnB Accelerator reviews and testimonials from verified students. See actual income results, before-and-after stories, and honest ratings from BnB Accelerator graduates in 2026.",
+    "Read real BnB Accelerator reviews and testimonials from verified clients. See actual income results, before-and-after stories, and honest ratings from BnB Accelerator clients in 2026.",
   alternates: {
     canonical: "https://bnbacceleratorreviews.com/reviews",
   },
   openGraph: {
     title:
-      "BnB Accelerator Reviews - Real Student Testimonials & Results (2026)",
+      "BnB Accelerator Reviews - Real Client Testimonials & Results (2026)",
     description:
-      "Read real BnB Accelerator reviews and testimonials from verified students. See actual income results, before-and-after stories, and honest ratings from BnB Accelerator graduates.",
+      "Read real BnB Accelerator reviews and testimonials from verified clients. See actual income results, before-and-after stories, and honest ratings from BnB Accelerator clients.",
     url: "https://bnbacceleratorreviews.com/reviews",
   },
 };
@@ -41,8 +41,8 @@ export default function ReviewsPage() {
             BnB Accelerator Reviews
           </h1>
           <p className="text-lg sm:text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Real testimonials from verified students who have built profitable
-            short-term rental businesses through the BnB Accelerator program.
+            Real testimonials from verified clients who have built profitable
+            short-term rental businesses through BnB Accelerator's done-for-you acquisition service.
           </p>
           <div className="inline-flex flex-col items-center bg-white/10 backdrop-blur-sm rounded-2xl px-8 py-6 border border-white/20">
             <div className="flex items-center gap-3 mb-2">
@@ -57,7 +57,7 @@ export default function ReviewsPage() {
             <p className="text-blue-100 text-sm">
               Based on{" "}
               <span className="font-semibold text-white">{totalReviews}</span>{" "}
-              verified student reviews
+              verified client reviews
             </p>
           </div>
         </div>
@@ -94,7 +94,7 @@ export default function ReviewsPage() {
             ))}
           </div>
           <p className="text-xs text-gray-500 mt-4 text-center">
-            Ratings collected from verified BnB Accelerator graduates between
+            Ratings collected from verified BnB Accelerator clients between
             January 2025 and September 2026.
           </p>
         </div>
@@ -104,7 +104,7 @@ export default function ReviewsPage() {
       <section className="py-12 sm:py-16">
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
           <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-2 text-center">
-            Student Reviews & Testimonials
+            Client Reviews & Testimonials
           </h2>
           <p className="text-gray-600 text-center mb-10 max-w-2xl mx-auto">
             Every review below is from a verified BnB Accelerator student.
@@ -126,7 +126,7 @@ export default function ReviewsPage() {
             Share Your Review
           </h2>
           <p className="text-gray-600 mb-6 max-w-xl mx-auto">
-            Are you a BnB Accelerator graduate? We would love to hear about your
+            Are you a BnB Accelerator client? We would love to hear about your
             experience. Share your story, your results, and help future students
             make an informed decision.
           </p>
@@ -159,7 +159,7 @@ export default function ReviewsPage() {
       <section className="bg-gradient-to-br from-blue-700 to-blue-900 text-white py-12 sm:py-16">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center">
           <h2 className="text-2xl sm:text-3xl font-bold mb-4">
-            Ready to Start Your Own STR Journey?
+            Ready to Build Passive STR Income?
           </h2>
           <p className="text-blue-100 mb-8 max-w-xl mx-auto">
             Join thousands of students who have built profitable short-term
@@ -195,10 +195,10 @@ export default function ReviewsPage() {
         type="AggregateRating"
         data={{
           itemReviewed: {
-            "@type": "Course",
+            "@type": "Service",
             name: "BnB Accelerator",
             description:
-              "A comprehensive short-term rental education program that teaches students how to build profitable Airbnb and STR businesses.",
+              "A done-for-you short-term rental acquisition and management service that builds profitable Airbnb and STR portfolios for clients.",
             provider: {
               "@type": "Organization",
               name: "BnB Accelerator",
