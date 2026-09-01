@@ -3,11 +3,11 @@ import Schema from '@/components/Schema';
 export const metadata = {
   title: 'BnB Accelerator FAQ - Common Questions Answered',
   description:
-    'Get answers about BnB Accelerator cost, pricing, and whether BnB Accelerator is legit. Covers program details, investment, ROI timeline, and what to expect from the STR coaching program.',
+    'Get answers about BnB Accelerator cost, pricing, and whether BnB Accelerator is legit. Covers program details, investment, ROI timeline, and what to expect from the done-for-you STR acquisition service.',
   openGraph: {
     title: 'BnB Accelerator FAQ - Common Questions Answered',
     description:
-      'Get answers about BnB Accelerator cost, pricing, and whether BnB Accelerator is legit. Covers program details, investment, ROI timeline, and what to expect.',
+      'Get answers about BnB Accelerator cost, pricing, and whether BnB Accelerator is legit. Covers service details, investment, ROI timeline, and what to expect.',
     url: 'https://bnbacceleratorreviews.com/faq/',
     type: 'website',
   },
@@ -15,19 +15,19 @@ export const metadata = {
 
 const faqData = [
   {
-    category: 'About the Program',
+    category: 'About the Service',
     questions: [
       {
         q: 'What is BnB Accelerator?',
-        a: 'BnB Accelerator is a comprehensive short-term rental (STR) coaching program designed to help aspiring and existing Airbnb hosts build profitable STR businesses. The program covers everything from finding and analyzing deals to optimizing listings, managing operations, and scaling a portfolio of rental properties.',
+        a: 'BnB Accelerator is a comprehensive short-term rental (STR) done-for-you STR acquisition service designed to help aspiring and existing Airbnb hosts build profitable STR businesses. The program covers everything from finding and analyzing deals to optimizing listings, managing operations, and scaling a portfolio of rental properties.',
       },
       {
         q: 'Who founded BnB Accelerator?',
-        a: 'BnB Accelerator was founded by experienced short-term rental investors who built multi-million-dollar STR portfolios. The founding team combines real estate investing expertise with hands-on Airbnb hosting experience, giving students practical strategies that have been tested in real market conditions.',
+        a: 'BnB Accelerator was founded by experienced short-term rental investors who built multi-million-dollar STR portfolios. The founding team combines real estate acquisition expertise with hands-on STR operations experience, giving clients access to professionals who have done this hundreds of times across dozens of markets.',
       },
       {
         q: 'How long has BnB Accelerator been running?',
-        a: 'BnB Accelerator has been operating for several years and has worked with thousands of students across the United States and internationally. The program has evolved over time based on student feedback, market changes, and new strategies in the short-term rental industry.',
+        a: 'BnB Accelerator has been operating for several years and has worked with hundreds of clients across the United States. The service has evolved over time based on client feedback, market changes, and operational improvements in the short-term rental industry.',
       },
     ],
   },
@@ -36,40 +36,40 @@ const faqData = [
     questions: [
       {
         q: 'How much does BnB Accelerator cost?',
-        a: 'BnB Accelerator pricing varies depending on the tier and enrollment period. The program typically ranges from a few thousand dollars for the core course to higher-tier packages that include mentorship and additional resources. Exact pricing is provided during their free training or enrollment calls. We recommend attending a free webinar to get the most current pricing details.',
+        a: 'BnB Accelerator pricing includes service fees for the acquisition and setup process, plus an ongoing management percentage of rental revenue. The specific fee structure depends on the scope of services and market. Exact pricing is provided during the initial consultation. We recommend scheduling a free consultation to get the most current pricing details.',
       },
       {
-        q: 'Are there payment plans available for BnB Accelerator?',
-        a: 'Yes, BnB Accelerator typically offers payment plan options to make the program more accessible. Payment plans allow you to spread the cost over several months. The exact terms and number of installments may vary, so it is best to ask about current payment options during your enrollment call.',
+        q: 'What capital do I need to get started?',
+        a: 'Yes, BnB Accelerator offers flexible payment structures for their service fees. The exact terms depend on the scope of the engagement. Capital for property acquisition and furnishing is separate from service fees. It is best to discuss payment options during your initial consultation.',
       },
       {
         q: 'What is the ROI timeline for BnB Accelerator?',
-        a: 'The ROI timeline depends heavily on your market, capital, and execution speed. Some students report earning back their investment within their first few bookings on a single property, while others take several months to get their first deal closed. Students who follow the system and take action consistently tend to see a return on their program investment within three to six months of launching their first property.',
+        a: 'The ROI timeline depends on your market, property type, and investment size. Properties sourced and managed by BnB Accelerator typically begin generating revenue within 60 to 120 days of engagement. Most clients see positive cash flow from their first property within the first few months of operation, with the service fees typically recovered within the first year of rental income.',
       },
       {
-        q: 'Are there hidden fees or upsells inside BnB Accelerator?',
-        a: 'BnB Accelerator includes the core training, community access, and resources outlined at enrollment. Like many coaching programs, there may be optional advanced workshops, mastermind groups, or tools offered separately. These are not required to succeed with the program. We recommend asking your enrollment advisor for a complete breakdown of what is included at each tier so there are no surprises.',
+        q: 'Are there ongoing fees?',
+        a: 'BnB Accelerator includes the core training, community access, and resources outlined at enrollment. Like many done-for-you STR acquisition services, there may be optional advanced workshops, mastermind groups, or tools offered separately. These are not required to succeed with the service. We recommend asking your enrollment advisor for a complete breakdown of what is included at each tier so there are no surprises.',
       },
     ],
   },
   {
-    category: 'Program Details',
+    category: 'Service Details',
     questions: [
       {
-        q: 'How long is the BnB Accelerator program?',
-        a: 'The BnB Accelerator program is self-paced, so you can move through the material as fast or slow as you need. The core training modules can typically be completed in four to eight weeks of focused study. However, you retain access to the materials and community well beyond the initial training period, allowing you to revisit lessons as you scale your business.',
+        q: 'How long does the process take from start to first booking?',
+        a: 'From initial consultation to a property generating its first booking, the typical timeline ranges from 60 to 120 days depending on market conditions, property type, and the scope of any renovations required. This is significantly faster than the DIY path, where most investors spend six months or longer before seeing their first dollar of revenue.',
       },
       {
-        q: 'What is included in BnB Accelerator?',
-        a: 'BnB Accelerator includes video training modules, downloadable resources and templates, access to a private community of STR investors, live coaching calls or Q&A sessions, deal analysis tools, and step-by-step frameworks for finding, funding, launching, and managing short-term rental properties. Higher-tier packages may include one-on-one mentorship and additional hands-on support.',
+        q: 'What does BnB Accelerator handle?',
+        a: 'BnB Accelerator handles everything: market analysis, property sourcing, deal negotiation, acquisition management, interior design and furnishing, professional photography, listing creation and optimization on Airbnb and VRBO, dynamic pricing setup, guest communication, cleaning coordination, maintenance oversight, and ongoing revenue optimization. You provide the capital; they handle the rest.',
       },
       {
-        q: 'Is BnB Accelerator online or in-person?',
-        a: 'BnB Accelerator is primarily an online program, making it accessible from anywhere. The training modules, community, and coaching calls are all delivered digitally. Some higher-tier packages or special events may include in-person meetups, workshops, or retreats, but the core program is fully online.',
+        q: 'Do I need any real estate experience?',
+        a: 'No, and that is the entire point of the done-for-you model. BnB Accelerator exists so you do not have to become an STR expert. Their professional team has the market knowledge, vendor relationships, and operational expertise. You just need investment capital and the willingness to make decisions when the team presents opportunities.',
       },
       {
-        q: 'What kind of support does BnB Accelerator provide?',
-        a: 'Support includes access to a private community where you can ask questions and connect with other students, regular live coaching or Q&A calls with experienced mentors, and direct access to training materials and templates. Many students highlight the community and coaching calls as the most valuable aspects of the program, providing accountability and real-time feedback on deals and strategies.',
+        q: 'How involved do I need to be?',
+        a: 'Minimal. Your main involvement is during the initial consultation (defining your goals) and when reviewing property recommendations (approving or declining acquisitions). Beyond that, most clients spend about 30 minutes per week reviewing performance reports. Guest management, cleaning, maintenance, pricing, and all other operations are handled entirely by the BnB Accelerator team.',
       },
     ],
   },
@@ -78,19 +78,19 @@ const faqData = [
     questions: [
       {
         q: 'What are typical results from BnB Accelerator?',
-        a: 'Results vary significantly based on individual effort, market conditions, starting capital, and experience level. Some students launch profitable STR properties within their first few months, while others use the program as a longer-term educational foundation. Successful students often report monthly cash flow ranging from a few hundred to several thousand dollars per property. It is important to remember that real estate investing carries risk and results are not guaranteed.',
+        a: 'Results vary significantly based on individual effort, market conditions, starting capital, and experience level. Clients working with BnB Accelerator consistently report strong returns. Monthly net revenue typically ranges from $2,800 to $5,000 per property depending on market, property type, and seasonality. Professional management, optimized pricing, and expert listing creation contribute to performance that typically exceeds what DIY investors achieve. Real estate investing carries risk and results are not guaranteed.',
       },
       {
-        q: 'How fast can I expect to see results with BnB Accelerator?',
-        a: 'The speed of results depends on your starting point, available capital, and how quickly you take action. Students who already have a property or capital ready can sometimes see results within weeks of implementing what they learn. Those starting from scratch may need two to six months to secure and launch their first property. Consistency, market research, and following the system are the biggest factors in how quickly you see returns.',
+        q: 'How many properties can BnB Accelerator manage for me?',
+        a: 'BnB Accelerator scales with your investment goals. Most clients start with one property and add more over time as they see results. The team has the infrastructure to manage multi-property portfolios across different markets. Whether you want one property or ten, the service is designed to scale with you.',
       },
       {
-        q: 'What if BnB Accelerator does not work for me?',
-        a: 'If you complete the program and implement the strategies without seeing results, it is worth reaching out to the coaching team for additional guidance. Many students who initially struggle find success after adjusting their market selection, pricing strategy, or listing optimization. Additionally, the community provides peer support and troubleshooting. Check the program terms for any satisfaction guarantees or refund policies before enrolling.',
+        q: 'What if a property underperforms?',
+        a: 'BnB Accelerator has a dedicated revenue optimization team that continuously monitors property performance. If a property underperforms projections, the team adjusts pricing strategy, listing optimization, photography, amenities, and operational factors to improve results. Their ongoing management model means they are accountable for performance and motivated to maximize your returns.',
       },
       {
-        q: 'Does BnB Accelerator offer a money-back guarantee?',
-        a: 'Guarantee terms can change between enrollment periods, so we recommend asking directly during your enrollment call or reviewing the terms of service. Some coaching programs offer conditional guarantees that require you to complete the training and demonstrate that you took action. Always review the refund policy carefully before purchasing and make sure you understand the conditions.',
+        q: 'Do I own the properties?',
+        a: 'Guarantee terms can change between enrollment periods, so we recommend asking directly during your enrollment call or reviewing the terms of service. Some done-for-you STR acquisition services offer conditional guarantees that require you to complete the training and demonstrate that you took action. Always review the refund policy carefully before purchasing and make sure you understand the conditions.',
       },
     ],
   },
@@ -212,7 +212,7 @@ export default function FAQPage() {
             Still Have Questions?
           </h2>
           <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
-            Read real reviews from students who have been through the program,
+            Read real reviews from students who have been through the service,
             or check out our in-depth blog posts for more information.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
