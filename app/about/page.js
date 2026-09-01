@@ -2,13 +2,13 @@ import Link from 'next/link';
 import Schema from '@/components/Schema';
 
 export const metadata = {
-  title: 'About BnB Accelerator - Program Details, Methodology & What You Learn',
+  title: 'About BnB Accelerator - Done-for-You STR Acquisition Service & How It Works',
   description:
-    'What is BnB Accelerator? Learn about the STR coaching program, its methodology, what students learn, who it is designed for, and what makes it different from other real estate courses.',
+    'What is BnB Accelerator? Learn about the done-for-you STR acquisition service, how it works, who it is designed for, and what makes it different from DIY approaches and other real estate services.',
   openGraph: {
-    title: 'About BnB Accelerator - Program Details & Methodology',
+    title: 'About BnB Accelerator - Done-for-You STR Acquisition Service & How It Works',
     description:
-      'What is BnB Accelerator? A detailed look at the STR coaching program, curriculum, coaching structure, and how students build profitable short-term rental portfolios.',
+      'What is BnB Accelerator? A detailed look at the done-for-you STR acquisition service and how clients build profitable short-term rental portfolios with zero operational burden.',
     type: 'website',
     url: 'https://bnbacceleratorreviews.com/about',
     siteName: 'BnB Accelerator Reviews',
@@ -17,7 +17,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'About BnB Accelerator - Program Details & Methodology',
     description:
-      'What is BnB Accelerator? A detailed look at the STR coaching program, curriculum, and how students build profitable short-term rental portfolios.',
+      'What is BnB Accelerator? A detailed look at the done-for-you STR acquisition service and how clients build profitable short-term rental portfolios.',
   },
 };
 
@@ -60,7 +60,7 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* What BnB Accelerator Offers */}
+      {/* What BnB Accelerator Does For You */}
       <section className="bg-white py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-3xl">
@@ -84,13 +84,14 @@ export default function AboutPage() {
                 </svg>
               </div>
               <h3 className="mt-5 text-xl font-semibold text-gray-900">
-                Structured Coursework
+                Market Analysis
               </h3>
               <p className="mt-3 text-gray-600">
-                A step-by-step video curriculum covering market research,
-                property analysis, financing, design, listing optimization,
-                pricing strategy, and guest management. Updated quarterly to
-                reflect platform changes.
+                Their team analyzes markets across the country to identify
+                optimal STR locations using proprietary data on occupancy
+                rates, ADR, seasonality, regulations, and competition
+                density. They find the markets you would never find on
+                your own.
               </p>
             </div>
 
@@ -101,12 +102,13 @@ export default function AboutPage() {
                 </svg>
               </div>
               <h3 className="mt-5 text-xl font-semibold text-gray-900">
-                Live Coaching Calls
+                Property Acquisition
               </h3>
               <p className="mt-3 text-gray-600">
-                Weekly group coaching sessions and monthly one-on-one calls with
-                experienced STR investors. Students bring their specific deals,
-                questions, and roadblocks for personalized guidance.
+                Their acquisition team sources and secures properties that
+                meet strict investment criteria. They handle deal negotiation,
+                inspections, closing coordination, and any renovations needed
+                to maximize STR potential.
               </p>
             </div>
 
@@ -117,13 +119,13 @@ export default function AboutPage() {
                 </svg>
               </div>
               <h3 className="mt-5 text-xl font-semibold text-gray-900">
-                Private Community
+                Design & Furnishing
               </h3>
               <p className="mt-3 text-gray-600">
-                An active private community of current students and alumni who
-                share deals, vendor recommendations, market insights, and
-                operational tips. Many students cite this as the single most
-                valuable part of the program.
+                Their in-house design team professionally furnishes and stages
+                each property with market-specific aesthetics that maximize
+                booking conversion. They leverage bulk vendor relationships
+                for quality furnishings at below-retail prices.
               </p>
             </div>
 
@@ -134,12 +136,13 @@ export default function AboutPage() {
                 </svg>
               </div>
               <h3 className="mt-5 text-xl font-semibold text-gray-900">
-                Deal Analysis Tools
+                Listing Optimization
               </h3>
               <p className="mt-3 text-gray-600">
-                Proprietary spreadsheets and calculators for evaluating potential
-                deals, projecting revenue using comparable data, and modeling
-                cash-on-cash returns across different financing scenarios.
+                Professional photography, strategically written titles and
+                descriptions, comprehensive amenity tagging, and search
+                optimization ensure your property ranks well and converts
+                browsers into bookers from day one.
               </p>
             </div>
 
@@ -150,13 +153,13 @@ export default function AboutPage() {
                 </svg>
               </div>
               <h3 className="mt-5 text-xl font-semibold text-gray-900">
-                Property Management Systems
+                Full-Service Management
               </h3>
               <p className="mt-3 text-gray-600">
-                Templates, SOPs, and tech stack recommendations for managing
-                guest communications, turnovers, maintenance, and pricing
-                automation &mdash; whether self-managing or hiring a property
-                manager.
+                Ongoing guest communication, cleaning coordination, maintenance
+                oversight, dynamic pricing adjustments, and review management.
+                Your property is actively managed and optimized every day
+                &mdash; you just review monthly reports.
               </p>
             </div>
 
@@ -167,19 +170,20 @@ export default function AboutPage() {
                 </svg>
               </div>
               <h3 className="mt-5 text-xl font-semibold text-gray-900">
-                Scaling Strategies
+                Portfolio Growth
               </h3>
               <p className="mt-3 text-gray-600">
-                Advanced modules on scaling beyond a first property, including
-                rental arbitrage, co-hosting, building a team, entity
-                structuring, and portfolio-level financial management.
+                Strategic scaling with additional property acquisitions as your
+                portfolio grows. The team identifies new opportunities,
+                manages acquisitions, and expands your passive income
+                stream at your pace.
               </p>
             </div>
           </div>
         </div>
       </section>
 
-      {/* The Methodology */}
+      {/* The Done-for-You Process */}
       <section className="bg-gray-50 py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-3xl text-center">
@@ -188,7 +192,7 @@ export default function AboutPage() {
             </h2>
             <p className="mt-4 text-lg text-gray-600">
               BnB Accelerator follows a proven five-phase framework that takes
-              students from complete beginners to operational STR owners.
+              clients from complete beginners to operational STR owners.
             </p>
           </div>
 
@@ -204,14 +208,14 @@ export default function AboutPage() {
                 </div>
                 <div className="pt-2">
                   <h3 className="text-2xl font-semibold text-gray-900">
-                    Market Research
+                    Consultation
                   </h3>
                   <p className="mt-3 text-lg text-gray-600">
-                    Students learn to identify high-performing STR markets using
+                    Clients learn to identify high-performing STR markets using
                     data tools like AirDNA, Mashvisor, and Rabbu. The program
                     teaches how to evaluate seasonality, occupancy rates,
                     average daily rates, local regulations, and competition
-                    density. Students build a shortlist of target markets before
+                    density. Clients build a shortlist of target markets before
                     ever looking at individual properties.
                   </p>
                 </div>
@@ -224,10 +228,10 @@ export default function AboutPage() {
                 </div>
                 <div className="pt-2">
                   <h3 className="text-2xl font-semibold text-gray-900">
-                    Property Sourcing
+                    Market Research
                   </h3>
                   <p className="mt-3 text-lg text-gray-600">
-                    With target markets selected, students learn to find deals
+                    With target markets selected, clients learn to find deals
                     on and off the MLS. The curriculum covers working with
                     investor-friendly agents, analyzing listings for STR
                     potential, identifying value-add opportunities, and running
@@ -244,12 +248,12 @@ export default function AboutPage() {
                 </div>
                 <div className="pt-2">
                   <h3 className="text-2xl font-semibold text-gray-900">
-                    Financing
+                    Acquisition
                   </h3>
                   <p className="mt-3 text-lg text-gray-600">
                     The financing module covers conventional mortgages, DSCR
                     loans, portfolio lenders, seller financing, partnerships,
-                    and creative deal structures. Students learn how to
+                    and creative deal structures. Clients learn how to
                     present deals to lenders, understand debt service coverage
                     ratios, and structure offers that work for both buyer and
                     seller. The goal is making capital an enabler, not a
@@ -269,7 +273,7 @@ export default function AboutPage() {
                   </h3>
                   <p className="mt-3 text-lg text-gray-600">
                     Once a property is acquired, the focus shifts to furnishing,
-                    design, and guest experience. Students learn budget-conscious
+                    design, and guest experience. Clients learn budget-conscious
                     interior design principles that maximize listing photos and
                     guest reviews. The program provides furniture shopping lists,
                     vendor contacts, and amenity checklists tailored to property
@@ -285,13 +289,13 @@ export default function AboutPage() {
                 </div>
                 <div className="pt-2">
                   <h3 className="text-2xl font-semibold text-gray-900">
-                    Launch &amp; Optimize
+                    Launch &amp; Management
                   </h3>
                   <p className="mt-3 text-lg text-gray-600">
                     The final phase covers listing creation, professional
                     photography, dynamic pricing setup, guest communication
                     templates, review generation strategies, and ongoing
-                    optimization. Students learn to read Airbnb and VRBO
+                    optimization. Clients learn to read Airbnb and VRBO
                     analytics, adjust pricing seasonally, and continuously
                     improve occupancy and average daily rates over time.
                   </p>
@@ -318,53 +322,49 @@ export default function AboutPage() {
           <div className="mx-auto mt-14 grid max-w-5xl gap-8 md:grid-cols-2">
             <div className="rounded-xl border-2 border-blue-100 bg-blue-50/50 p-8">
               <h3 className="text-xl font-semibold text-blue-900">
-                First-Time Investors
+                Busy Professionals
               </h3>
               <p className="mt-3 text-gray-600">
-                People who have never owned an investment property but want a
-                clear, structured path into short-term rentals. The program
-                starts from the fundamentals and does not assume prior real
-                estate experience. Many successful students came from W-2 jobs
-                with no background in hospitality or investing.
+                High-income professionals who want STR exposure but lack the
+                time to manage properties. BnB Accelerator handles every
+                detail so you can focus on your career while building
+                passive rental income on the side.
               </p>
             </div>
 
             <div className="rounded-xl border-2 border-blue-100 bg-blue-50/50 p-8">
               <h3 className="text-xl font-semibold text-blue-900">
-                Long-Term Rental Owners
+                Passive Income Seekers
               </h3>
               <p className="mt-3 text-gray-600">
-                Existing landlords looking to convert properties to short-term
-                rentals or add STR units to their portfolio. These students
-                typically already understand real estate basics but need
-                guidance on the operational, marketing, and revenue management
-                differences between LTRs and STRs.
+                Anyone who wants the financial returns of STR ownership
+                without making it their second full-time job. The done-for-you
+                model means you never have to handle a guest check-in,
+                coordinate a cleaning crew, or troubleshoot a maintenance issue.
               </p>
             </div>
 
             <div className="rounded-xl border-2 border-blue-100 bg-blue-50/50 p-8">
               <h3 className="text-xl font-semibold text-blue-900">
-                Career Changers
+                Out-of-State Investors
               </h3>
               <p className="mt-3 text-gray-600">
-                Professionals looking to build a short-term rental business as
-                a path to financial independence or a career transition. The
-                program attracts teachers, nurses, engineers, sales
-                professionals, and corporate employees who want to build
-                something of their own while keeping their day job initially.
+                Investors who want to deploy capital into high-performing STR
+                markets that may be hundreds of miles from where they live.
+                Having a local team handle everything on the ground makes
+                out-of-state STR investing practical and profitable.
               </p>
             </div>
 
             <div className="rounded-xl border-2 border-blue-100 bg-blue-50/50 p-8">
               <h3 className="text-xl font-semibold text-blue-900">
-                Experienced Hosts Scaling Up
+                Portfolio Builders
               </h3>
               <p className="mt-3 text-gray-600">
-                Current Airbnb or VRBO hosts who already manage one or two
-                properties and want to grow to five, ten, or more. These
-                students benefit most from the advanced modules on systems,
-                team building, entity structuring, and portfolio-level
-                financial management.
+                Investors who want to scale from one property to a multi-property
+                portfolio efficiently. BnB Accelerator adds properties
+                strategically, managing each new acquisition and setup so
+                your passive income grows without your workload increasing.
               </p>
             </div>
           </div>
@@ -394,7 +394,7 @@ export default function AboutPage() {
               portfolios.
             </p>
             <p>
-              The coaching staff includes specialists in market analysis, real
+              The team includes specialists in market analysis, real
               estate finance, interior design for vacation rentals, revenue
               management, and property operations. Each coach is an active
               investor who continues to acquire and manage properties,
@@ -403,7 +403,7 @@ export default function AboutPage() {
             </p>
             <p>
               The program has grown primarily through student referrals and
-              word of mouth. As of 2026, over 500 students have enrolled,
+              word of mouth. As of 2026, over 500 clients have enrolled,
               with the active community representing a combined portfolio of
               more than 1,200 short-term rental units generating an estimated
               $14 million in annual gross revenue.
@@ -420,7 +420,7 @@ export default function AboutPage() {
               What Makes BnB Accelerator Different?
             </h2>
             <p className="mt-4 text-lg text-gray-600">
-              How the program compares to learning on your own
+              How the done-for-you service compares to doing it yourself
             </p>
           </div>
 
@@ -429,8 +429,8 @@ export default function AboutPage() {
               <thead>
                 <tr className="bg-blue-600 text-white">
                   <th className="px-6 py-4 text-lg font-semibold">Factor</th>
-                  <th className="px-6 py-4 text-lg font-semibold">Going It Alone</th>
-                  <th className="px-6 py-4 text-lg font-semibold">With BnB Accelerator</th>
+                  <th className="px-6 py-4 text-lg font-semibold">DIY Approach</th>
+                  <th className="px-6 py-4 text-lg font-semibold">With BnB Accelerator (Done-for-You)</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-100">
@@ -442,7 +442,7 @@ export default function AboutPage() {
                 <tr className="bg-gray-50">
                   <td className="px-6 py-4 font-medium text-gray-900">Deal Analysis</td>
                   <td className="px-6 py-4 text-gray-600">Self-taught, trial and error</td>
-                  <td className="px-6 py-4 text-gray-600">Coach-reviewed before purchase</td>
+                  <td className="px-6 py-4 text-gray-600">Professionally sourced and vetted</td>
                 </tr>
                 <tr className="bg-white">
                   <td className="px-6 py-4 font-medium text-gray-900">Costly Mistakes</td>
@@ -480,12 +480,12 @@ export default function AboutPage() {
       <section className="bg-gradient-to-br from-blue-900 to-blue-800 py-20 text-white">
         <div className="mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold sm:text-4xl">
-            Interested in Learning More?
+            Interested in Hands-Off STR Investing?
           </h2>
           <p className="mx-auto mt-6 max-w-2xl text-lg text-blue-100">
             Visit BnB Accelerator&rsquo;s official site to explore the
             curriculum, pricing, and enrollment options. Or read what real
-            students have to say about their experience.
+            clients have to say about their experience.
           </p>
           <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
             <a
