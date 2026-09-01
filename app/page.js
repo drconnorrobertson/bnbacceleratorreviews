@@ -7,9 +7,9 @@ import BlogCard from '@/components/BlogCard';
 import Schema from '@/components/Schema';
 
 export const metadata = {
-  title: 'BnB Accelerator Reviews 2026 - Honest Student Reviews & Results',
+  title: 'BnB Accelerator Reviews 2026 - Honest Client Reviews & Results',
   description:
-    'Read honest BnB Accelerator reviews from real students. Is BnB Accelerator worth it? See verified results, success rates, and detailed program breakdowns from 127+ graduates.',
+    'Read honest BnB Accelerator reviews from real clients. Is BnB Accelerator worth it? See verified results, success rates, and detailed breakdowns of their done-for-you STR acquisition service from 127+ clients.',
   openGraph: {
     title: 'BnB Accelerator Reviews 2026 - Honest Student Reviews & Results',
     description:
@@ -22,7 +22,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'BnB Accelerator Reviews 2026 - Honest Student Reviews & Results',
     description:
-      'Read honest BnB Accelerator reviews from real students. Is BnB Accelerator worth it? See verified results and detailed program breakdowns.',
+      'Read honest BnB Accelerator reviews from real students. Is BnB Accelerator worth it? See verified results and detailed breakdowns of their done-for-you STR acquisition service.',
   },
 };
 
@@ -30,7 +30,7 @@ const aggregateRatingData = {
   '@context': 'https://schema.org',
   '@type': 'Product',
   name: 'BnB Accelerator',
-  description: 'Short-term rental coaching and education program',
+  description: 'Done-for-you short-term rental acquisition and management service',
   aggregateRating: {
     '@type': 'AggregateRating',
     ratingValue: '4.7',
@@ -87,7 +87,7 @@ export default function HomePage() {
                 <StarRating rating={4.7} />
                 <p className="mt-1 text-sm text-blue-200">
                   Based on <strong className="text-white">127</strong> verified
-                  student reviews
+                  client reviews
                 </p>
               </div>
             </div>
@@ -103,7 +103,7 @@ export default function HomePage() {
                 href="/reviews"
                 className="rounded-lg border-2 border-white/30 px-8 py-3 text-lg font-semibold text-white transition hover:bg-white/10"
               >
-                See Student Results
+                See Client Results
               </Link>
             </div>
           </div>
@@ -150,10 +150,10 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">
-              Overall Student Rating
+              Overall Client Rating
             </h2>
             <p className="mt-4 text-lg text-gray-600">
-              Aggregated from verified student surveys and follow-up interviews
+              Aggregated from verified client surveys and follow-up interviews
             </p>
           </div>
 
@@ -167,13 +167,13 @@ export default function HomePage() {
             <div className="rounded-2xl bg-white p-8 text-center shadow-sm">
               <div className="text-5xl font-bold text-blue-600">4.8/5</div>
               <StarRating rating={4.8} />
-              <p className="mt-3 font-medium text-gray-700">Course Content</p>
-              <p className="mt-1 text-sm text-gray-500">Depth and quality of material</p>
+              <p className="mt-3 font-medium text-gray-700">Service Quality</p>
+              <p className="mt-1 text-sm text-gray-500">Depth and quality of service</p>
             </div>
             <div className="rounded-2xl bg-white p-8 text-center shadow-sm">
               <div className="text-5xl font-bold text-blue-600">4.6/5</div>
               <StarRating rating={4.6} />
-              <p className="mt-3 font-medium text-gray-700">Coaching Support</p>
+              <p className="mt-3 font-medium text-gray-700">Client Support</p>
               <p className="mt-1 text-sm text-gray-500">Access and responsiveness</p>
             </div>
           </div>
@@ -185,10 +185,10 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">
-              Featured Student Reviews
+              Featured Client Reviews
             </h2>
             <p className="mt-4 text-lg text-gray-600">
-              Hear directly from graduates about their experience
+              Hear directly from clients about their experience
             </p>
           </div>
 
@@ -226,10 +226,10 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h2 className="text-3xl font-bold sm:text-4xl">
-              Key Results from BnB Accelerator Students
+              Key Results from BnB Accelerator Clients
             </h2>
             <p className="mt-4 text-lg text-blue-200">
-              Average outcomes reported by program graduates in 2025&ndash;2026
+              Average outcomes reported by clients in 2025&ndash;2026
             </p>
           </div>
 
@@ -249,7 +249,7 @@ export default function HomePage() {
                 Avg Monthly Revenue
               </p>
               <p className="mt-2 text-sm text-blue-300">
-                Gross monthly income per student
+                Gross monthly income per client
               </p>
             </div>
             <div className="rounded-2xl bg-white/10 p-8 text-center backdrop-blur-sm">
@@ -258,13 +258,13 @@ export default function HomePage() {
                 Success Rate
               </p>
               <p className="mt-2 text-sm text-blue-300">
-                Students who acquired at least 1 property
+                Clients with active properties
               </p>
             </div>
             <div className="rounded-2xl bg-white/10 p-8 text-center backdrop-blur-sm">
               <div className="text-5xl font-bold">4.2x</div>
               <p className="mt-3 text-lg font-medium text-blue-100">
-                Avg ROI on Program Cost
+                Avg ROI on Service Cost
               </p>
               <p className="mt-2 text-sm text-blue-300">
                 Return on investment within first year
@@ -273,8 +273,8 @@ export default function HomePage() {
           </div>
 
           <p className="mt-10 text-center text-sm text-blue-300">
-            Results based on self-reported data from 127 surveyed graduates.
-            Individual results vary based on market, capital, and effort.
+            Results based on self-reported data from 127 surveyed clients.
+            Individual results vary based on market, capital, and property type.
           </p>
         </div>
       </section>
@@ -324,12 +324,12 @@ export default function HomePage() {
       <section className="bg-white py-20">
         <div className="mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">
-            Ready to Start Your STR Journey?
+            Ready to Build Passive STR Income?
           </h2>
           <p className="mx-auto mt-6 max-w-2xl text-lg text-gray-600">
-            Join hundreds of students who have built profitable short-term
-            rental portfolios with the guidance, tools, and community that BnB
-            Accelerator provides.
+            Join hundreds of clients who have built profitable short-term
+            rental portfolios by hiring BnB Accelerator to find, acquire,
+            and manage properties on their behalf.
           </p>
           <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
             <a
