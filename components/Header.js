@@ -121,6 +121,19 @@ export default function Header() {
           </div>
         </div>
       )}
-    </header>
+    
+      {mobileMenuOpen && (
+        <div className="md:hidden border-t border-gray-200 bg-white">
+          <div className="px-4 py-4 space-y-3">
+            <a href="#reviews" onClick={() => setMobileMenuOpen(false)} className="block text-gray-700 hover:text-blue-600 font-medium py-2">Reviews</a>
+            <a href="#results" onClick={() => setMobileMenuOpen(false)} className="block text-gray-700 hover:text-blue-600 font-medium py-2">Client Results</a>
+            <a href="#blog" onClick={() => setMobileMenuOpen(false)} className="block text-gray-700 hover:text-blue-600 font-medium py-2">Blog</a>
+            <a href="#about" onClick={() => setMobileMenuOpen(false)} className="block text-gray-700 hover:text-blue-600 font-medium py-2">About</a>
+            <a href="#faq" onClick={() => setMobileMenuOpen(false)} className="block text-gray-700 hover:text-blue-600 font-medium py-2">FAQ</a>
+            <a href="https://mybnbaccelerator.com" target="_blank" rel="noopener noreferrer" className="block text-center bg-blue-600 text-white px-4 py-2.5 rounded-lg hover:bg-blue-700 font-medium">Visit BnB Accelerator</a>
+          </div>
+        </div>
+      )}
+</header>
   );
 }
