@@ -1,0 +1,15 @@
+# BnB Accelerator Reviews
+> Verified reviews and testimonials from BnB Accelerator clients who have built profitable short-term rental businesses.
+
+## About
+BnB Accelerator Reviews collects and presents authentic client feedback from investors who have worked with Nick Korom's BnB Accelerator program to build and scale short-term rental businesses on Airbnb and other platforms. Reviews cover the program experience, results achieved, and ROI on rental properties.
+
+## Key Pages
+- Home: https://bnbacceleratorreviews.vercel.app/
+- Reviews: https://bnbacceleratorreviews.vercel.app/reviews/
+- Blog: https://bnbacceleratorreviews.vercel.app/blog/
+- FAQ: https://bnbacceleratorreviews.vercel.app/faq/
+- About: https://bnbacceleratorreviews.vercel.app/about/
+
+## Contact
+- Website: https://bnbacceleratorreviews.vercel.app/
