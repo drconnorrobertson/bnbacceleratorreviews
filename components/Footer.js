@@ -26,8 +26,8 @@ export default function Footer() {
             </Link>
             <p className="text-sm text-gray-400 max-w-md leading-relaxed">
               Honest, in-depth reviews of the BnB Accelerator short-term
-              rental education program. We help aspiring STR hosts make
-              informed decisions about their education investment.
+              rental done-for-you service. We help aspiring STR hosts make
+              informed decisions about their investment.
             </p>
           </div>
 
