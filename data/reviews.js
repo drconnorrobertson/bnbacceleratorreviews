@@ -239,4 +239,2167 @@ export const reviews = [
     occupation: "Restaurant Owner",
     propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
   },
+
+  {
+    slug: "keith-melissa-green",
+    name: "Keith & Melissa Green",
+    location: "Cincinnati, OH",
+    rating: 5,
+    title: "BnB Accelerator Found, Furnished, and Launched 2 Properties for Me in Lake Tahoe",
+    summary:
+      "As a Urban Planner with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 2 properties in Lake Tahoe for me. $5,582 a month, completely passive.",
+    fullReview:
+      "A business partner had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Lake Tahoe as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Lake Tahoe's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nToday the properties generate $5,582 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has That extra cash flow has accelerated every other financial goal I had.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$5,582",
+      timeframe: "6 months",
+    },
+    beforeStory:
+      "I had been a Urban Planner for over a decade, earning $109,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 2 STR properties across Lake Tahoe that BnB Accelerator built and manages for me, producing $5,582 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2026-03-07",
+    reviewDate: "2026-06-06",
+    occupation: "Urban Planner",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "adriana-baker",
+    name: "Adriana Baker",
+    location: "Santa Barbara, CA",
+    rating: 4.5,
+    title: "3 Properties in St. Augustine, Zero Hours of My Time -- BnB Accelerator Did Everything",
+    summary:
+      "Working full time as a Fitness Coach left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 3 properties generating $10,902/month -- without me ever becoming the operator.",
+    fullReview:
+      "A a friend's recommendation had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending St. Augustine. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nTheir design team furnished each of the three properties with a style calibrated to what performs in St. Augustine, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\n10 months in, the portfolio generates $10,902 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has completely changed my financial picture.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$10,902",
+      timeframe: "10 months",
+    },
+    beforeStory:
+      "As a Fitness Coach in Santa Barbara, CA, I was pulling in about $48,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 3 STR properties across St. Augustine that BnB Accelerator built and manages for me, producing $10,902 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2024-05-18",
+    reviewDate: "2025-03-11",
+    occupation: "Fitness Coach",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "karen-zhang",
+    name: "Karen Zhang",
+    location: "San Antonio, TX",
+    rating: 5,
+    title: "How a Busy Corporate Trainer Built $5,218/Month in STR Income Without Lifting a Finger",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 2 properties in Clearwater, $5,218/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "A a Facebook group for investors had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Clearwater. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced two properties that met my investment criteria.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Clearwater's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nToday the properties generate $5,218 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The financial freedom this has created is something I never thought was realistic for someone in my position.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$5,218",
+      timeframe: "20 months",
+    },
+    beforeStory:
+      "As a Corporate Trainer in San Antonio, TX, I was pulling in about $109,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 2 STR properties across Clearwater that BnB Accelerator built and manages for me, producing $5,218 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2024-01-04",
+    reviewDate: "2025-09-18",
+    occupation: "Corporate Trainer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "john-wilson",
+    name: "John Wilson",
+    location: "Indianapolis, IN",
+    rating: 5,
+    title: "BnB Accelerator Turned My Savings Into $12,306/Month of Passive STR Income",
+    summary:
+      "As a Pharmaceutical Sales Rep with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 3 properties in Park City for me. $12,306 a month, completely passive.",
+    fullReview:
+      "A a Facebook group for investors had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Park City. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Park City's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nThe properties now generate $12,306 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The extra income has let me start seriously saving for early retirement.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$12,306",
+      timeframe: "14 months",
+    },
+    beforeStory:
+      "I had been a Pharmaceutical Sales Rep for over a decade, earning $81,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "14 months after hiring BnB Accelerator, I have 3 short-term rental properties in Park City generating $12,306 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-04-13",
+    reviewDate: "2026-06-16",
+    occupation: "Pharmaceutical Sales Rep",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "erica-reed",
+    name: "Erica Reed",
+    location: "Billings, MT",
+    rating: 5,
+    title: "A Optometrist's Path to Passive Income: 4 Properties, Completely Hands-Off",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 4 properties in Lake Tahoe, $9,956/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "A a YouTube video had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Lake Tahoe. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced four properties that met my investment criteria.\\n\\nTheir design team furnished each of the four properties with a style calibrated to what performs in Lake Tahoe, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\n12 months in, the portfolio generates $9,956 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The passive income has given me options I did not have two years ago.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$9,956",
+      timeframe: "12 months",
+    },
+    beforeStory:
+      "As a Optometrist in Billings, MT, I was pulling in about $72,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "12 months after hiring BnB Accelerator, I have 4 short-term rental properties in Lake Tahoe generating $9,956 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2026-03-03",
+    reviewDate: "2026-07-10",
+    occupation: "Optometrist",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "dana-dunn",
+    name: "Dana Dunn",
+    location: "Fort Collins, CO",
+    rating: 5,
+    title: "BnB Accelerator Built My Entire Hilton Head STR Portfolio While I Kept Working as a Occupational Therapist",
+    summary:
+      "BnB Accelerator found 2 properties in Hilton Head, handled every step from acquisition to launch, and now manages everything. $6,084/month in passive income and I spend 15 minutes a month reviewing dashboards.",
+    fullReview:
+      "I found BnB Accelerator through a conversation at a networking event and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Occupational Therapist, that was the only version of real estate investing that could realistically work for me.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Hilton Head as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured two properties that fit my criteria perfectly.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Hilton Head market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nThe properties now generate $6,084 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. I am already working with their team to add another property next quarter.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$6,084",
+      timeframe: "9 months",
+    },
+    beforeStory:
+      "As a Occupational Therapist in Fort Collins, CO, I was pulling in about $86,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "9 months after hiring BnB Accelerator, I have 2 short-term rental properties in Hilton Head generating $6,084 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-06-10",
+    reviewDate: "2026-03-10",
+    occupation: "Occupational Therapist",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "sara-scott",
+    name: "Sara Scott",
+    location: "Santa Barbara, CA",
+    rating: 5,
+    title: "From Zero Real Estate Experience to $7,446/Month -- All Done by BnB Accelerator",
+    summary:
+      "Working full time as a Executive Chef left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 3 properties generating $7,446/month -- without me ever becoming the operator.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Whitefish. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nTheir design team furnished each of the three properties with a style calibrated to what performs in Whitefish, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\n17 months in, the portfolio generates $7,446 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The financial freedom this has created is something I never thought was realistic for someone in my position.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$7,446",
+      timeframe: "17 months",
+    },
+    beforeStory:
+      "I had been a Executive Chef for over a decade, earning $119,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 3 STR properties across Whitefish that BnB Accelerator built and manages for me, producing $7,446 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2026-01-11",
+    reviewDate: "2026-06-16",
+    occupation: "Executive Chef",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "joseph-lawrence",
+    name: "Joseph Lawrence",
+    location: "Seattle, WA",
+    rating: 5,
+    title: "BnB Accelerator Turned My Savings Into $8,976/Month of Passive STR Income",
+    summary:
+      "BnB Accelerator found 3 properties in Poconos, handled every step from acquisition to launch, and now manages everything. $8,976/month in passive income and I spend 15 minutes a month reviewing dashboards.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Poconos. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nTheir design team furnished each of the three properties with a style calibrated to what performs in Poconos, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nThe properties now generate $8,976 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The financial freedom this has created is something I never thought was realistic for someone in my position.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$8,976",
+      timeframe: "11 months",
+    },
+    beforeStory:
+      "I was working as a Operations Manager in Seattle, WA making around $77,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "Today I have 3 STR properties across Poconos that BnB Accelerator built and manages for me, producing $8,976 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2026-03-19",
+    reviewDate: "2026-07-02",
+    occupation: "Operations Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "ian-hunter",
+    name: "Ian Hunter",
+    location: "Savannah, GA",
+    rating: 4.5,
+    title: "How a Busy Quality Assurance Manager Built $11,658/Month in STR Income Without Lifting a Finger",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 3 properties, $11,658/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "A coworker had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Scottsdale as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured three properties that fit my criteria perfectly.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Scottsdale's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\n9 months in, the portfolio generates $11,658 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. For the first time in my career, I have income that does not depend on showing up to work.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$11,658",
+      timeframe: "9 months",
+    },
+    beforeStory:
+      "I had been a Quality Assurance Manager for over a decade, earning $98,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 3 STR properties across Scottsdale that BnB Accelerator built and manages for me, producing $11,658 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2024-06-18",
+    reviewDate: "2025-03-25",
+    occupation: "Quality Assurance Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "matt-cunningham",
+    name: "Matt Cunningham",
+    location: "Colorado Springs, CO",
+    rating: 4.5,
+    title: "BnB Accelerator Found, Furnished, and Launched 2 Properties for Me in Savannah",
+    summary:
+      "As a Urban Planner with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 2 properties in Savannah for me. $6,434 a month, completely passive.",
+    fullReview:
+      "A family member had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Savannah as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Savannah's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\n23 months in, the portfolio generates $6,434 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has given me options I never thought possible five years ago.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$6,434",
+      timeframe: "23 months",
+    },
+    beforeStory:
+      "I was working as a Urban Planner in Colorado Springs, CO making around $118,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "23 months after hiring BnB Accelerator, I have 2 short-term rental properties in Savannah generating $6,434 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-04-28",
+    reviewDate: "2026-08-11",
+    occupation: "Urban Planner",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "philip-gordon",
+    name: "Philip Gordon",
+    location: "Memphis, TN",
+    rating: 5,
+    title: "BnB Accelerator Turned My Savings Into $8,132/Month of Passive STR Income",
+    summary:
+      "As a Executive Chef with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 2 properties in Tybee Island for me. $8,132 a month, completely passive.",
+    fullReview:
+      "A friend had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Tybee Island. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced two properties that met my investment criteria.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Tybee Island market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nThe properties now generate $8,132 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The extra income has let me start seriously saving for early retirement.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$8,132",
+      timeframe: "9 months",
+    },
+    beforeStory:
+      "I was working as a Executive Chef in Memphis, TN making around $76,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "9 months after hiring BnB Accelerator, I have 2 short-term rental properties in Tybee Island generating $8,132 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-03-11",
+    reviewDate: "2025-12-07",
+    occupation: "Executive Chef",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "keith-allen",
+    name: "Keith Allen",
+    location: "Boulder, CO",
+    rating: 5,
+    title: "BnB Accelerator Built My Entire Branson STR Portfolio While I Kept Working as a Sales Director",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 1 properties, $2,287/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "A colleague had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Branson as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Branson's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nToday the property generates $2,287 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The financial freedom this has created is something I never thought was realistic for someone in my position.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$2,287",
+      timeframe: "9 months",
+    },
+    beforeStory:
+      "I had been a Sales Director for over a decade, earning $209,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "9 months after hiring BnB Accelerator, I have 1 short-term rental property in Branson generating $2,287 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2024-01-20",
+    reviewDate: "2024-10-22",
+    occupation: "Sales Director",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "martin-gutierrez",
+    name: "Martin Gutierrez",
+    location: "Boston, MA",
+    rating: 5,
+    title: "I Never Managed a Single Guest. BnB Accelerator Handles Everything on My 2 Properties.",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 2 properties, $7,712/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "A business partner had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Big Bear as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured two properties that fit my criteria perfectly.\\n\\nTheir design team furnished each property with a style calibrated to what performs in Big Bear, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nToday the properties generate $7,712 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has That extra cash flow has accelerated every other financial goal I had.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$7,712",
+      timeframe: "19 months",
+    },
+    beforeStory:
+      "I had been a Orthodontist for over a decade, earning $234,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 2 STR properties across Big Bear that BnB Accelerator built and manages for me, producing $7,712 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2025-06-09",
+    reviewDate: "2026-06-13",
+    occupation: "Orthodontist",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "diana-walsh",
+    name: "Diana Walsh",
+    location: "New Orleans, LA",
+    rating: 5,
+    title: "How a Busy Technical Writer Built $7,030/Month in STR Income Without Lifting a Finger",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 2 properties, $7,030/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Cape Coral as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured two properties that fit my criteria perfectly.\\n\\nTheir design team furnished each property with a style calibrated to what performs in Cape Coral, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nThe properties now generate $7,030 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. That extra cash flow has accelerated every other financial goal I had.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$7,030",
+      timeframe: "16 months",
+    },
+    beforeStory:
+      "As a Technical Writer in New Orleans, LA, I was pulling in about $77,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 2 STR properties across Cape Coral that BnB Accelerator built and manages for me, producing $7,030 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2026-04-06",
+    reviewDate: "2026-06-23",
+    occupation: "Technical Writer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "dean-elena-pierce",
+    name: "Dean & Elena Pierce",
+    location: "Boulder, CO",
+    rating: 5,
+    title: "BnB Accelerator Found, Furnished, and Launched 2 Properties for Me in Poconos",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 2 properties, $8,156/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "A neighbor had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Poconos as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured two properties that fit my criteria perfectly.\\n\\nTheir design team furnished each property with a style calibrated to what performs in Poconos, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nThe properties now generate $8,156 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The passive income has given me options I did not have two years ago.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$8,156",
+      timeframe: "4 months",
+    },
+    beforeStory:
+      "I was working as a Event Planner in Boulder, CO making around $86,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "4 months after hiring BnB Accelerator, I have 2 short-term rental properties in Poconos generating $8,156 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-11-17",
+    reviewDate: "2026-03-08",
+    occupation: "Event Planner",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "derek-claire-oliver",
+    name: "Derek & Claire Oliver",
+    location: "Baton Rouge, LA",
+    rating: 5,
+    title: "No Courses, No Coaching -- BnB Accelerator Just Did It All For Me",
+    summary:
+      "Working full time as a Logistics Coordinator left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 4 properties generating $17,636/month -- without me ever becoming the operator.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Gulf Shores as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Gulf Shores's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nToday the properties generate $17,636 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has given me options I never thought possible five years ago.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$17,636",
+      timeframe: "8 months",
+    },
+    beforeStory:
+      "I was working as a Logistics Coordinator in Baton Rouge, LA making around $61,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 4 properties for me in Gulf Shores, generating $17,636 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2025-03-02",
+    reviewDate: "2025-11-15",
+    occupation: "Logistics Coordinator",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "taylor-murray",
+    name: "Taylor Murray",
+    location: "Fresno, CA",
+    rating: 5,
+    title: "A Network Engineer's Path to Passive Income: 2 Properties, Completely Hands-Off",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 2 properties in Anna Maria Island, $5,246/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "I found BnB Accelerator through a friend's recommendation and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Network Engineer, that was the only version of real estate investing that could realistically work for me.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Anna Maria Island as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured two properties that fit my criteria perfectly.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Anna Maria Island's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nToday the properties generate $5,246 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has For the first time in my career, I have income that does not depend on showing up to work.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$5,246",
+      timeframe: "23 months",
+    },
+    beforeStory:
+      "I was working as a Network Engineer in Fresno, CA making around $68,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "Today I have 2 STR properties across Anna Maria Island that BnB Accelerator built and manages for me, producing $5,246 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2026-06-23",
+    reviewDate: "2026-08-28",
+    occupation: "Network Engineer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "cassandra-matthews",
+    name: "Cassandra Matthews",
+    location: "Salt Lake City, UT",
+    rating: 5,
+    title: "BnB Accelerator Turned My Savings Into $7,298/Month of Passive STR Income",
+    summary:
+      "Working full time as a Landscape Architect left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 2 properties generating $7,298/month -- without me ever becoming the operator.",
+    fullReview:
+      "A business partner had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Myrtle Beach as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nTheir design team furnished each property with a style calibrated to what performs in Myrtle Beach, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nThe properties now generate $7,298 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The extra income has put me on a completely different financial trajectory.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$7,298",
+      timeframe: "19 months",
+    },
+    beforeStory:
+      "As a Landscape Architect in Salt Lake City, UT, I was pulling in about $189,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 2 STR properties across Myrtle Beach that BnB Accelerator built and manages for me, producing $7,298 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2025-04-18",
+    reviewDate: "2026-07-26",
+    occupation: "Landscape Architect",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "monica-ward",
+    name: "Monica Ward",
+    location: "Indianapolis, IN",
+    rating: 4.5,
+    title: "A Nurse Practitioner's Path to Passive Income: 3 Properties, Completely Hands-Off",
+    summary:
+      "BnB Accelerator found 3 properties in Tybee Island, handled every step from acquisition to launch, and now manages everything. $9,510/month in passive income and I spend 15 minutes a month reviewing dashboards.",
+    fullReview:
+      "A a friend's recommendation had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Tybee Island as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured three properties that fit my criteria perfectly.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Tybee Island market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the properties generate $9,510 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has put me on a completely different financial trajectory.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$9,510",
+      timeframe: "18 months",
+    },
+    beforeStory:
+      "As a Nurse Practitioner in Indianapolis, IN, I was pulling in about $97,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "BnB Accelerator now manages 3 properties for me in Tybee Island, generating $9,510 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2024-08-23",
+    reviewDate: "2026-02-21",
+    occupation: "Nurse Practitioner",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "jamie-santos",
+    name: "Jamie Santos",
+    location: "New Orleans, LA",
+    rating: 4.5,
+    title: "BnB Accelerator Built My Entire Isle of Palms STR Portfolio While I Kept Working as a Architect",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 3 properties, $7,545/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "A a podcast interview had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Isle of Palms as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Isle of Palms's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nToday the properties generate $7,545 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has I am on track to replace my primary income within the next 18 months.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$7,545",
+      timeframe: "11 months",
+    },
+    beforeStory:
+      "I was working as a Architect in New Orleans, LA making around $164,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "11 months after hiring BnB Accelerator, I have 3 short-term rental properties in Isle of Palms generating $7,545 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2024-06-06",
+    reviewDate: "2025-05-19",
+    occupation: "Architect",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "savannah-butler",
+    name: "Savannah Butler",
+    location: "Seattle, WA",
+    rating: 5,
+    title: "I Hired BnB Accelerator and They Built Me 4 Cash-Flowing Properties in 6 Months",
+    summary:
+      "BnB Accelerator found 4 properties in Smoky Mountains, handled every step from acquisition to launch, and now manages everything. $14,656/month in passive income and I spend 15 minutes a month reviewing dashboards.",
+    fullReview:
+      "A a friend's recommendation had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Smoky Mountains as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Smoky Mountains market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nThe properties now generate $14,656 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The extra income has given me the breathing room I never had on my salary alone.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$14,656",
+      timeframe: "6 months",
+    },
+    beforeStory:
+      "I had been a General Contractor for over a decade, earning $74,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "BnB Accelerator now manages 4 properties for me in Smoky Mountains, generating $14,656 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2026-06-24",
+    reviewDate: "2026-07-18",
+    occupation: "General Contractor",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "timothy-richardson",
+    name: "Timothy Richardson",
+    location: "Knoxville, TN",
+    rating: 5,
+    title: "BnB Accelerator's Done-for-You Model Was Exactly What a Occupational Therapist Needed",
+    summary:
+      "Working full time as a Occupational Therapist left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 4 properties generating $11,208/month -- without me ever becoming the operator.",
+    fullReview:
+      "I found BnB Accelerator through former classmate and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Occupational Therapist, that was the only version of real estate investing that could realistically work for me.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Nashville as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nTheir design team furnished each of the four properties with a style calibrated to what performs in Nashville, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\n15 months in, the portfolio generates $11,208 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The financial freedom this has created is something I never thought was realistic for someone in my position.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$11,208",
+      timeframe: "15 months",
+    },
+    beforeStory:
+      "I was working as a Occupational Therapist in Knoxville, TN making around $105,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "Today I have 4 STR properties across Nashville that BnB Accelerator built and manages for me, producing $11,208 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2025-09-22",
+    reviewDate: "2026-08-25",
+    occupation: "Occupational Therapist",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "sean-riley",
+    name: "Sean Riley",
+    location: "Miami, FL",
+    rating: 5,
+    title: "From Zero Real Estate Experience to $7,722/Month -- All Done by BnB Accelerator",
+    summary:
+      "As a Plant Manager with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 2 properties in Poconos for me. $7,722 a month, completely passive.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Poconos. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced two properties that met my investment criteria.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Poconos's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\n12 months in, the portfolio generates $7,722 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. I am on track to replace my primary income within the next 18 months.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$7,722",
+      timeframe: "12 months",
+    },
+    beforeStory:
+      "I had been a Plant Manager for over a decade, earning $131,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 2 STR properties across Poconos that BnB Accelerator built and manages for me, producing $7,722 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2024-11-25",
+    reviewDate: "2025-11-19",
+    occupation: "Plant Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "riley-taylor-nelson",
+    name: "Riley & Taylor Nelson",
+    location: "Santa Barbara, CA",
+    rating: 5,
+    title: "BnB Accelerator Found, Furnished, and Launched 6 Properties for Me in Big Bear",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 6 properties, $26,418/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "I found BnB Accelerator through friend and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Insurance Agent, that was the only version of real estate investing that could realistically work for me.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Big Bear. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced six properties that met my investment criteria.\\n\\nTheir design team furnished each of the six properties with a style calibrated to what performs in Big Bear, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nToday the properties generate $26,418 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has I am already working with their team to add another property next quarter.",
+    results: {
+      properties: 6,
+      monthlyRevenue: "$26,418",
+      timeframe: "5 months",
+    },
+    beforeStory:
+      "As a Insurance Agent in Santa Barbara, CA, I was pulling in about $74,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "5 months after hiring BnB Accelerator, I have 6 short-term rental properties in Big Bear generating $26,418 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-10-26",
+    reviewDate: "2026-03-20",
+    occupation: "Insurance Agent",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "eli-stephanie-oliver",
+    name: "Eli & Stephanie Oliver",
+    location: "St. Louis, MO",
+    rating: 5,
+    title: "3 Properties in St. Augustine, Zero Hours of My Time -- BnB Accelerator Did Everything",
+    summary:
+      "BnB Accelerator found 3 properties in St. Augustine, handled every step from acquisition to launch, and now manages everything. $13,479/month in passive income and I spend 15 minutes a month reviewing dashboards.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending St. Augustine. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to St. Augustine's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nToday the properties generate $13,479 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has I am on track to replace my primary income within the next 18 months.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$13,479",
+      timeframe: "6 months",
+    },
+    beforeStory:
+      "I was working as a Gym Owner in St. Louis, MO making around $182,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "6 months after hiring BnB Accelerator, I have 3 short-term rental properties in St. Augustine generating $13,479 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-05-01",
+    reviewDate: "2025-11-03",
+    occupation: "Gym Owner",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "jonathan-harper",
+    name: "Jonathan Harper",
+    location: "Orlando, FL",
+    rating: 5,
+    title: "I Hired BnB Accelerator and They Built Me 1 Cash-Flowing Properties in 12 Months",
+    summary:
+      "As a Airline Pilot with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 1 properties in Broken Bow for me. $2,845 a month, completely passive.",
+    fullReview:
+      "A business partner had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Broken Bow as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured a property that fit my criteria perfectly.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Broken Bow market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the property generates $2,845 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has given me options I never thought possible five years ago.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$2,845",
+      timeframe: "12 months",
+    },
+    beforeStory:
+      "As a Airline Pilot in Orlando, FL, I was pulling in about $192,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 1 STR property across Broken Bow that BnB Accelerator built and manages for me, producing $2,845 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2025-04-08",
+    reviewDate: "2026-04-04",
+    occupation: "Airline Pilot",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "nathan-owens",
+    name: "Nathan Owens",
+    location: "Tampa, FL",
+    rating: 5,
+    title: "1 Properties in St. Augustine, Zero Hours of My Time -- BnB Accelerator Did Everything",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 1 properties in St. Augustine, $3,487/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "A a friend's recommendation had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified St. Augustine as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured a property that fit my criteria perfectly.\\n\\nTheir design team furnished the property with a style calibrated to what performs in St. Augustine, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nToday the property generates $3,487 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The passive income has given me options I did not have two years ago.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$3,487",
+      timeframe: "11 months",
+    },
+    beforeStory:
+      "I had been a Product Manager for over a decade, earning $146,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 1 STR property across St. Augustine that BnB Accelerator built and manages for me, producing $3,487 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2025-07-02",
+    reviewDate: "2026-06-21",
+    occupation: "Product Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "shannon-hernandez",
+    name: "Shannon Hernandez",
+    location: "Seattle, WA",
+    rating: 5,
+    title: "BnB Accelerator Turned My Savings Into $11,684/Month of Passive STR Income",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 4 properties, $11,684/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Anna Maria Island. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced four properties that met my investment criteria.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Anna Maria Island market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the properties generate $11,684 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has That extra cash flow has accelerated every other financial goal I had.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$11,684",
+      timeframe: "17 months",
+    },
+    beforeStory:
+      "I had been a Pediatrician for over a decade, earning $176,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "BnB Accelerator now manages 4 properties for me in Anna Maria Island, generating $11,684 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2026-05-20",
+    reviewDate: "2026-07-08",
+    occupation: "Pediatrician",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "alicia-hayes",
+    name: "Alicia Hayes",
+    location: "Des Moines, IA",
+    rating: 4.5,
+    title: "I Hired BnB Accelerator and They Built Me 3 Cash-Flowing Properties in 10 Months",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 3 properties, $11,073/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Outer Banks. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nTheir design team furnished each of the three properties with a style calibrated to what performs in Outer Banks, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nThe properties now generate $11,073 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. For the first time in my career, I have income that does not depend on showing up to work.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$11,073",
+      timeframe: "10 months",
+    },
+    beforeStory:
+      "I was working as a Physician Assistant in Des Moines, IA making around $133,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 3 properties for me in Outer Banks, generating $11,073 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2024-06-18",
+    reviewDate: "2025-04-10",
+    occupation: "Physician Assistant",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "austin-hernandez",
+    name: "Austin Hernandez",
+    location: "Baltimore, MD",
+    rating: 5,
+    title: "A Medical Device Sales Rep's Path to Passive Income: 2 Properties, Completely Hands-Off",
+    summary:
+      "As a Medical Device Sales Rep with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 2 properties in Broken Bow for me. $7,408 a month, completely passive.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Broken Bow as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Broken Bow market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\n21 months in, the portfolio generates $7,408 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has allowed me to take a step back from overtime and enjoy my life.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$7,408",
+      timeframe: "21 months",
+    },
+    beforeStory:
+      "I was working as a Medical Device Sales Rep in Baltimore, MD making around $88,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "21 months after hiring BnB Accelerator, I have 2 short-term rental properties in Broken Bow generating $7,408 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2026-06-02",
+    reviewDate: "2026-08-04",
+    occupation: "Medical Device Sales Rep",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "andrea-washington",
+    name: "Andrea Washington",
+    location: "Indianapolis, IN",
+    rating: 4.5,
+    title: "I Hired BnB Accelerator and They Built Me 1 Cash-Flowing Properties in 6 Months",
+    summary:
+      "As a Landscape Architect with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 1 properties in Destin for me. $3,592 a month, completely passive.",
+    fullReview:
+      "A a YouTube video had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Destin. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced a property that met my investment criteria.\\n\\nTheir design team furnished the property with a style calibrated to what performs in Destin, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\n6 months in, the portfolio generates $3,592 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has allowed me to pay off debt ahead of schedule.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$3,592",
+      timeframe: "6 months",
+    },
+    beforeStory:
+      "I had been a Landscape Architect for over a decade, earning $201,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "6 months after hiring BnB Accelerator, I have 1 short-term rental property in Destin generating $3,592 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-11-05",
+    reviewDate: "2026-05-01",
+    occupation: "Landscape Architect",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "chelsea-davidson",
+    name: "Chelsea Davidson",
+    location: "Spokane, WA",
+    rating: 5,
+    title: "3 Done-for-You Properties Later, I Finally Have the Freedom I Wanted",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 3 properties, $8,823/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "A a colleague at work had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Smoky Mountains. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nTheir design team furnished each of the three properties with a style calibrated to what performs in Smoky Mountains, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nToday the properties generate $8,823 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The passive income has given me options I did not have two years ago.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$8,823",
+      timeframe: "18 months",
+    },
+    beforeStory:
+      "I was working as a Quality Assurance Manager in Spokane, WA making around $87,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "18 months after hiring BnB Accelerator, I have 3 short-term rental properties in Smoky Mountains generating $8,823 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2024-11-05",
+    reviewDate: "2026-05-03",
+    occupation: "Quality Assurance Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "lydia-black",
+    name: "Lydia Black",
+    location: "Buffalo, NY",
+    rating: 5,
+    title: "Real Returns, Real Properties, Zero Work -- My BnB Accelerator Experience",
+    summary:
+      "Working full time as a Mechanical Engineer left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 1 properties generating $2,716/month -- without me ever becoming the operator.",
+    fullReview:
+      "A a referral from my financial advisor had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Nashville. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced a property that met my investment criteria.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Nashville market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the property generates $2,716 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has let me start seriously saving for early retirement.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$2,716",
+      timeframe: "17 months",
+    },
+    beforeStory:
+      "As a Mechanical Engineer in Buffalo, NY, I was pulling in about $39,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 1 STR property across Nashville that BnB Accelerator built and manages for me, producing $2,716 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2024-10-16",
+    reviewDate: "2026-03-21",
+    occupation: "Mechanical Engineer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "angela-matthews",
+    name: "Angela Matthews",
+    location: "Boulder, CO",
+    rating: 4.5,
+    title: "From Overworked Public Relations Manager to Passive Investor -- BnB Accelerator Made It Happen",
+    summary:
+      "As a Public Relations Manager with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 2 properties in Joshua Tree for me. $7,208 a month, completely passive.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Joshua Tree. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced two properties that met my investment criteria.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Joshua Tree market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\n4 months in, the portfolio generates $7,208 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. That extra cash flow has accelerated every other financial goal I had.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$7,208",
+      timeframe: "4 months",
+    },
+    beforeStory:
+      "I was working as a Public Relations Manager in Boulder, CO making around $77,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "Today I have 2 STR properties across Joshua Tree that BnB Accelerator built and manages for me, producing $7,208 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2026-03-13",
+    reviewDate: "2026-07-11",
+    occupation: "Public Relations Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "paige-quinn",
+    name: "Paige Quinn",
+    location: "Houston, TX",
+    rating: 5,
+    title: "BnB Accelerator's Done-for-You Model Was Exactly What a Urban Planner Needed",
+    summary:
+      "Working full time as a Urban Planner left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 3 properties generating $12,117/month -- without me ever becoming the operator.",
+    fullReview:
+      "A a Facebook group for investors had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Myrtle Beach as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured three properties that fit my criteria perfectly.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Myrtle Beach market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\n7 months in, the portfolio generates $12,117 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has allowed me to take a step back from overtime and enjoy my life.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$12,117",
+      timeframe: "7 months",
+    },
+    beforeStory:
+      "I had been a Urban Planner for over a decade, earning $68,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "BnB Accelerator now manages 3 properties for me in Myrtle Beach, generating $12,117 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2026-05-01",
+    reviewDate: "2026-08-14",
+    occupation: "Urban Planner",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "hugo-brooks",
+    name: "Hugo Brooks",
+    location: "Riverside, CA",
+    rating: 5,
+    title: "A Clinical Psychologist's Path to Passive Income: 1 Properties, Completely Hands-Off",
+    summary:
+      "Working full time as a Clinical Psychologist left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 1 properties generating $3,058/month -- without me ever becoming the operator.",
+    fullReview:
+      "I found BnB Accelerator through colleague and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Clinical Psychologist, that was the only version of real estate investing that could realistically work for me.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Joshua Tree as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nTheir design team furnished the property with a style calibrated to what performs in Joshua Tree, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nToday the property generates $3,058 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has let me start seriously saving for early retirement.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$3,058",
+      timeframe: "8 months",
+    },
+    beforeStory:
+      "I had been a Clinical Psychologist for over a decade, earning $151,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "BnB Accelerator now manages 1 property for me in Joshua Tree, generating $3,058 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2026-01-09",
+    reviewDate: "2026-06-07",
+    occupation: "Clinical Psychologist",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "ricardo-ford",
+    name: "Ricardo Ford",
+    location: "Miami, FL",
+    rating: 5,
+    title: "BnB Accelerator Turned My Savings Into $12,504/Month of Passive STR Income",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 3 properties in Smoky Mountains, $12,504/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "A family member had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Smoky Mountains. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Smoky Mountains market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the properties generate $12,504 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has given me options I never thought possible five years ago.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$12,504",
+      timeframe: "17 months",
+    },
+    beforeStory:
+      "I had been a Technical Writer for over a decade, earning $102,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 3 STR properties across Smoky Mountains that BnB Accelerator built and manages for me, producing $12,504 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2026-03-01",
+    reviewDate: "2026-07-26",
+    occupation: "Technical Writer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "charles-dana-sullivan",
+    name: "Charles & Dana Sullivan",
+    location: "Salt Lake City, UT",
+    rating: 5,
+    title: "BnB Accelerator's Done-for-You Model Was Exactly What a Plant Manager Needed",
+    summary:
+      "As a Plant Manager with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 1 properties in Clearwater for me. $3,165 a month, completely passive.",
+    fullReview:
+      "I found BnB Accelerator through friend and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Plant Manager, that was the only version of real estate investing that could realistically work for me.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Clearwater as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured a property that fit my criteria perfectly.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Clearwater's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\n16 months in, the portfolio generates $3,165 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has allowed me to pay off debt ahead of schedule.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$3,165",
+      timeframe: "16 months",
+    },
+    beforeStory:
+      "I had been a Plant Manager for over a decade, earning $130,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 1 STR property across Clearwater that BnB Accelerator built and manages for me, producing $3,165 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2025-03-04",
+    reviewDate: "2026-07-28",
+    occupation: "Plant Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "shannon-douglas",
+    name: "Shannon Douglas",
+    location: "New Orleans, LA",
+    rating: 5,
+    title: "BnB Accelerator Found, Furnished, and Launched 2 Properties for Me in Clearwater",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 2 properties in Clearwater, $7,162/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "A a referral from my financial advisor had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Clearwater. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced two properties that met my investment criteria.\\n\\nTheir design team furnished each property with a style calibrated to what performs in Clearwater, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nToday the properties generate $7,162 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has put me on a completely different financial trajectory.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$7,162",
+      timeframe: "9 months",
+    },
+    beforeStory:
+      "I had been a Landscape Architect for over a decade, earning $133,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "9 months after hiring BnB Accelerator, I have 2 short-term rental properties in Clearwater generating $7,162 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-03-01",
+    reviewDate: "2025-12-07",
+    occupation: "Landscape Architect",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "charles-walker",
+    name: "Charles Walker",
+    location: "Savannah, GA",
+    rating: 5,
+    title: "$2,272 a Month From Properties I Have Never Visited -- Thanks to BnB Accelerator",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 1 properties, $2,272/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Branson. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced a property that met my investment criteria.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Branson's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nToday the property generates $2,272 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has allowed me to pay off debt ahead of schedule.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$2,272",
+      timeframe: "13 months",
+    },
+    beforeStory:
+      "As a Urban Planner in Savannah, GA, I was pulling in about $75,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "13 months after hiring BnB Accelerator, I have 1 short-term rental property in Branson generating $2,272 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2024-04-23",
+    reviewDate: "2025-05-28",
+    occupation: "Urban Planner",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "jason-schmidt",
+    name: "Jason Schmidt",
+    location: "Richmond, VA",
+    rating: 5,
+    title: "I Hired BnB Accelerator and They Built Me 1 Cash-Flowing Properties in 18 Months",
+    summary:
+      "Working full time as a Family Practice Doctor left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 1 properties generating $4,303/month -- without me ever becoming the operator.",
+    fullReview:
+      "I found BnB Accelerator through colleague and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Family Practice Doctor, that was the only version of real estate investing that could realistically work for me.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Scottsdale as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Scottsdale market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\n18 months in, the portfolio generates $4,303 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. That extra cash flow has accelerated every other financial goal I had.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$4,303",
+      timeframe: "18 months",
+    },
+    beforeStory:
+      "I was working as a Family Practice Doctor in Richmond, VA making around $172,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 1 property for me in Scottsdale, generating $4,303 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2026-04-19",
+    reviewDate: "2026-08-25",
+    occupation: "Family Practice Doctor",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "nicholas-simmons",
+    name: "Nicholas Simmons",
+    location: "Richmond, VA",
+    rating: 5,
+    title: "3 Done-for-You Properties Later, I Finally Have the Freedom I Wanted",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 3 properties, $10,617/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "A a YouTube video had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Poconos as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured three properties that fit my criteria perfectly.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Poconos's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nThe properties now generate $10,617 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The extra income has given me the breathing room I never had on my salary alone.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$10,617",
+      timeframe: "18 months",
+    },
+    beforeStory:
+      "As a Police Officer in Richmond, VA, I was pulling in about $114,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 3 STR properties across Poconos that BnB Accelerator built and manages for me, producing $10,617 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2024-07-09",
+    reviewDate: "2026-01-20",
+    occupation: "Police Officer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "allison-wood",
+    name: "Allison Wood",
+    location: "Pittsburgh, PA",
+    rating: 4.5,
+    title: "BnB Accelerator Built My Entire Anna Maria Island STR Portfolio While I Kept Working as a Family Practice Doctor",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 4 properties in Anna Maria Island, $14,772/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "A a referral from my financial advisor had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Anna Maria Island as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Anna Maria Island market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the properties generate $14,772 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has allowed me to pay off debt ahead of schedule.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$14,772",
+      timeframe: "15 months",
+    },
+    beforeStory:
+      "As a Family Practice Doctor in Pittsburgh, PA, I was pulling in about $220,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 4 STR properties across Anna Maria Island that BnB Accelerator built and manages for me, producing $14,772 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2024-07-08",
+    reviewDate: "2025-10-12",
+    occupation: "Family Practice Doctor",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "patricia-ford",
+    name: "Patricia Ford",
+    location: "Houston, TX",
+    rating: 4.5,
+    title: "BnB Accelerator Built My Entire Savannah STR Portfolio While I Kept Working as a Speech Pathologist",
+    summary:
+      "Working full time as a Speech Pathologist left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 4 properties generating $11,952/month -- without me ever becoming the operator.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Savannah as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured four properties that fit my criteria perfectly.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Savannah's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nThe properties now generate $11,952 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. I am already working with their team to add another property next quarter.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$11,952",
+      timeframe: "15 months",
+    },
+    beforeStory:
+      "As a Speech Pathologist in Houston, TX, I was pulling in about $116,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "15 months after hiring BnB Accelerator, I have 4 short-term rental properties in Savannah generating $11,952 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2024-06-02",
+    reviewDate: "2025-09-25",
+    occupation: "Speech Pathologist",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "cassandra-gibson",
+    name: "Cassandra Gibson",
+    location: "Wilmington, NC",
+    rating: 5,
+    title: "BnB Accelerator Built My Entire Clearwater STR Portfolio While I Kept Working as a Mortgage Loan Officer",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 4 properties, $10,252/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "A a podcast interview had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Clearwater as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Clearwater's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\n14 months in, the portfolio generates $10,252 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The financial freedom this has created is something I never thought was realistic for someone in my position.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$10,252",
+      timeframe: "14 months",
+    },
+    beforeStory:
+      "I was working as a Mortgage Loan Officer in Wilmington, NC making around $79,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 4 properties for me in Clearwater, generating $10,252 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2026-06-05",
+    reviewDate: "2026-06-19",
+    occupation: "Mortgage Loan Officer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "amy-harvey",
+    name: "Amy Harvey",
+    location: "Colorado Springs, CO",
+    rating: 5,
+    title: "How a Busy Operations Manager Built $7,719/Month in STR Income Without Lifting a Finger",
+    summary:
+      "Working full time as a Operations Manager left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 3 properties generating $7,719/month -- without me ever becoming the operator.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Pigeon Forge. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Pigeon Forge market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nThe properties now generate $7,719 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The extra income has completely changed my financial picture.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$7,719",
+      timeframe: "23 months",
+    },
+    beforeStory:
+      "I had been a Operations Manager for over a decade, earning $83,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 3 STR properties across Pigeon Forge that BnB Accelerator built and manages for me, producing $7,719 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2024-08-16",
+    reviewDate: "2026-07-01",
+    occupation: "Operations Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "crystal-johnson",
+    name: "Crystal Johnson",
+    location: "Santa Barbara, CA",
+    rating: 4.5,
+    title: "I Hired BnB Accelerator and They Built Me 3 Cash-Flowing Properties in 8 Months",
+    summary:
+      "Working full time as a Operations Manager left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 3 properties generating $9,069/month -- without me ever becoming the operator.",
+    fullReview:
+      "A colleague had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Cape Coral. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nTheir design team furnished each of the three properties with a style calibrated to what performs in Cape Coral, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\n8 months in, the portfolio generates $9,069 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has let me start seriously saving for early retirement.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$9,069",
+      timeframe: "8 months",
+    },
+    beforeStory:
+      "I was working as a Operations Manager in Santa Barbara, CA making around $108,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "Today I have 3 STR properties across Cape Coral that BnB Accelerator built and manages for me, producing $9,069 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2025-06-05",
+    reviewDate: "2026-02-17",
+    occupation: "Operations Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "rodney-watson",
+    name: "Rodney Watson",
+    location: "Salt Lake City, UT",
+    rating: 5,
+    title: "I Hired BnB Accelerator and They Built Me 5 Cash-Flowing Properties in 19 Months",
+    summary:
+      "As a Personal Trainer with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 5 properties in Park City for me. $14,785 a month, completely passive.",
+    fullReview:
+      "A a friend's recommendation had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Park City as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Park City's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\n19 months in, the portfolio generates $14,785 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The financial freedom this has created is something I never thought was realistic for someone in my position.",
+    results: {
+      properties: 5,
+      monthlyRevenue: "$14,785",
+      timeframe: "19 months",
+    },
+    beforeStory:
+      "I had been a Personal Trainer for over a decade, earning $109,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 5 STR properties across Park City that BnB Accelerator built and manages for me, producing $14,785 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2026-05-22",
+    reviewDate: "2026-07-02",
+    occupation: "Personal Trainer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "nicholas-ross",
+    name: "Nicholas Ross",
+    location: "Boston, MA",
+    rating: 5,
+    title: "No Courses, No Coaching -- BnB Accelerator Just Did It All For Me",
+    summary:
+      "BnB Accelerator found 5 properties in Lake Tahoe, handled every step from acquisition to launch, and now manages everything. $22,095/month in passive income and I spend 15 minutes a month reviewing dashboards.",
+    fullReview:
+      "A colleague had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Lake Tahoe. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced five properties that met my investment criteria.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Lake Tahoe's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\n16 months in, the portfolio generates $22,095 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The passive income has given me options I did not have two years ago.",
+    results: {
+      properties: 5,
+      monthlyRevenue: "$22,095",
+      timeframe: "16 months",
+    },
+    beforeStory:
+      "As a Insurance Agent in Boston, MA, I was pulling in about $101,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 5 STR properties across Lake Tahoe that BnB Accelerator built and manages for me, producing $22,095 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2024-05-10",
+    reviewDate: "2025-09-27",
+    occupation: "Insurance Agent",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "maria-spencer",
+    name: "Maria Spencer",
+    location: "Baton Rouge, LA",
+    rating: 4.5,
+    title: "From Zero Real Estate Experience to $16,864/Month -- All Done by BnB Accelerator",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 4 properties, $16,864/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "I found BnB Accelerator through a friend's recommendation and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Accountant, that was the only version of real estate investing that could realistically work for me.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Blue Ridge. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced four properties that met my investment criteria.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Blue Ridge's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nThe properties now generate $16,864 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. For the first time in my career, I have income that does not depend on showing up to work.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$16,864",
+      timeframe: "21 months",
+    },
+    beforeStory:
+      "As a Accountant in Baton Rouge, LA, I was pulling in about $98,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "21 months after hiring BnB Accelerator, I have 4 short-term rental properties in Blue Ridge generating $16,864 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2026-02-03",
+    reviewDate: "2026-07-10",
+    occupation: "Accountant",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "george-burns",
+    name: "George Burns",
+    location: "Indianapolis, IN",
+    rating: 5,
+    title: "I Never Managed a Single Guest. BnB Accelerator Handles Everything on My 3 Properties.",
+    summary:
+      "Working full time as a Occupational Therapist left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 3 properties generating $13,038/month -- without me ever becoming the operator.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Hilton Head as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Hilton Head market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\n15 months in, the portfolio generates $13,038 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has allowed me to pay off debt ahead of schedule.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$13,038",
+      timeframe: "15 months",
+    },
+    beforeStory:
+      "I was working as a Occupational Therapist in Indianapolis, IN making around $103,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "15 months after hiring BnB Accelerator, I have 3 short-term rental properties in Hilton Head generating $13,038 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2024-05-16",
+    reviewDate: "2025-08-02",
+    occupation: "Occupational Therapist",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "emma-young",
+    name: "Emma Young",
+    location: "Kansas City, MO",
+    rating: 5,
+    title: "BnB Accelerator Turned My Savings Into $4,648/Month of Passive STR Income",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 2 properties in Hilton Head, $4,648/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "I found BnB Accelerator through friend and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Veterinarian, that was the only version of real estate investing that could realistically work for me.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Hilton Head as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured two properties that fit my criteria perfectly.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Hilton Head market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the properties generate $4,648 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The financial freedom this has created is something I never thought was realistic for someone in my position.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$4,648",
+      timeframe: "20 months",
+    },
+    beforeStory:
+      "As a Veterinarian in Kansas City, MO, I was pulling in about $203,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "20 months after hiring BnB Accelerator, I have 2 short-term rental properties in Hilton Head generating $4,648 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2026-02-16",
+    reviewDate: "2026-08-22",
+    occupation: "Veterinarian",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "renee-wells",
+    name: "Renee Wells",
+    location: "Savannah, GA",
+    rating: 5,
+    title: "$9,428 a Month From Properties I Have Never Visited -- Thanks to BnB Accelerator",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 4 properties, $9,428/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "I found BnB Accelerator through a friend's recommendation and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Manufacturing Engineer, that was the only version of real estate investing that could realistically work for me.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending St. Augustine. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced four properties that met my investment criteria.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to St. Augustine's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nToday the properties generate $9,428 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has I am already working with their team to add another property next quarter.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$9,428",
+      timeframe: "6 months",
+    },
+    beforeStory:
+      "As a Manufacturing Engineer in Savannah, GA, I was pulling in about $106,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "BnB Accelerator now manages 4 properties for me in St. Augustine, generating $9,428 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2025-09-04",
+    reviewDate: "2026-03-12",
+    occupation: "Manufacturing Engineer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "victor-harper",
+    name: "Victor Harper",
+    location: "Charleston, SC",
+    rating: 5,
+    title: "How a Busy Paramedic Built $9,632/Month in STR Income Without Lifting a Finger",
+    summary:
+      "As a Paramedic with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 4 properties in Poconos for me. $9,632 a month, completely passive.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Poconos as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured four properties that fit my criteria perfectly.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Poconos's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nThe properties now generate $9,632 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The extra income has given me options I never thought possible five years ago.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$9,632",
+      timeframe: "16 months",
+    },
+    beforeStory:
+      "I was working as a Paramedic in Charleston, SC making around $89,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 4 properties for me in Poconos, generating $9,632 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2025-09-02",
+    reviewDate: "2026-08-07",
+    occupation: "Paramedic",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "sandra-burns",
+    name: "Sandra Burns",
+    location: "Portland, OR",
+    rating: 5,
+    title: "BnB Accelerator Found, Furnished, and Launched 2 Properties for Me in Folly Beach",
+    summary:
+      "BnB Accelerator found 2 properties in Folly Beach, handled every step from acquisition to launch, and now manages everything. $8,466/month in passive income and I spend 15 minutes a month reviewing dashboards.",
+    fullReview:
+      "I found BnB Accelerator through a friend's recommendation and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Operations Manager, that was the only version of real estate investing that could realistically work for me.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Folly Beach as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Folly Beach market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the properties generate $8,466 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has given me the breathing room I never had on my salary alone.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$8,466",
+      timeframe: "20 months",
+    },
+    beforeStory:
+      "I was working as a Operations Manager in Portland, OR making around $114,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 2 properties for me in Folly Beach, generating $8,466 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2026-06-28",
+    reviewDate: "2026-08-17",
+    occupation: "Operations Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "tracy-stevens",
+    name: "Tracy Stevens",
+    location: "Honolulu, HI",
+    rating: 5,
+    title: "BnB Accelerator Turned My Savings Into $20,580/Month of Passive STR Income",
+    summary:
+      "As a Environmental Consultant with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 6 properties in Pigeon Forge for me. $20,580 a month, completely passive.",
+    fullReview:
+      "A colleague had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Pigeon Forge as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured six properties that fit my criteria perfectly.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Pigeon Forge's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nToday the properties generate $20,580 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has For the first time in my career, I have income that does not depend on showing up to work.",
+    results: {
+      properties: 6,
+      monthlyRevenue: "$20,580",
+      timeframe: "11 months",
+    },
+    beforeStory:
+      "I had been a Environmental Consultant for over a decade, earning $107,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "BnB Accelerator now manages 6 properties for me in Pigeon Forge, generating $20,580 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2026-05-04",
+    reviewDate: "2026-07-03",
+    occupation: "Environmental Consultant",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "lydia-white",
+    name: "Lydia White",
+    location: "Milwaukee, WI",
+    rating: 5,
+    title: "BnB Accelerator Turned My Savings Into $11,152/Month of Passive STR Income",
+    summary:
+      "As a Nurse Practitioner with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 4 properties in Asheville for me. $11,152 a month, completely passive.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Asheville as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nTheir design team furnished each of the four properties with a style calibrated to what performs in Asheville, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\n14 months in, the portfolio generates $11,152 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has allowed me to take a step back from overtime and enjoy my life.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$11,152",
+      timeframe: "14 months",
+    },
+    beforeStory:
+      "As a Nurse Practitioner in Milwaukee, WI, I was pulling in about $107,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 4 STR properties across Asheville that BnB Accelerator built and manages for me, producing $11,152 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2024-11-24",
+    reviewDate: "2026-01-01",
+    occupation: "Nurse Practitioner",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "philip-hill",
+    name: "Philip Hill",
+    location: "Indianapolis, IN",
+    rating: 4.5,
+    title: "BnB Accelerator's Done-for-You Model Was Exactly What a Dental Hygienist Needed",
+    summary:
+      "As a Dental Hygienist with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 1 properties in Asheville for me. $3,340 a month, completely passive.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Asheville as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Asheville's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nThe property now generates $3,340 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The extra income has given me the breathing room I never had on my salary alone.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$3,340",
+      timeframe: "23 months",
+    },
+    beforeStory:
+      "I had been a Dental Hygienist for over a decade, earning $107,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "23 months after hiring BnB Accelerator, I have 1 short-term rental property in Asheville generating $3,340 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2024-08-12",
+    reviewDate: "2026-07-19",
+    occupation: "Dental Hygienist",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "thomas-burns",
+    name: "Thomas Burns",
+    location: "Cincinnati, OH",
+    rating: 5,
+    title: "I Never Managed a Single Guest. BnB Accelerator Handles Everything on My 2 Properties.",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 2 properties in Destin, $6,620/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Destin as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Destin's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nToday the properties generate $6,620 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has allowed me to take a step back from overtime and enjoy my life.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$6,620",
+      timeframe: "14 months",
+    },
+    beforeStory:
+      "I was working as a Architect in Cincinnati, OH making around $167,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "14 months after hiring BnB Accelerator, I have 2 short-term rental properties in Destin generating $6,620 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2026-03-25",
+    reviewDate: "2026-06-10",
+    occupation: "Architect",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "preston-susan-davis",
+    name: "Preston & Susan Davis",
+    location: "Hartford, CT",
+    rating: 5,
+    title: "From Zero Real Estate Experience to $7,804/Month -- All Done by BnB Accelerator",
+    summary:
+      "As a Mechanical Engineer with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 2 properties in Folly Beach for me. $7,804 a month, completely passive.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Folly Beach as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured two properties that fit my criteria perfectly.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Folly Beach market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the properties generate $7,804 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The passive income has given me options I did not have two years ago.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$7,804",
+      timeframe: "13 months",
+    },
+    beforeStory:
+      "I was working as a Mechanical Engineer in Hartford, CT making around $56,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 2 properties for me in Folly Beach, generating $7,804 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2025-09-08",
+    reviewDate: "2026-07-07",
+    occupation: "Mechanical Engineer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "jessica-garcia",
+    name: "Jessica Garcia",
+    location: "Tampa, FL",
+    rating: 5,
+    title: "BnB Accelerator Found, Furnished, and Launched 1 Properties for Me in Panama City Beach",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 1 properties, $3,677/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Panama City Beach as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Panama City Beach's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nThe property now generates $3,677 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The extra income has allowed me to pay off debt ahead of schedule.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$3,677",
+      timeframe: "12 months",
+    },
+    beforeStory:
+      "I was working as a Manufacturing Engineer in Tampa, FL making around $107,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 1 property for me in Panama City Beach, generating $3,677 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2024-04-24",
+    reviewDate: "2025-04-13",
+    occupation: "Manufacturing Engineer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "omar-torres",
+    name: "Omar Torres",
+    location: "Milwaukee, WI",
+    rating: 4.5,
+    title: "BnB Accelerator's Done-for-You Model Was Exactly What a Physical Therapist Needed",
+    summary:
+      "BnB Accelerator found 2 properties in Outer Banks, handled every step from acquisition to launch, and now manages everything. $8,912/month in passive income and I spend 15 minutes a month reviewing dashboards.",
+    fullReview:
+      "I found BnB Accelerator through a YouTube video and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Physical Therapist, that was the only version of real estate investing that could realistically work for me.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Outer Banks as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured two properties that fit my criteria perfectly.\\n\\nTheir design team furnished each property with a style calibrated to what performs in Outer Banks, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\n22 months in, the portfolio generates $8,912 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The financial freedom this has created is something I never thought was realistic for someone in my position.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$8,912",
+      timeframe: "22 months",
+    },
+    beforeStory:
+      "As a Physical Therapist in Milwaukee, WI, I was pulling in about $90,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 2 STR properties across Outer Banks that BnB Accelerator built and manages for me, producing $8,912 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2026-04-28",
+    reviewDate: "2026-07-12",
+    occupation: "Physical Therapist",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "bradley-rogers",
+    name: "Bradley Rogers",
+    location: "Knoxville, TN",
+    rating: 5,
+    title: "3 Properties in Folly Beach, Zero Hours of My Time -- BnB Accelerator Did Everything",
+    summary:
+      "As a Social Worker with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 3 properties in Folly Beach for me. $9,096 a month, completely passive.",
+    fullReview:
+      "I found BnB Accelerator through a friend's recommendation and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Social Worker, that was the only version of real estate investing that could realistically work for me.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Folly Beach as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured three properties that fit my criteria perfectly.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Folly Beach market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the properties generate $9,096 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The financial freedom this has created is something I never thought was realistic for someone in my position.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$9,096",
+      timeframe: "11 months",
+    },
+    beforeStory:
+      "I had been a Social Worker for over a decade, earning $79,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "11 months after hiring BnB Accelerator, I have 3 short-term rental properties in Folly Beach generating $9,096 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-07-18",
+    reviewDate: "2026-06-19",
+    occupation: "Social Worker",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "mason-meyer",
+    name: "Mason Meyer",
+    location: "Sacramento, CA",
+    rating: 5,
+    title: "BnB Accelerator Turned My Savings Into $8,432/Month of Passive STR Income",
+    summary:
+      "As a HR Director with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 2 properties in Clearwater for me. $8,432 a month, completely passive.",
+    fullReview:
+      "A a colleague at work had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Clearwater as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nTheir design team furnished each property with a style calibrated to what performs in Clearwater, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\n8 months in, the portfolio generates $8,432 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. I am on track to replace my primary income within the next 18 months.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$8,432",
+      timeframe: "8 months",
+    },
+    beforeStory:
+      "As a HR Director in Sacramento, CA, I was pulling in about $204,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 2 STR properties across Clearwater that BnB Accelerator built and manages for me, producing $8,432 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2025-12-01",
+    reviewDate: "2026-08-23",
+    occupation: "HR Director",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "ethan-ramirez",
+    name: "Ethan Ramirez",
+    location: "Seattle, WA",
+    rating: 5,
+    title: "From Zero Real Estate Experience to $6,885/Month -- All Done by BnB Accelerator",
+    summary:
+      "As a Pharmaceutical Sales Rep with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 3 properties in Asheville for me. $6,885 a month, completely passive.",
+    fullReview:
+      "A business partner had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Asheville as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Asheville market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\n17 months in, the portfolio generates $6,885 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has completely changed my financial picture.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$6,885",
+      timeframe: "17 months",
+    },
+    beforeStory:
+      "As a Pharmaceutical Sales Rep in Seattle, WA, I was pulling in about $87,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "17 months after hiring BnB Accelerator, I have 3 short-term rental properties in Asheville generating $6,885 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-07-03",
+    reviewDate: "2026-07-21",
+    occupation: "Pharmaceutical Sales Rep",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "brandon-reynolds",
+    name: "Brandon Reynolds",
+    location: "Raleigh, NC",
+    rating: 4.5,
+    title: "No Courses, No Coaching -- BnB Accelerator Just Did It All For Me",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 4 properties, $14,332/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Clearwater as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Clearwater market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\n22 months in, the portfolio generates $14,332 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has allowed me to pay off debt ahead of schedule.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$14,332",
+      timeframe: "22 months",
+    },
+    beforeStory:
+      "I had been a High School Teacher for over a decade, earning $74,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "BnB Accelerator now manages 4 properties for me in Clearwater, generating $14,332 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2026-01-18",
+    reviewDate: "2026-07-15",
+    occupation: "High School Teacher",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "jennifer-henry",
+    name: "Jennifer Henry",
+    location: "Birmingham, AL",
+    rating: 5,
+    title: "No Courses, No Coaching -- BnB Accelerator Just Did It All For Me",
+    summary:
+      "BnB Accelerator found 5 properties in Big Bear, handled every step from acquisition to launch, and now manages everything. $11,410/month in passive income and I spend 15 minutes a month reviewing dashboards.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Big Bear as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured five properties that fit my criteria perfectly.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Big Bear's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nToday the properties generate $11,410 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has allowed me to pay off debt ahead of schedule.",
+    results: {
+      properties: 5,
+      monthlyRevenue: "$11,410",
+      timeframe: "13 months",
+    },
+    beforeStory:
+      "I was working as a Supply Chain Manager in Birmingham, AL making around $67,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 5 properties for me in Big Bear, generating $11,410 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2024-04-14",
+    reviewDate: "2025-05-18",
+    occupation: "Supply Chain Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "natalie-zhang",
+    name: "Natalie Zhang",
+    location: "Kansas City, MO",
+    rating: 5,
+    title: "BnB Accelerator Built My Entire Scottsdale STR Portfolio While I Kept Working as a Financial Analyst",
+    summary:
+      "As a Financial Analyst with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 1 properties in Scottsdale for me. $4,177 a month, completely passive.",
+    fullReview:
+      "A a friend's recommendation had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Scottsdale. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced a property that met my investment criteria.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Scottsdale market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\n8 months in, the portfolio generates $4,177 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The financial freedom this has created is something I never thought was realistic for someone in my position.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$4,177",
+      timeframe: "8 months",
+    },
+    beforeStory:
+      "I was working as a Financial Analyst in Kansas City, MO making around $117,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 1 property for me in Scottsdale, generating $4,177 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2024-08-11",
+    reviewDate: "2025-04-12",
+    occupation: "Financial Analyst",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "brooke-stewart",
+    name: "Brooke Stewart",
+    location: "Raleigh, NC",
+    rating: 5,
+    title: "$4,556 a Month From Properties I Have Never Visited -- Thanks to BnB Accelerator",
+    summary:
+      "As a Medical Device Sales Rep with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 2 properties in Joshua Tree for me. $4,556 a month, completely passive.",
+    fullReview:
+      "I found BnB Accelerator through neighbor and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Medical Device Sales Rep, that was the only version of real estate investing that could realistically work for me.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Joshua Tree as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured two properties that fit my criteria perfectly.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Joshua Tree's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\n4 months in, the portfolio generates $4,556 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has fundamentally shifted how I think about building wealth.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$4,556",
+      timeframe: "4 months",
+    },
+    beforeStory:
+      "I was working as a Medical Device Sales Rep in Raleigh, NC making around $106,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 2 properties for me in Joshua Tree, generating $4,556 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2026-02-07",
+    reviewDate: "2026-06-14",
+    occupation: "Medical Device Sales Rep",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "taylor-walker",
+    name: "Taylor Walker",
+    location: "Santa Barbara, CA",
+    rating: 5,
+    title: "BnB Accelerator's Done-for-You Model Was Exactly What a Clinical Psychologist Needed",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 4 properties, $11,556/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "A a colleague at work had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Cape Coral. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced four properties that met my investment criteria.\\n\\nTheir design team furnished each of the four properties with a style calibrated to what performs in Cape Coral, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nThe properties now generate $11,556 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. I am already working with their team to add another property next quarter.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$11,556",
+      timeframe: "16 months",
+    },
+    beforeStory:
+      "As a Clinical Psychologist in Santa Barbara, CA, I was pulling in about $213,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "BnB Accelerator now manages 4 properties for me in Cape Coral, generating $11,556 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2025-02-26",
+    reviewDate: "2026-06-19",
+    occupation: "Clinical Psychologist",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "holly-webb",
+    name: "Holly Webb",
+    location: "Orlando, FL",
+    rating: 4.5,
+    title: "BnB Accelerator's Done-for-You Model Was Exactly What a Quality Assurance Manager Needed",
+    summary:
+      "BnB Accelerator found 1 properties in Hilton Head, handled every step from acquisition to launch, and now manages everything. $4,090/month in passive income and I spend 15 minutes a month reviewing dashboards.",
+    fullReview:
+      "I found BnB Accelerator through a friend's recommendation and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Quality Assurance Manager, that was the only version of real estate investing that could realistically work for me.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Hilton Head as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured a property that fit my criteria perfectly.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Hilton Head market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the property generates $4,090 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The financial freedom this has created is something I never thought was realistic for someone in my position.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$4,090",
+      timeframe: "13 months",
+    },
+    beforeStory:
+      "As a Quality Assurance Manager in Orlando, FL, I was pulling in about $108,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "13 months after hiring BnB Accelerator, I have 1 short-term rental property in Hilton Head generating $4,090 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2026-04-11",
+    reviewDate: "2026-08-21",
+    occupation: "Quality Assurance Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "reed-miller",
+    name: "Reed Miller",
+    location: "Orlando, FL",
+    rating: 4.5,
+    title: "BnB Accelerator's Done-for-You Model Was Exactly What a Physician Assistant Needed",
+    summary:
+      "Working full time as a Physician Assistant left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 3 properties generating $7,824/month -- without me ever becoming the operator.",
+    fullReview:
+      "A an online search had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Folly Beach. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Folly Beach market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the properties generate $7,824 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has I am on track to replace my primary income within the next 18 months.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$7,824",
+      timeframe: "13 months",
+    },
+    beforeStory:
+      "I had been a Physician Assistant for over a decade, earning $197,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "13 months after hiring BnB Accelerator, I have 3 short-term rental properties in Folly Beach generating $7,824 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-06-19",
+    reviewDate: "2026-07-27",
+    occupation: "Physician Assistant",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "casey-lane",
+    name: "Casey Lane",
+    location: "Boise, ID",
+    rating: 5,
+    title: "BnB Accelerator Built My Entire Myrtle Beach STR Portfolio While I Kept Working as a Family Practice Doctor",
+    summary:
+      "Working full time as a Family Practice Doctor left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 4 properties generating $12,884/month -- without me ever becoming the operator.",
+    fullReview:
+      "I found BnB Accelerator through a podcast interview and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Family Practice Doctor, that was the only version of real estate investing that could realistically work for me.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Myrtle Beach as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Myrtle Beach's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\n6 months in, the portfolio generates $12,884 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has allowed me to take a step back from overtime and enjoy my life.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$12,884",
+      timeframe: "6 months",
+    },
+    beforeStory:
+      "I was working as a Family Practice Doctor in Boise, ID making around $247,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "6 months after hiring BnB Accelerator, I have 4 short-term rental properties in Myrtle Beach generating $12,884 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-01-23",
+    reviewDate: "2025-07-16",
+    occupation: "Family Practice Doctor",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "caroline-ramirez",
+    name: "Caroline Ramirez",
+    location: "Augusta, GA",
+    rating: 5,
+    title: "I Never Managed a Single Guest. BnB Accelerator Handles Everything on My 1 Properties.",
+    summary:
+      "Working full time as a Clinical Psychologist left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 1 properties generating $3,779/month -- without me ever becoming the operator.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Cape Coral as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured a property that fit my criteria perfectly.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Cape Coral's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\n14 months in, the portfolio generates $3,779 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. That extra cash flow has accelerated every other financial goal I had.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$3,779",
+      timeframe: "14 months",
+    },
+    beforeStory:
+      "As a Clinical Psychologist in Augusta, GA, I was pulling in about $156,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "BnB Accelerator now manages 1 property for me in Cape Coral, generating $3,779 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2026-04-22",
+    reviewDate: "2026-06-14",
+    occupation: "Clinical Psychologist",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "eduardo-green",
+    name: "Eduardo Green",
+    location: "Columbus, OH",
+    rating: 4.5,
+    title: "Real Returns, Real Properties, Zero Work -- My BnB Accelerator Experience",
+    summary:
+      "Working full time as a Pharmacist left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 1 properties generating $3,972/month -- without me ever becoming the operator.",
+    fullReview:
+      "I found BnB Accelerator through family member and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Pharmacist, that was the only version of real estate investing that could realistically work for me.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Hilton Head as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Hilton Head's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\n7 months in, the portfolio generates $3,972 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. I am on track to replace my primary income within the next 18 months.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$3,972",
+      timeframe: "7 months",
+    },
+    beforeStory:
+      "As a Pharmacist in Columbus, OH, I was pulling in about $184,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "7 months after hiring BnB Accelerator, I have 1 short-term rental property in Hilton Head generating $3,972 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2026-05-27",
+    reviewDate: "2026-07-27",
+    occupation: "Pharmacist",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "catherine-lee",
+    name: "Catherine Lee",
+    location: "Cincinnati, OH",
+    rating: 5,
+    title: "BnB Accelerator's Done-for-You Model Was Exactly What a Business Development Manager Needed",
+    summary:
+      "After years of wanting to invest in real estate but never having the time, BnB Accelerator did it all for me. 6 properties, $19,404/month, and the only thing I do is check my monthly statement.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Folly Beach as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Folly Beach's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\n17 months in, the portfolio generates $19,404 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has allowed me to take a step back from overtime and enjoy my life.",
+    results: {
+      properties: 6,
+      monthlyRevenue: "$19,404",
+      timeframe: "17 months",
+    },
+    beforeStory:
+      "I had been a Business Development Manager for over a decade, earning $80,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 6 STR properties across Folly Beach that BnB Accelerator built and manages for me, producing $19,404 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2024-05-26",
+    reviewDate: "2025-10-04",
+    occupation: "Business Development Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "jack-walker",
+    name: "Jack Walker",
+    location: "Minneapolis, MN",
+    rating: 5,
+    title: "From Overworked Regional Sales Manager to Passive Investor -- BnB Accelerator Made It Happen",
+    summary:
+      "As a Regional Sales Manager with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 3 properties in Park City for me. $6,738 a month, completely passive.",
+    fullReview:
+      "A a referral from my financial advisor had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Park City as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured three properties that fit my criteria perfectly.\\n\\nTheir design team furnished each of the three properties with a style calibrated to what performs in Park City, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\n17 months in, the portfolio generates $6,738 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. For the first time in my career, I have income that does not depend on showing up to work.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$6,738",
+      timeframe: "17 months",
+    },
+    beforeStory:
+      "I was working as a Regional Sales Manager in Minneapolis, MN making around $66,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "17 months after hiring BnB Accelerator, I have 3 short-term rental properties in Park City generating $6,738 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2024-10-21",
+    reviewDate: "2026-03-28",
+    occupation: "Regional Sales Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "aria-holland",
+    name: "Aria Holland",
+    location: "Albuquerque, NM",
+    rating: 5,
+    title: "No Courses, No Coaching -- BnB Accelerator Just Did It All For Me",
+    summary:
+      "Working full time as a Financial Analyst left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 4 properties generating $8,984/month -- without me ever becoming the operator.",
+    fullReview:
+      "I found BnB Accelerator through a YouTube video and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Financial Analyst, that was the only version of real estate investing that could realistically work for me.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Smoky Mountains. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced four properties that met my investment criteria.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Smoky Mountains market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nToday the properties generate $8,984 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has I am on track to replace my primary income within the next 18 months.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$8,984",
+      timeframe: "21 months",
+    },
+    beforeStory:
+      "I was working as a Financial Analyst in Albuquerque, NM making around $82,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 4 properties for me in Smoky Mountains, generating $8,984 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2024-08-19",
+    reviewDate: "2026-05-06",
+    occupation: "Financial Analyst",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "kenneth-olivia-rhodes",
+    name: "Kenneth & Olivia Rhodes",
+    location: "Riverside, CA",
+    rating: 5,
+    title: "I Hired BnB Accelerator and They Built Me 1 Cash-Flowing Properties in 6 Months",
+    summary:
+      "As a Network Engineer with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 1 properties in Cape Coral for me. $4,069 a month, completely passive.",
+    fullReview:
+      "A colleague had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Cape Coral as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured a property that fit my criteria perfectly.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Cape Coral's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nThe property now generates $4,069 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The extra income has given me the breathing room I never had on my salary alone.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$4,069",
+      timeframe: "6 months",
+    },
+    beforeStory:
+      "As a Network Engineer in Riverside, CA, I was pulling in about $78,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "BnB Accelerator now manages 1 property for me in Cape Coral, generating $4,069 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2025-12-04",
+    reviewDate: "2026-06-21",
+    occupation: "Network Engineer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "dean-marshall",
+    name: "Dean Marshall",
+    location: "Santa Barbara, CA",
+    rating: 5,
+    title: "How a Busy Veterinarian Built $12,228/Month in STR Income Without Lifting a Finger",
+    summary:
+      "As a Veterinarian with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 3 properties in Park City for me. $12,228 a month, completely passive.",
+    fullReview:
+      "I found BnB Accelerator through coworker and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Veterinarian, that was the only version of real estate investing that could realistically work for me.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Park City as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured three properties that fit my criteria perfectly.\\n\\nTheir design team furnished each of the three properties with a style calibrated to what performs in Park City, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\n10 months in, the portfolio generates $12,228 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has completely changed my financial picture.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$12,228",
+      timeframe: "10 months",
+    },
+    beforeStory:
+      "As a Veterinarian in Santa Barbara, CA, I was pulling in about $214,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "Today I have 3 STR properties across Park City that BnB Accelerator built and manages for me, producing $12,228 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2025-03-04",
+    reviewDate: "2026-01-01",
+    occupation: "Veterinarian",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "riley-wilson",
+    name: "Riley Wilson",
+    location: "Columbus, OH",
+    rating: 5,
+    title: "3 Properties in Outer Banks, Zero Hours of My Time -- BnB Accelerator Did Everything",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 3 properties in Outer Banks, $8,343/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "I found BnB Accelerator through a friend's recommendation and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Regional Sales Manager, that was the only version of real estate investing that could realistically work for me.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Outer Banks. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nTheir design team furnished each of the three properties with a style calibrated to what performs in Outer Banks, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nThe properties now generate $8,343 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The passive income has given me options I did not have two years ago.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$8,343",
+      timeframe: "15 months",
+    },
+    beforeStory:
+      "I was working as a Regional Sales Manager in Columbus, OH making around $103,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "15 months after hiring BnB Accelerator, I have 3 short-term rental properties in Outer Banks generating $8,343 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2024-04-21",
+    reviewDate: "2025-07-11",
+    occupation: "Regional Sales Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "brooke-miller",
+    name: "Brooke Miller",
+    location: "Eugene, OR",
+    rating: 5,
+    title: "BnB Accelerator Built My Entire Park City STR Portfolio While I Kept Working as a Gym Owner",
+    summary:
+      "As a Gym Owner with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 1 properties in Park City for me. $3,086 a month, completely passive.",
+    fullReview:
+      "A a podcast interview had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Park City as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nThe setup phase was impressive. Their team furnished and staged the properties, hired and vetted local cleaning crews, set up smart locks and noise monitoring, created optimized listings with professional photography, and configured dynamic pricing tools calibrated to Park City's seasonal demand patterns. Everything was done by the time the first booking came in.\\n\\nThe property now generates $3,086 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. For the first time in my career, I have income that does not depend on showing up to work.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$3,086",
+      timeframe: "23 months",
+    },
+    beforeStory:
+      "As a Gym Owner in Eugene, OR, I was pulling in about $166,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "23 months after hiring BnB Accelerator, I have 1 short-term rental property in Park City generating $3,086 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2026-06-21",
+    reviewDate: "2026-08-07",
+    occupation: "Gym Owner",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "olivia-russell",
+    name: "Olivia Russell",
+    location: "Los Angeles, CA",
+    rating: 5,
+    title: "A Paramedic's Path to Passive Income: 3 Properties, Completely Hands-Off",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 3 properties in Blue Ridge, $12,645/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "I found BnB Accelerator through former classmate and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Paramedic, that was the only version of real estate investing that could realistically work for me.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Blue Ridge. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced three properties that met my investment criteria.\\n\\nTheir design team furnished each of the three properties with a style calibrated to what performs in Blue Ridge, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nToday the properties generate $12,645 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has The extra income has completely changed my financial picture.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$12,645",
+      timeframe: "23 months",
+    },
+    beforeStory:
+      "I had been a Paramedic for over a decade, earning $81,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 3 STR properties across Blue Ridge that BnB Accelerator built and manages for me, producing $12,645 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2025-06-21",
+    reviewDate: "2026-07-27",
+    occupation: "Paramedic",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "frank-simpson",
+    name: "Frank Simpson",
+    location: "Honolulu, HI",
+    rating: 4.5,
+    title: "Real Returns, Real Properties, Zero Work -- My BnB Accelerator Experience",
+    summary:
+      "Working full time as a Fitness Coach left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 4 properties generating $13,252/month -- without me ever becoming the operator.",
+    fullReview:
+      "I found BnB Accelerator through a referral from my financial advisor and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Fitness Coach, that was the only version of real estate investing that could realistically work for me.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending St. Augustine. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced four properties that met my investment criteria.\\n\\nTheir design team furnished each of the four properties with a style calibrated to what performs in St. Augustine, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nThe properties now generate $13,252 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. That extra cash flow has accelerated every other financial goal I had.",
+    results: {
+      properties: 4,
+      monthlyRevenue: "$13,252",
+      timeframe: "16 months",
+    },
+    beforeStory:
+      "As a Fitness Coach in Honolulu, HI, I was pulling in about $44,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "16 months after hiring BnB Accelerator, I have 4 short-term rental properties in St. Augustine generating $13,252 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-01-09",
+    reviewDate: "2026-05-12",
+    occupation: "Fitness Coach",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "logan-phillips",
+    name: "Logan Phillips",
+    location: "Dallas, TX",
+    rating: 5,
+    title: "BnB Accelerator Built My Entire Sedona STR Portfolio While I Kept Working as a Cybersecurity Analyst",
+    summary:
+      "As a Cybersecurity Analyst with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 1 properties in Sedona for me. $3,360 a month, completely passive.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Sedona as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Sedona market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\n4 months in, the portfolio generates $3,360 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has fundamentally shifted how I think about building wealth.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$3,360",
+      timeframe: "4 months",
+    },
+    beforeStory:
+      "I had been a Cybersecurity Analyst for over a decade, earning $91,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 1 STR property across Sedona that BnB Accelerator built and manages for me, producing $3,360 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2025-02-10",
+    reviewDate: "2025-06-27",
+    occupation: "Cybersecurity Analyst",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "leo-teresa-parker",
+    name: "Leo & Teresa Parker",
+    location: "Birmingham, AL",
+    rating: 5,
+    title: "I Hired BnB Accelerator and They Built Me 3 Cash-Flowing Properties in 23 Months",
+    summary:
+      "Working full time as a Airline Pilot left me zero bandwidth to learn STR investing. BnB Accelerator built my entire portfolio -- 3 properties generating $12,663/month -- without me ever becoming the operator.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nThe process started with a detailed consultation where we discussed my financial situation and investment goals. Their market research team then presented Gulf Shores as their top recommendation, supported by extensive data on demand patterns, competition, and regulatory stability. From there, their acquisition team went to work sourcing properties.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Gulf Shores market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\n23 months in, the portfolio generates $12,663 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has completely changed my financial picture.",
+    results: {
+      properties: 3,
+      monthlyRevenue: "$12,663",
+      timeframe: "23 months",
+    },
+    beforeStory:
+      "I had been a Airline Pilot for over a decade, earning $185,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "BnB Accelerator now manages 3 properties for me in Gulf Shores, generating $12,663 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2026-06-10",
+    reviewDate: "2026-07-19",
+    occupation: "Airline Pilot",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "brandon-murphy",
+    name: "Brandon Murphy",
+    location: "Wilmington, NC",
+    rating: 5,
+    title: "From Zero Real Estate Experience to $3,692/Month -- All Done by BnB Accelerator",
+    summary:
+      "As a Business Development Manager with no time for a side hustle, I needed someone to handle everything. BnB Accelerator sourced, acquired, furnished, and now manages 1 properties in Clearwater for me. $3,692 a month, completely passive.",
+    fullReview:
+      "I had spent years wanting to get into real estate investing but never pulling the trigger because every approach I found assumed I would become the operator. When I discovered BnB Accelerator, the model clicked immediately. They are a full-service STR acquisition and management firm. You provide the capital and the investment criteria, and their team executes the entire pipeline.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Clearwater as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured a property that fit my criteria perfectly.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Clearwater market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\n20 months in, the portfolio generates $3,692 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The passive income has given me options I did not have two years ago.",
+    results: {
+      properties: 1,
+      monthlyRevenue: "$3,692",
+      timeframe: "20 months",
+    },
+    beforeStory:
+      "I was working as a Business Development Manager in Wilmington, NC making around $113,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "BnB Accelerator now manages 1 property for me in Clearwater, generating $3,692 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2024-12-10",
+    reviewDate: "2026-08-06",
+    occupation: "Business Development Manager",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "lucia-bell",
+    name: "Lucia Bell",
+    location: "Richmond, VA",
+    rating: 4.5,
+    title: "How a Busy Family Practice Doctor Built $11,620/Month in STR Income Without Lifting a Finger",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 5 properties in Joshua Tree, $11,620/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "A friend had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Joshua Tree as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured five properties that fit my criteria perfectly.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Joshua Tree market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\nThe properties now generate $11,620 monthly in net revenue, fully managed by BnB Accelerator. I check a monthly report and that is the extent of my involvement. The extra income has allowed me to pay off debt ahead of schedule.",
+    results: {
+      properties: 5,
+      monthlyRevenue: "$11,620",
+      timeframe: "11 months",
+    },
+    beforeStory:
+      "I was working as a Family Practice Doctor in Richmond, VA making around $173,000 a year. Between work demands, family obligations, and the general grind of daily life, I had no realistic capacity to learn an entirely new business. I had savings I wanted to deploy into real estate but needed someone to handle the execution -- I was not going to become a part-time property manager on top of my existing career.",
+    afterStory:
+      "11 months after hiring BnB Accelerator, I have 5 short-term rental properties in Joshua Tree generating $11,620 per month in combined net revenue -- all sourced, acquired, furnished, and managed entirely by their team. I have never handled a guest, coordinated a cleaning, or dealt with a maintenance issue. I am planning to add more properties next year.",
+    joinDate: "2025-04-14",
+    reviewDate: "2026-03-02",
+    occupation: "Family Practice Doctor",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "neil-maria-scott",
+    name: "Neil & Maria Scott",
+    location: "Boulder, CO",
+    rating: 5,
+    title: "2 Properties in Fort Myers, Zero Hours of My Time -- BnB Accelerator Did Everything",
+    summary:
+      "BnB Accelerator found 2 properties in Fort Myers, handled every step from acquisition to launch, and now manages everything. $8,510/month in passive income and I spend 15 minutes a month reviewing dashboards.",
+    fullReview:
+      "I found BnB Accelerator through business partner and was immediately drawn to the fact that this is not a course or a coaching program. There are no modules to watch, no weekly calls to attend, and no homework. Their team handles the entire process of finding, acquiring, furnishing, launching, and managing STR properties on your behalf. As a Network Engineer, that was the only version of real estate investing that could realistically work for me.\\n\\nAfter an initial consultation about my budget, goals, and risk tolerance, their team identified Fort Myers as the strongest fit. They walked me through the data -- demand drivers, seasonality curves, regulatory environment, and projected returns. Their acquisition team then sourced and secured two properties that fit my criteria perfectly.\\n\\nOnce acquired, their team handled everything: professional furnishing tailored to the Fort Myers market, photography, listing creation, pricing optimization, and launch on all major booking platforms. I did not coordinate a single vendor, approve a single design choice, or write a single word of listing copy. Their team knows what converts in this market because they have done it hundreds of times.\\n\\n8 months in, the portfolio generates $8,510 per month net. My actual time commitment is about 15 minutes a month reviewing the dashboard. Everything operational -- guest communication, cleaning coordination, pricing adjustments, maintenance, review management -- is handled by their team. The extra income has completely changed my financial picture.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$8,510",
+      timeframe: "8 months",
+    },
+    beforeStory:
+      "I had been a Network Engineer for over a decade, earning $87,000 annually. The income was solid but I was completely dependent on trading my time for money. I wanted passive income from real estate but every path I researched required becoming an operator, and I simply did not have the bandwidth for that alongside my career.",
+    afterStory:
+      "Today I have 2 STR properties across Fort Myers that BnB Accelerator built and manages for me, producing $8,510 per month. My total time investment is about 15 minutes a month reviewing performance reports. The extra income has fundamentally changed my financial trajectory.",
+    joinDate: "2025-03-20",
+    reviewDate: "2025-11-19",
+    occupation: "Network Engineer",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
+  {
+    slug: "amber-washington",
+    name: "Amber Washington",
+    location: "Boulder, CO",
+    rating: 5,
+    title: "$6,228 a Month From Properties I Have Never Visited -- Thanks to BnB Accelerator",
+    summary:
+      "I was skeptical about done-for-you real estate until BnB Accelerator delivered. 2 properties in Poconos, $6,228/month in net revenue, and I have never handled a guest checkout.",
+    fullReview:
+      "A a Facebook group for investors had been working with BnB Accelerator and showed me their actual monthly revenue reports. The numbers were solid, but what convinced me was that they were not doing anything to earn them operationally. BnB Accelerator's team was handling everything. That is what I needed -- a done-for-you service, not another skill to learn.\\n\\nTheir market analysis team spent about three weeks evaluating opportunities before recommending Poconos. The data was thorough -- they looked at occupancy rates, average daily rates, seasonal demand patterns, regulatory stability, and competition density at the submarket level. Once I approved the market, their acquisition team sourced two properties that met my investment criteria.\\n\\nTheir design team furnished each property with a style calibrated to what performs in Poconos, and the total furnishing budget was reasonable compared to what I would have spent guessing at retail. Professional photography, listing optimization, dynamic pricing setup, and platform launch all happened without my involvement. The property was booking guests within weeks of going live.\\n\\nToday the properties generate $6,228 per month in combined net revenue. I have never spoken to a guest, coordinated a cleaning, handled a maintenance call, or adjusted a price. BnB Accelerator's team manages all of it and sends me a monthly statement. The extra income has That extra cash flow has accelerated every other financial goal I had.",
+    results: {
+      properties: 2,
+      monthlyRevenue: "$6,228",
+      timeframe: "15 months",
+    },
+    beforeStory:
+      "As a Insurance Agent in Boulder, CO, I was pulling in about $77,000 a year but had no investment properties and no real estate experience. I had looked into Airbnb investing but quickly realized the learning curve was massive and the time commitment was more than I could handle while working full time.",
+    afterStory:
+      "BnB Accelerator now manages 2 properties for me in Poconos, generating $6,228 per month in net revenue. I never learned how to be an STR operator -- I hired professionals who already were. That distinction has been worth every penny.",
+    joinDate: "2025-06-08",
+    reviewDate: "2026-08-13",
+    occupation: "Insurance Agent",
+    propertyTypes: ["Turnkey Acquisition", "Full-Service Management"],
+  },
 ];
+
+// test
