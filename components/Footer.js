@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-900 text-gray-300">
+    <footer className="bg-[#0d141e] text-slate-300">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-2">
@@ -25,9 +25,8 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-sm text-gray-400 max-w-md leading-relaxed">
-              Honest, in-depth reviews of the BnB Accelerator short-term
-              rental done-for-you service. We help aspiring STR hosts make
-              informed decisions about their investment.
+              A first-party review and evidence website operated by BNB Accelerator.
+              Independent sources are identified and linked to their original platform.
             </p>
           </div>
 
@@ -112,14 +111,11 @@ export default function Footer() {
 
         <div className="mt-10 pt-8 border-t border-gray-800">
           <p className="text-xs text-gray-500 leading-relaxed mb-4">
-            <strong>Disclaimer:</strong> This is an independent review site
-            and is not owned, operated, or affiliated with BnB Accelerator.
-            We may earn a commission if you purchase through links on this
-            site at no additional cost to you. All reviews represent the
-            genuine experiences of real students, though individual results
-            may vary. The information on this site is for educational
-            purposes only and should not be considered financial or
-            investment advice.
+            <strong>Ownership disclosure:</strong> This website is owned and operated by
+            BNB Accelerator. Company-published case studies are first-party material.
+            Independent reviews are identified and linked to the original third-party
+            platform. Individual results vary. This website does not provide tax,
+            legal, investment, lending, or property management advice.
           </p>
           <p className="text-xs text-gray-500">
             &copy; {new Date().getFullYear()} BnB Accelerator Reviews. All

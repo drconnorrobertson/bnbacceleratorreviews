@@ -9,6 +9,12 @@ html {
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: #111a26;
+  background: #fdfcf9;
+}
+
+.font-display {
+  font-family: "DM Serif Display", Georgia, serif;
 }
 
 @layer base {

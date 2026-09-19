@@ -1,339 +1,169 @@
-import Link from 'next/link';
-import { reviews } from '@/data/reviews';
-import { blogPosts } from '@/data/blog-posts';
-import { portfolioStats } from '@/data/portfolio';
-import StarRating from '@/components/StarRating';
-import ReviewCard from '@/components/ReviewCard';
-import BlogCard from '@/components/BlogCard';
-import Schema from '@/components/Schema';
+import Link from "next/link";
 
 export const metadata = {
-  title: 'BnB Accelerator Reviews 2026 - Honest Client Reviews & Results',
+  title: "BNB Accelerator Reviews | Verified Sources and Client Evidence",
   description:
-    'Read honest BnB Accelerator reviews from real clients. Is BnB Accelerator worth it? See verified results, success rates, and detailed breakdowns of their done-for-you STR acquisition service. $22.3M in properties acquired, 14.1% avg cash-on-cash.',
+    "A BNB Accelerator-owned review and evidence website. Review the verification policy, independent ratings, documented client case studies, and service disclosures.",
+  robots: { index: true, follow: true },
+  alternates: { canonical: "https://bnbacceleratorreviews.com" },
   openGraph: {
-    title: 'BnB Accelerator Reviews 2026 - Honest Client Reviews & Results',
+    title: "BNB Accelerator Reviews | Verified Sources and Client Evidence",
     description:
-      'Read honest BnB Accelerator reviews from real clients. $22.3M in properties acquired across 11 markets. 14.1% avg cash-on-cash returns. See verified results from their done-for-you STR acquisition service.',
-    type: 'website',
-    url: 'https://bnbacceleratorreviews.com',
-    siteName: 'BnB Accelerator Reviews',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'BnB Accelerator Reviews 2026 - Honest Client Reviews & Results',
-    description:
-      'Read honest BnB Accelerator reviews from real clients. See verified results and detailed breakdowns of their done-for-you STR acquisition service.',
+      "Review independent ratings, documented client case studies, and the standards used to publish client evidence.",
+    type: "website",
+    url: "https://bnbacceleratorreviews.com",
+    siteName: "BNB Accelerator Reviews",
   },
 };
 
-const aggregateRatingData = {
-  '@context': 'https://schema.org',
-  '@type': 'Product',
-  name: 'BnB Accelerator',
-  description: 'Done-for-you short-term rental acquisition and management service',
-  aggregateRating: {
-    '@type': 'AggregateRating',
-    ratingValue: '4.7',
-    bestRating: '5',
-    worstRating: '1',
-    reviewCount: '127',
+const evidenceLinks = [
+  {
+    label: "Independent platform",
+    title: "Trustpilot profile",
+    text: "Read ratings and comments published on a third-party review platform.",
+    href: "https://www.trustpilot.com/review/mybnbaccelerator.com",
+    external: true,
   },
-};
-
-const breadcrumbData = {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
-  itemListElement: [
-    {
-      '@type': 'ListItem',
-      position: 1,
-      name: 'Home',
-      item: 'https://bnbacceleratorreviews.com',
-    },
-  ],
-};
+  {
+    label: "Company documentation",
+    title: "Client case studies",
+    text: "Review property-specific acquisition stories and the assumptions attached to each result.",
+    href: "https://www.bnbaccelerator.com/case-studies/",
+    external: true,
+  },
+  {
+    label: "Property evidence",
+    title: "Selected client deals",
+    text: "Explore selected properties and follow links to deeper supporting material.",
+    href: "https://www.bnbaccelerator.com/deals/",
+    external: true,
+  },
+];
 
 export default function HomePage() {
-  const featuredReviews = reviews.slice(0, 3);
-  const latestPosts = blogPosts.slice(0, 3);
-
   return (
     <>
-      <Schema data={aggregateRatingData} type="Product" />
-      <Schema data={breadcrumbData} type="BreadcrumbList" />
-
-      {/* Hero Section */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-blue-900 via-blue-800 to-blue-700 text-white">
-        <div className="absolute inset-0 bg-[url('/grid-pattern.svg')] opacity-10" />
-        <div className="relative mx-auto max-w-7xl px-4 py-24 sm:px-6 lg:px-8 lg:py-32">
-          <div className="text-center">
-            <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
-              BnB Accelerator Reviews
+      <section className="bg-[#111a26] text-white">
+        <div className="mx-auto grid max-w-7xl gap-14 px-6 py-24 lg:grid-cols-[1.2fr_.8fr] lg:px-8 lg:py-32">
+          <div className="self-center">
+            <p className="mb-5 text-xs font-semibold uppercase tracking-[0.22em] text-[#d1b47e]">
+              Reviews and client evidence
+            </p>
+            <h1 className="font-display max-w-4xl text-5xl font-normal leading-[1.04] tracking-[-0.035em] sm:text-6xl lg:text-7xl">
+              Evaluate BNB Accelerator with the source material in front of you.
             </h1>
-            <p className="mx-auto mt-6 max-w-2xl text-xl text-blue-100">
-              Honest, independent reviews from real clients who hired
-              BnB Accelerator&rsquo;s done-for-you STR acquisition service. No fluff, no affiliate bias &mdash; just
-              verified results.
+            <p className="mt-7 max-w-2xl text-lg leading-8 text-slate-300">
+              This website is owned and operated by BNB Accelerator. Its purpose is to organize review sources, documented client examples, and clear service disclosures in one place.
             </p>
-
-            {/* Aggregate Rating Badge */}
-            <div className="mt-10 inline-flex items-center gap-4 rounded-2xl bg-white/10 px-8 py-4 backdrop-blur-sm">
-              <div className="text-center">
-                <span className="block text-5xl font-bold">4.7</span>
-                <span className="text-sm text-blue-200">out of 5</span>
-              </div>
-              <div className="h-12 w-px bg-blue-400/40" />
-              <div className="text-left">
-                <StarRating rating={4.7} />
-                <p className="mt-1 text-sm text-blue-200">
-                  Based on <strong className="text-white">127</strong> verified
-                  client reviews
-                </p>
-              </div>
-            </div>
-
-            <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
-              <Link
-                href="/reviews"
-                className="rounded-lg bg-white px-8 py-3 text-lg font-semibold text-blue-900 shadow-lg transition hover:bg-blue-50"
+            <div className="mt-9 flex flex-col gap-4 sm:flex-row">
+              <a
+                href="https://www.trustpilot.com/review/mybnbaccelerator.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="rounded-sm bg-[#b9975b] px-7 py-3.5 text-center font-semibold text-[#111a26] transition hover:bg-[#d1b47e]"
               >
-                Read All Reviews
-              </Link>
-              <Link
-                href="/results"
-                className="rounded-lg border-2 border-white/30 px-8 py-3 text-lg font-semibold text-white transition hover:bg-white/10"
+                Read Independent Reviews
+              </a>
+              <a
+                href="https://www.bnbaccelerator.com/case-studies/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="rounded-sm border border-white/25 px-7 py-3.5 text-center font-semibold text-white transition hover:border-white/50 hover:bg-white/5"
               >
-                See Client Results
-              </Link>
+                Review Case Studies
+              </a>
             </div>
           </div>
+
+          <aside className="border border-white/15 bg-white/[0.045] p-8 lg:p-10">
+            <p className="text-xs font-semibold uppercase tracking-[0.18em] text-[#d1b47e]">Ownership disclosure</p>
+            <h2 className="font-display mt-4 text-3xl font-normal text-white">A first-party evidence library</h2>
+            <p className="mt-5 leading-7 text-slate-300">
+              This is not an independent editorial publication. BNB Accelerator controls this website. Independent reviews are identified and linked to their original third-party source.
+            </p>
+            <p className="mt-5 border-t border-white/10 pt-5 text-sm leading-6 text-slate-400">
+              Individual results vary. Nothing on this website is tax, legal, investment, lending, or property management advice.
+            </p>
+          </aside>
         </div>
       </section>
 
-      {/* What Is BnB Accelerator? */}
-      <section className="bg-white py-20">
-        <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
-          <h2 className="text-center text-3xl font-bold text-gray-900 sm:text-4xl">
-            What Is BnB Accelerator?
-          </h2>
-          <div className="mt-8 space-y-6 text-lg leading-relaxed text-gray-600">
-            <p>
-              BnB Accelerator is a done-for-you short-term rental (STR)
-              acquisition and management service. Unlike courses or coaching
-              programs that teach you how to invest in Airbnb properties
-              yourself, BnB Accelerator&rsquo;s team handles the entire process
-              on your behalf &mdash; from market analysis and property sourcing
-              to acquisition, interior design, professional photography, listing
-              optimization, dynamic pricing, and ongoing property management.
-            </p>
-            <p>
-              Clients provide the capital and investment criteria, and BnB
-              Accelerator&rsquo;s team executes the full pipeline. Their market
-              research team evaluates occupancy rates, average daily rates,
-              seasonal trends, regulatory environments, and competition density
-              to identify high-performing submarkets. Their acquisition team
-              sources and closes deals, their design team furnishes each
-              property, and their operations team launches and manages it.
-            </p>
-            <p>
-              What sets BnB Accelerator apart is that clients never have to
-              become STR operators themselves. There are no videos to watch, no
-              homework, and no weekly coaching calls. The average client spends
-              roughly 15 minutes per month reviewing a performance dashboard.
-              With {portfolioStats.totalPropertiesTracked}+ properties actively managed
-              across {portfolioStats.activeMarkets} U.S. markets and ${(portfolioStats.totalPropertyValue / 1000000).toFixed(1)}M+ in
-              total property value acquired, BnB Accelerator delivers a
-              fully hands-off real estate investment experience.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      {/* Aggregate Rating Display */}
-      <section className="bg-blue-50 py-20">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="text-center">
-            <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">
-              Overall Client Rating
+      <section className="bg-[#f6f3ed] py-20 lg:py-28">
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <div className="max-w-3xl">
+            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#967744]">Start with evidence</p>
+            <h2 className="font-display mt-4 text-4xl font-normal tracking-[-0.025em] text-[#111a26] sm:text-5xl">
+              Three places to verify what you are reading
             </h2>
-            <p className="mt-4 text-lg text-gray-600">
-              Aggregated from verified client surveys and follow-up interviews
+            <p className="mt-5 text-lg leading-8 text-slate-600">
+              A credible review should make it easy to distinguish an independent opinion, a company-published case study, and a financial projection.
             </p>
           </div>
 
-          <div className="mt-12 grid gap-8 sm:grid-cols-3">
-            <div className="rounded-2xl bg-white p-8 text-center shadow-sm">
-              <div className="text-5xl font-bold text-blue-600">4.7/5</div>
-              <StarRating rating={4.7} />
-              <p className="mt-3 font-medium text-gray-700">Overall Rating</p>
-              <p className="mt-1 text-sm text-gray-500">127 verified reviews</p>
-            </div>
-            <div className="rounded-2xl bg-white p-8 text-center shadow-sm">
-              <div className="text-5xl font-bold text-blue-600">4.8/5</div>
-              <StarRating rating={4.8} />
-              <p className="mt-3 font-medium text-gray-700">Service Quality</p>
-              <p className="mt-1 text-sm text-gray-500">Acquisition and management quality</p>
-            </div>
-            <div className="rounded-2xl bg-white p-8 text-center shadow-sm">
-              <div className="text-5xl font-bold text-blue-600">4.6/5</div>
-              <StarRating rating={4.6} />
-              <p className="mt-3 font-medium text-gray-700">Client Support</p>
-              <p className="mt-1 text-sm text-gray-500">Access and responsiveness</p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Featured Reviews */}
-      <section className="bg-white py-20">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="text-center">
-            <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">
-              Featured Client Reviews
-            </h2>
-            <p className="mt-4 text-lg text-gray-600">
-              Hear directly from clients about their experience
-            </p>
-          </div>
-
-          <div className="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-            {featuredReviews.map((review) => (
-              <ReviewCard key={review.slug} review={review} />
+          <div className="mt-14 grid border-y border-[#d8d1c4] lg:grid-cols-3">
+            {evidenceLinks.map((item, index) => (
+              <article key={item.title} className={`py-9 lg:px-8 ${index > 0 ? "border-t border-[#d8d1c4] lg:border-l lg:border-t-0" : ""}`}>
+                <p className="text-xs font-semibold uppercase tracking-[0.16em] text-[#967744]">{item.label}</p>
+                <h3 className="mt-3 text-xl font-semibold text-[#111a26]">{item.title}</h3>
+                <p className="mt-3 leading-7 text-slate-600">{item.text}</p>
+                <a
+                  href={item.href}
+                  target={item.external ? "_blank" : undefined}
+                  rel={item.external ? "noopener noreferrer" : undefined}
+                  className="mt-6 inline-flex font-semibold text-[#4a5c78] hover:text-[#111a26]"
+                >
+                  Open source <span aria-hidden="true" className="ml-2">→</span>
+                </a>
+              </article>
             ))}
           </div>
-
-          <div className="mt-12 text-center">
-            <Link
-              href="/reviews"
-              className="inline-flex items-center gap-2 rounded-lg bg-blue-600 px-8 py-3 text-lg font-semibold text-white shadow-md transition hover:bg-blue-700"
-            >
-              View All 127 Reviews
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" /></svg>
-            </Link>
-          </div>
         </div>
       </section>
 
-      {/* Key Results Section - Updated with real data */}
-      <section className="bg-gradient-to-br from-blue-900 to-blue-800 py-20 text-white">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="text-center">
-            <h2 className="text-3xl font-bold sm:text-4xl">
-              Key Results from BnB Accelerator Clients
+      <section className="bg-white py-20 lg:py-28">
+        <div className="mx-auto grid max-w-7xl gap-14 px-6 lg:grid-cols-2 lg:px-8">
+          <div>
+            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#967744]">Publication standard</p>
+            <h2 className="font-display mt-4 text-4xl font-normal tracking-[-0.025em] text-[#111a26] sm:text-5xl">
+              What a published client review should include
             </h2>
-            <p className="mt-4 text-lg text-blue-200">
-              Real outcomes from real client acquisitions across {portfolioStats.activeMarkets} U.S. markets
-            </p>
           </div>
-
-          <div className="mt-14 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
-            <div className="rounded-2xl bg-white/10 p-8 text-center backdrop-blur-sm">
-              <div className="text-5xl font-bold">${(portfolioStats.totalPropertyValue / 1000000).toFixed(1)}M</div>
-              <p className="mt-3 text-lg font-medium text-blue-100">
-                Properties Acquired
-              </p>
-              <p className="mt-2 text-sm text-blue-300">
-                {portfolioStats.totalPropertiesAcquired} properties sourced and closed
-              </p>
-            </div>
-            <div className="rounded-2xl bg-white/10 p-8 text-center backdrop-blur-sm">
-              <div className="text-5xl font-bold">{portfolioStats.avgCashOnCash}%</div>
-              <p className="mt-3 text-lg font-medium text-blue-100">
-                Avg Cash-on-Cash
-              </p>
-              <p className="mt-2 text-sm text-blue-300">
-                Up to {portfolioStats.maxCashOnCash}% for top performers
-              </p>
-            </div>
-            <div className="rounded-2xl bg-white/10 p-8 text-center backdrop-blur-sm">
-              <div className="text-5xl font-bold">{portfolioStats.cashflowPositiveRate}%</div>
-              <p className="mt-3 text-lg font-medium text-blue-100">
-                Cashflow Positive
-              </p>
-              <p className="mt-2 text-sm text-blue-300">
-                {portfolioStats.propertiesPositiveCashflow} of {portfolioStats.propertiesTotal} properties profitable
-              </p>
-            </div>
-            <div className="rounded-2xl bg-white/10 p-8 text-center backdrop-blur-sm">
-              <div className="text-5xl font-bold">{portfolioStats.totalPropertiesTracked}+</div>
-              <p className="mt-3 text-lg font-medium text-blue-100">
-                Properties Managed
-              </p>
-              <p className="mt-2 text-sm text-blue-300">
-                Actively tracked and optimized
-              </p>
-            </div>
-          </div>
-
-          <p className="mt-10 text-center text-sm text-blue-300">
-            Results based on real acquisition data from BnB Accelerator client portfolio.
-            Individual results vary based on market, capital, and property type.
-          </p>
-        </div>
-      </section>
-
-      {/* Latest from the Blog */}
-      <section className="bg-gray-50 py-20">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="text-center">
-            <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">
-              Latest from the Blog
-            </h2>
-            <p className="mt-4 text-lg text-gray-600">
-              Insights, analysis, and deep dives on short-term rental investing
-            </p>
-          </div>
-
-          <div className="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-            {latestPosts.map((post) => (
-              <BlogCard key={post.slug} post={post} />
+          <ol className="space-y-7">
+            {[
+              ["Identity and permission", "The reviewer is matched to an internal client record and has approved public use."],
+              ["Original source", "The written review links to its original video, survey, interview, or third-party platform."],
+              ["Result definitions", "Gross revenue, net cash flow, projections, annualized figures, and realized results are labeled separately."],
+              ["Relevant period", "Every financial result states the property, market, and measurement period."],
+              ["Balanced context", "Material limitations, delays, unusual circumstances, and the fact that results vary are not omitted."],
+            ].map(([title, text], index) => (
+              <li key={title} className="grid grid-cols-[2.5rem_1fr] gap-4 border-b border-slate-200 pb-7 last:border-0">
+                <span className="font-display text-2xl text-[#b9975b]">{String(index + 1).padStart(2, "0")}</span>
+                <div>
+                  <h3 className="text-lg font-semibold text-[#111a26]">{title}</h3>
+                  <p className="mt-2 leading-7 text-slate-600">{text}</p>
+                </div>
+              </li>
             ))}
-          </div>
-
-          <div className="mt-12 text-center">
-            <Link
-              href="/blog"
-              className="inline-flex items-center gap-2 text-lg font-semibold text-blue-600 transition hover:text-blue-800"
-            >
-              View All Articles
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" /></svg>
-            </Link>
-          </div>
+          </ol>
         </div>
       </section>
 
-      {/* CTA Section */}
-      <section className="bg-white py-20">
-        <div className="mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">
-            Ready to Build Passive STR Income?
-          </h2>
-          <p className="mx-auto mt-6 max-w-2xl text-lg text-gray-600">
-            Join the growing list of clients who have built profitable short-term
-            rental portfolios by hiring BnB Accelerator to find, acquire,
-            design, and manage properties on their behalf.
-          </p>
-          <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
-            <a
-              href="https://bnbaccelerator.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-lg bg-blue-600 px-10 py-4 text-lg font-semibold text-white shadow-lg transition hover:bg-blue-700 hover:shadow-xl"
-            >
-              Visit BnB Accelerator
-            </a>
-            <Link
-              href="/results"
-              className="rounded-lg border-2 border-blue-600 px-10 py-4 text-lg font-semibold text-blue-600 transition hover:bg-blue-50"
-            >
-              See Real Results
-            </Link>
+      <section className="bg-[#111a26] py-20 text-white">
+        <div className="mx-auto flex max-w-5xl flex-col items-start justify-between gap-8 px-6 sm:flex-row sm:items-center lg:px-8">
+          <div>
+            <h2 className="font-display text-4xl font-normal">Understand the service before evaluating the outcome.</h2>
+            <p className="mt-4 max-w-2xl leading-7 text-slate-300">
+              See exactly what BNB Accelerator coordinates, what remains the client's responsibility, and where independent advisers are required.
+            </p>
           </div>
-          <p className="mt-6 text-sm text-gray-400">
-            This is an independent review site. We are not affiliated with BnB
-            Accelerator.
-          </p>
+          <a
+            href="https://www.bnbaccelerator.com/how-it-works/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="shrink-0 rounded-sm bg-[#b9975b] px-7 py-3.5 font-semibold text-[#111a26] transition hover:bg-[#d1b47e]"
+          >
+            How It Works
+          </a>
         </div>
       </section>
     </>

@@ -504,8 +504,7 @@ export default function AboutPage() {
             </Link>
           </div>
           <p className="mt-8 text-sm text-blue-300">
-            BnB Accelerator Reviews is an independent review site. We are not
-            affiliated with, endorsed by, or paid by BnB Accelerator.
+            Ownership disclosure: this website is owned and operated by BNB Accelerator.
           </p>
         </div>
       </section>

@@ -271,8 +271,7 @@ export default async function BlogPostPage({ params }) {
             </Link>
           </div>
           <p className="mt-6 text-sm text-blue-300">
-            This is an independent review site. We are not affiliated with BnB
-            Accelerator.
+            Ownership disclosure: this website is owned and operated by BNB Accelerator.
           </p>
         </div>
       </section>

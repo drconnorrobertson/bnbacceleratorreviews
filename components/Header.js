@@ -7,20 +7,18 @@ export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const navLinks = [
-    { href: "/", label: "Home" },
-    { href: "/reviews", label: "Reviews" },
-    { href: "/blog", label: "Blog" },
+    { href: "/", label: "Evidence" },
     { href: "/about", label: "About" },
     { href: "/faq", label: "FAQ" },
   ];
 
   return (
-    <header className="bg-white border-b border-gray-200 sticky top-0 z-50">
+    <header className="bg-[#fdfcf9]/95 border-b border-[#e2ddd3] sticky top-0 z-50 backdrop-blur">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center space-x-2">
             <svg
-              className="w-8 h-8 text-blue-600"
+              className="w-8 h-8 text-[#967744]"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
@@ -33,8 +31,8 @@ export default function Header() {
               />
             </svg>
             <span className="text-xl font-bold text-gray-900">
-              BnB Accelerator{" "}
-              <span className="text-blue-600">Reviews</span>
+              BNB Accelerator{" "}
+              <span className="text-[#967744]">Reviews</span>
             </span>
           </Link>
 
@@ -43,7 +41,7 @@ export default function Header() {
               <Link
                 key={link.href}
                 href={link.href}
-                className="text-gray-600 hover:text-blue-600 font-medium transition-colors duration-200"
+                className="text-gray-600 hover:text-[#111a26] font-medium transition-colors duration-200"
               >
                 {link.label}
               </Link>
@@ -52,7 +50,7 @@ export default function Header() {
               href="https://bnbaccelerator.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-blue-600 text-white px-5 py-2 rounded-lg font-medium hover:bg-blue-700 transition-colors duration-200"
+              className="bg-[#111a26] text-white px-5 py-2 rounded-sm font-medium hover:bg-[#243241] transition-colors duration-200"
             >
               Visit BnB Accelerator
             </a>
@@ -104,7 +102,7 @@ export default function Header() {
               <Link
                 key={link.href}
                 href={link.href}
-                className="block px-3 py-2 text-gray-600 hover:text-blue-600 hover:bg-gray-50 rounded-md font-medium transition-colors duration-200"
+                className="block px-3 py-2 text-gray-600 hover:text-[#111a26] hover:bg-gray-50 rounded-md font-medium transition-colors duration-200"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 {link.label}
@@ -114,7 +112,7 @@ export default function Header() {
               href="https://bnbaccelerator.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="block w-full text-center bg-blue-600 text-white px-5 py-2 rounded-lg font-medium hover:bg-blue-700 transition-colors duration-200 mt-2"
+              className="block w-full text-center bg-[#111a26] text-white px-5 py-2 rounded-sm font-medium hover:bg-[#243241] transition-colors duration-200 mt-2"
             >
               Visit BnB Accelerator
             </a>
@@ -122,18 +120,6 @@ export default function Header() {
         </div>
       )}
     
-      {mobileMenuOpen && (
-        <div className="md:hidden border-t border-gray-200 bg-white">
-          <div className="px-4 py-4 space-y-3">
-            <a href="#reviews" onClick={() => setMobileMenuOpen(false)} className="block text-gray-700 hover:text-blue-600 font-medium py-2">Reviews</a>
-            <a href="#results" onClick={() => setMobileMenuOpen(false)} className="block text-gray-700 hover:text-blue-600 font-medium py-2">Client Results</a>
-            <a href="#blog" onClick={() => setMobileMenuOpen(false)} className="block text-gray-700 hover:text-blue-600 font-medium py-2">Blog</a>
-            <a href="#about" onClick={() => setMobileMenuOpen(false)} className="block text-gray-700 hover:text-blue-600 font-medium py-2">About</a>
-            <a href="#faq" onClick={() => setMobileMenuOpen(false)} className="block text-gray-700 hover:text-blue-600 font-medium py-2">FAQ</a>
-            <a href="https://mybnbaccelerator.com" target="_blank" rel="noopener noreferrer" className="block text-center bg-blue-600 text-white px-4 py-2.5 rounded-lg hover:bg-blue-700 font-medium">Visit BnB Accelerator</a>
-          </div>
-        </div>
-      )}
 </header>
   );
 }

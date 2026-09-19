@@ -5,27 +5,27 @@ import Footer from "../components/Footer";
 export const metadata = {
   title: {
     template: "%s | BnB Accelerator Reviews",
-    default: "BnB Accelerator Reviews | Honest Student Reviews & Results",
+    default: "BNB Accelerator Reviews | Verified Sources and Client Evidence",
   },
   description:
-    "Read honest, in-depth reviews of BnB Accelerator from real students. See actual results, income numbers, and detailed experiences from people who have been through the program.",
+    "A BNB Accelerator-owned review and evidence website with independent review links, documented case studies, and a transparent publication standard.",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://bnbacceleratorreviews.com",
     siteName: "BnB Accelerator Reviews",
-    title: "BnB Accelerator Reviews | Honest Student Reviews & Results",
+    title: "BNB Accelerator Reviews | Verified Sources and Client Evidence",
     description:
-      "Read honest, in-depth reviews of BnB Accelerator from real students. See actual results, income numbers, and detailed experiences from people who have been through the program.",
+      "Review independent ratings, documented client case studies, and the standards used to publish client evidence.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "BnB Accelerator Reviews | Honest Student Reviews & Results",
+    title: "BNB Accelerator Reviews | Verified Sources and Client Evidence",
     description:
-      "Read honest, in-depth reviews of BnB Accelerator from real students. See actual results, income numbers, and detailed experiences.",
+      "Review independent ratings, documented client case studies, and transparent service disclosures.",
   },
   robots: {
-    index: true,
+    index: false,
     follow: true,
   },
   alternates: {
@@ -44,7 +44,7 @@ export default function RootLayout({ children }) {
           crossOrigin="anonymous"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+          href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         />
       </head>
