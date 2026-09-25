@@ -81,6 +81,30 @@ export default function Footer() {
                   Buyer Guides
                 </Link>
               </li>
+              <li>
+                <Link
+                  href="/markets"
+                  className="text-sm text-gray-400 hover:text-white transition-colors duration-200"
+                >
+                  Market Guides
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/learn"
+                  className="text-sm text-gray-400 hover:text-white transition-colors duration-200"
+                >
+                  Learning Guides
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/faq/answers"
+                  className="text-sm text-gray-400 hover:text-white transition-colors duration-200"
+                >
+                  Questions Answered
+                </Link>
+              </li>
             </ul>
           </div>
 
