@@ -10,6 +10,9 @@ export const metadata = {
 
 export default function CaseStudiesPage() {
   const markets = [...new Set(cases.map((item) => item.market))].sort();
+  const confirmed2025 = cases.filter((item) => item.year === 2025);
+  const markedClosed2026 = cases.filter((item) => item.year === 2026);
+  const recordedCredits2025 = confirmed2025.reduce((sum, item) => sum + (item.sellerCredit || 0), 0);
   return (
     <>
       <section className="bg-[#111a26] text-white">
@@ -17,10 +20,11 @@ export default function CaseStudiesPage() {
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#d1b47e]">Acquisition evidence library</p>
           <h1 className="font-display mt-5 max-w-4xl text-5xl leading-tight sm:text-6xl">Real transactions, with the process in view.</h1>
           <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-300">
-            Explore {cases.length} sanitized records that the 2026 internal tracker marks closed. {featuredCases.length} include a fuller account of a documented acquisition issue. These are transaction records, not client reviews or verified rental-performance claims.
+            Explore {cases.length} sanitized acquisition records across the 2025 and 2026 trackers. {featuredCases.length} include a fuller account of a documented acquisition issue. These are transaction records, not client reviews or verified rental-performance claims.
           </p>
           <div className="mt-9 flex flex-wrap gap-3 text-sm">
-            <span className="border border-white/25 px-4 py-2">{cases.length} acquisition records</span>
+            <span className="border border-white/25 px-4 py-2">{confirmed2025.length} marked closed and funded in 2025</span>
+            <span className="border border-white/25 px-4 py-2">{markedClosed2026.length} marked closed in 2026</span>
             <span className="border border-white/25 px-4 py-2">{featuredCases.length} detailed stories</span>
             <span className="border border-white/25 px-4 py-2">{markets.length} markets</span>
           </div>
@@ -54,22 +58,26 @@ export default function CaseStudiesPage() {
 
       <section className="bg-white py-16">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <h2 className="font-display text-4xl text-[#111a26]">All closed-deal records</h2>
-          <p className="mt-4 max-w-3xl leading-7 text-slate-600">The tracker status and purchase-price field provide acquisition context. Some records have limited supporting narrative, so those pages remain outside search indexes until more evidence is documented.</p>
-          <div className="mt-9 grid gap-4 md:grid-cols-2 xl:grid-cols-3">
-            {cases.map((item) => (
+          <h2 className="font-display text-4xl text-[#111a26]">The transaction record</h2>
+          <p className="mt-4 max-w-3xl leading-7 text-slate-600">The 2025 sheet marks {confirmed2025.length} rows closed and funded. Its dollar-denominated seller-concession fields total {formatMoney(recordedCredits2025)} across the rows with a stated amount, including zeroes. This is a sum of tracker entries, not a verified total from settlement statements or investment profit.</p>
+          {[{ title: "2025: closed and funded", items: confirmed2025 }, { title: "2026: marked closed", items: markedClosed2026 }].map((group) => <div key={group.title} className="mt-14">
+            <h3 className="font-display text-3xl text-[#111a26]">{group.title}</h3>
+            <div className="mt-6 grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+            {group.items.map((item) => (
               <Link key={item.slug} href={`/case-studies/${item.slug}`} className="flex flex-col justify-between border border-slate-200 p-6 transition hover:border-[#b9975b]">
                 <div>
                   <p className="text-xs font-semibold uppercase tracking-wider text-[#967744]">{item.market}</p>
                   <h3 className="mt-2 text-xl font-semibold text-[#111a26]">{item.insight?.headline || `Acquisition record in ${item.market}`}</h3>
-                  <p className="mt-3 text-sm text-slate-600">Recorded purchase price: {formatMoney(item.price)}</p>
+                  <p className="mt-3 text-sm text-slate-600">Tracker purchase-price field: {formatMoney(item.price)}</p>
+                  {item.sellerCredit > 0 && <p className="mt-1 text-sm text-slate-600">Recorded seller-concession field: {formatMoney(item.sellerCredit)}</p>}
                 </div>
                 <p className="mt-5 text-sm font-semibold text-[#4a5c78]">View record →</p>
               </Link>
             ))}
-          </div>
+            </div>
+          </div>)}
           <div className="mt-12 border-l-4 border-[#b9975b] bg-[#f6f3ed] p-6 text-sm leading-7 text-slate-700">
-            <strong>How to read this library.</strong> The source is an internal acquisition tracker, not a closing statement, operating ledger, or client testimonial. Dates are tracker dates. Prices are recorded purchase-price fields. We exclude names, exact addresses, contact details, private documents, and active negotiations. No cash flow, occupancy, tax benefit, or investment return is implied.
+            <strong>How to read this library.</strong> The sources are internal acquisition trackers, not closing statements, operating ledgers, or client testimonials. Dates, prices, and seller concessions are tracker fields. Some narrative notes conflict with summary fields, so figures should be checked against executed settlement documents before use as definitive closing terms. We exclude names, exact addresses, contact details, private documents, and active negotiations. No cash flow, occupancy, tax benefit, or investment return is implied.
           </div>
         </div>
       </section>

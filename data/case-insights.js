@@ -1,6 +1,76 @@
 // Editorial summaries of distinct details present in the closed-deal tracker.
 // These describe the acquisition process, not rental returns or client testimonials.
 export const caseInsights = {
+  "chandler-az-2025-35": {
+    headline: "Seller credit, insurance, and final access",
+    detail: "The 2025 closing tracker records a $20,000 seller-credit field for this Chandler acquisition. The notes describe insurance binding, final document review, signing, funding, and collection of access information. The credit is a transaction term, not rental profit or a measured return.",
+    takeaway: "Confirm the signed credit terms, insurance binder, funds, and post-closing access as separate closing checks.",
+  },
+  "sevierville-tn-2025-36": {
+    headline: "Inspection repairs and lending coordination",
+    detail: "The notes describe roof and HVAC questions raised during inspection, communication between the inspector and insurance broker, and an additional repair-credit negotiation. The seller-concession cell is not a usable dollar figure, so this case does not publish a total credit amount.",
+    takeaway: "When an inspection issue affects insurability, the repair scope and coverage requirements should be resolved together.",
+  },
+  "broken-bow-ok-2025-37": {
+    headline: "From inspection objection to operating handoff",
+    detail: "The team tracked an inspection-credit request, signed transaction documents, title and lender readiness, and the transfer of utilities, access, and any reservations to the incoming operator. The record does not establish post-closing revenue.",
+    takeaway: "An acquisition handoff extends beyond the signing table to property access and guest operations.",
+  },
+  "savannah-ga-2025-39": {
+    headline: "Inspection credits and the closing package",
+    detail: "The file describes an inspection objection, seller-credit negotiation, insurance binding, final settlement review, and signing. Its narrative contains inconsistent arithmetic about the credit total, so no credit figure is presented as final here.",
+    takeaway: "Use the signed addendum and final settlement statement for a public credit claim when notes disagree.",
+  },
+  "east-stroudsburg-pa-2025-40": {
+    headline: "Appraisal timing near a planned closing",
+    detail: "The tracker shows a $7,500 seller-concession field. The notes document an accepted credit and continuing appraisal coordination as signing approached. A tracked closing date and price are not substitutes for the final settlement package.",
+    takeaway: "Appraisal timing can affect the closing sequence even after the inspection terms have been agreed.",
+  },
+  "tobyhanna-pa-2025-41": {
+    headline: "Responding to a lower appraisal",
+    detail: "The internal notes describe an appraisal below an earlier negotiated figure, followed by a revised purchase-price and credit discussion and an adjusted closing schedule. Different figures appear in the narrative and summary fields, so this case does not claim a verified final price reduction.",
+    takeaway: "When value comes in low, reconcile the new price, credit, loan terms, and closing date in the executed paperwork.",
+  },
+  "arvada-co-2025-42": {
+    headline: "Appraisal difference and final settlement",
+    detail: "The tracker records a $10,000 seller-concession field. The team reviewed an appraisal near the contract price, negotiated the transaction terms, bound insurance, and balanced title and lender documents before funding.",
+    takeaway: "A small appraisal difference still requires a clear agreement on how the transaction will close.",
+  },
+  "albrightsville-pa-2025-43": {
+    headline: "Roof and moisture concerns in an inspection negotiation",
+    detail: "The tracker records a $20,000 seller-concession field. The notes describe roof and mold-related repair discussion, appraisal underwriting, an extension of the planned closing date, and a property-management introduction.",
+    takeaway: "A credit and a seller repair obligation should be documented separately and verified before closing.",
+  },
+  "denver-co-2025-45": {
+    headline: "Appraisal and insurance ahead of funding",
+    detail: "The 2025 tracker records a $10,000 seller-concession field. The notes report an appraisal $5,000 above the entered purchase-price field, insurance binding, and follow-up with title on funding and utilities. The appraisal observation is not realized equity.",
+    takeaway: "Value, coverage, funding, and utility transfer are distinct items in the acquisition checklist.",
+  },
+  "sedona-az-2025-46": {
+    headline: "Closing balance questions after a seller-credit negotiation",
+    detail: "The tracker records a $25,000 seller-concession field. The notes describe insurance and lender conditions, title balancing, a last-minute difference in cash-to-close figures, and the buyer's final wire. A recorded credit does not alone establish its application on the closing statement.",
+    takeaway: "Review final cash-to-close figures against the signed credit addendum before wiring funds.",
+  },
+  "northglenn-co-2025-47": {
+    headline: "Repair reinspection before the notary appointment",
+    detail: "The tracker records a $10,000 seller-concession field. The buyer and seller agreed on a repair list, the team arranged reinspection, bound insurance, and coordinated final documents and a notary.",
+    takeaway: "Reinspection gives the buyer a chance to verify the specific work agreed during negotiations.",
+  },
+  "broken-bow-ok-2025-54": {
+    headline: "Funding confirmation and property-management selection",
+    detail: "The tracker records a $20,000 seller-concession field. The notes follow the signing and wire, title funding confirmation, final document collection, and evaluation of a property-management offer.",
+    takeaway: "Document the funding confirmation and operating agreement as separate post-signing milestones.",
+  },
+  "arvada-co-2025-55": {
+    headline: "Clear-to-close through final funding",
+    detail: "The 2025 tracker records a $17,000 seller-concession field. The file describes a signed closing disclosure, clear-to-close, final settlement review, and later confirmation that the acquisition was funded.",
+    takeaway: "Signing and funding are different milestones; follow through to the title company's final confirmation.",
+  },
+  "hollister-mo-2025-56": {
+    headline: "Closing confirmation and final packet",
+    detail: "The tracker records a $13,750 seller-concession field. The notes identify a completed closing and funding, followed by a request for the title company's final signed packet.",
+    takeaway: "Keep the final settlement and deed records with the acquisition file before preparing any public performance claims.",
+  },
   "bradenton-fl-38": {
     headline: "Coordinating an exchange and final closing documents",
     detail: "The transaction record describes a 1031 exchange wire, reconciliation of closing figures with title, a price-change addendum, and a final signing. It illustrates how an exchange adds a separate funding and document sequence to an otherwise ordinary purchase.",
