@@ -12,7 +12,7 @@ export const metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://bnbacceleratorreviews.com",
+    url: "https://bnbacceleratorreviews.vercel.app",
     siteName: "BnB Accelerator Reviews",
     title: "BNB Accelerator Reviews | Verified Sources and Client Evidence",
     description:
@@ -29,7 +29,7 @@ export const metadata = {
     follow: true,
   },
   alternates: {
-    canonical: "https://bnbacceleratorreviews.com",
+    canonical: "https://bnbacceleratorreviews.vercel.app",
   },
 };
 

@@ -8,6 +8,7 @@ export default function Header() {
 
   const navLinks = [
     { href: "/", label: "Evidence" },
+    { href: "/case-studies", label: "Case Studies" },
     { href: "/guides", label: "Guides" },
     { href: "/markets", label: "Markets" },
     { href: "/learn", label: "Learn" },

@@ -5,13 +5,13 @@ export const metadata = {
   description:
     "A BNB Accelerator-owned review and evidence website. Review the verification policy, independent ratings, documented client case studies, and service disclosures.",
   robots: { index: true, follow: true },
-  alternates: { canonical: "https://bnbacceleratorreviews.com" },
+  alternates: { canonical: "https://bnbacceleratorreviews.vercel.app" },
   openGraph: {
     title: "BNB Accelerator Reviews | Verified Sources and Client Evidence",
     description:
       "Review independent ratings, documented client case studies, and the standards used to publish client evidence.",
     type: "website",
-    url: "https://bnbacceleratorreviews.com",
+    url: "https://bnbacceleratorreviews.vercel.app",
     siteName: "BNB Accelerator Reviews",
   },
 };
@@ -28,8 +28,8 @@ const evidenceLinks = [
     label: "Company documentation",
     title: "Client case studies",
     text: "Review property-specific acquisition stories and the assumptions attached to each result.",
-    href: "https://www.bnbaccelerator.com/case-studies/",
-    external: true,
+    href: "/case-studies",
+    external: false,
   },
   {
     label: "Property evidence",
@@ -65,9 +65,7 @@ export default function HomePage() {
                 Read Independent Reviews
               </a>
               <a
-                href="https://www.bnbaccelerator.com/case-studies/"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="/case-studies"
                 className="rounded-sm border border-white/25 px-7 py-3.5 text-center font-semibold text-white transition hover:border-white/50 hover:bg-white/5"
               >
                 Review Case Studies
