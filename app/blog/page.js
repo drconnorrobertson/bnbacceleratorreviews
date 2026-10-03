@@ -1,4 +1,81 @@
 import Link from 'next/link';
+import { blogPosts as baseBlogPosts } from '@/data/blog-posts';
+import { competitorReviewsB1 } from '@/data/cr-b1';
+import { competitorReviewsB2 } from '@/data/cr-b2';
+import { competitorReviewsB3 } from '@/data/cr-b3';
+import { competitorReviewsB4 } from '@/data/cr-b4';
+import { competitorReviewsB5 } from '@/data/cr-b5';
+import BlogCard from '@/components/BlogCard';
+import Schema from '@/components/Schema';
+
+const blogPosts = [...baseBlogPosts, ...competitorReviewsB1, ...competitorReviewsB2, ...competitorReviewsB3, ...competitorReviewsB4, ...competitorReviewsB5];
+
+export const metadata = {
+  title: 'STR Investing Blog - Tips, Guides & BnB Accelerator Insights',
+  description:
+    'Expert short-term rental investing tips, STR market analysis, and BnB Accelerator program insights. Learn strategies for Airbnb hosting, rental arbitrage, property management, and scaling your STR portfolio.',
+  openGraph: {
+    title: 'STR Investing Blog - Tips, Guides & BnB Accelerator Insights',
+    description:
+      'Expert short-term rental investing tips, STR market analysis, and BnB Accelerator program insights. Learn strategies for Airbnb hosting, rental arbitrage, and scaling your STR portfolio.',
+    type: 'website',
+    url: 'https://bnbacceleratorreviews.com/blog',
+    siteName: 'BnB Accelerator Reviews',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'STR Investing Blog - Tips, Guides & BnB Accelerator Insights',
+    description:
+      'Expert short-term rental investing tips, market analysis, and BnB Accelerator program insights.',
+  },
+  alternates: {
+    canonical: 'https://bnbacceleratorreviews.com/blog',
+  },
+};
+
+const breadcrumbData = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Home',
+      item: 'https://bnbacceleratorreviews.com',
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: 'Blog',
+      item: 'https://bnbacceleratorreviews.com/blog',
+    },
+  ],
+};
+
+export default function BlogPage() {
+  return (
+    <>
+      <Schema data={breadcrumbData} type="BreadcrumbList" />
+
+      {/* Hero Section */}
+      <section className="relative overflow-hidden bg-gradient-to-br from-blue-900 via-blue-800 to-blue-700 text-white">
+        <div className="absolute inset-0 bg-[url('/grid-pattern.svg')] opacity-10" />
+        <div className="relative mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8 lg:py-28">
+          <div className="text-center">
+            <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
+              Short-Term Rental Investing Blog
+            </h1>
+            <p className="mx-auto mt-6 max-w-2xl text-xl text-blue-100">
+              Educational guides, market analysis, and actionable strategies for
+              building a profitable STR portfolio. Written by investors, for
+              investors.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* All Blog Posts */}
+import Link from 'next/link';
 import { blogPosts } from '@/data/blog-posts';
 import BlogCard from '@/components/BlogCard';
 import Schema from '@/components/Schema';
