@@ -1,15 +1,8 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { blogPosts as baseBlogPosts } from '@/data/blog-posts';
-import { competitorReviewsB1 } from '@/data/cr-b1';
-import { competitorReviewsB2 } from '@/data/cr-b2';
-import { competitorReviewsB3 } from '@/data/cr-b3';
-import { competitorReviewsB4 } from '@/data/cr-b4';
-import { competitorReviewsB5 } from '@/data/cr-b5';
+import { blogPosts } from '@/data/blog-posts';
 import BlogCard from '@/components/BlogCard';
 import Schema from '@/components/Schema';
-
-const blogPosts = [...baseBlogPosts, ...competitorReviewsB1, ...competitorReviewsB2, ...competitorReviewsB3, ...competitorReviewsB4, ...competitorReviewsB5];
 
 export async function generateStaticParams() {
   return blogPosts.map((post) => ({
