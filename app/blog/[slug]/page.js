@@ -1,5 +1,82 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import { blogPosts as baseBlogPosts } from '@/data/blog-posts';
+import { competitorReviewsB1 } from '@/data/cr-b1';
+import { competitorReviewsB2 } from '@/data/cr-b2';
+import { competitorReviewsB3 } from '@/data/cr-b3';
+import { competitorReviewsB4 } from '@/data/cr-b4';
+import { competitorReviewsB5 } from '@/data/cr-b5';
+import BlogCard from '@/components/BlogCard';
+import Schema from '@/components/Schema';
+
+const blogPosts = [...baseBlogPosts, ...competitorReviewsB1, ...competitorReviewsB2, ...competitorReviewsB3, ...competitorReviewsB4, ...competitorReviewsB5];
+
+export async function generateStaticParams() {
+  return blogPosts.map((post) => ({
+    slug: post.slug,
+  }));
+}
+
+export async function generateMetadata({ params }) {
+  const { slug } = await params;
+  const post = blogPosts.find((p) => p.slug === slug);
+
+  if (!post) {
+    return {
+      title: 'Post Not Found',
+    };
+  }
+
+  return {
+    title: post.metaTitle,
+    description: post.metaDescription,
+    openGraph: {
+      title: post.metaTitle,
+      description: post.metaDescription,
+      type: 'article',
+      url: `https://bnbacceleratorreviews.com/blog/${post.slug}`,
+      siteName: 'BnB Accelerator Reviews',
+      publishedTime: post.publishDate,
+      authors: [post.author],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: post.metaTitle,
+      description: post.metaDescription,
+    },
+    alternates: {
+      canonical: `https://bnbacceleratorreviews.com/blog/${post.slug}`,
+    },
+  };
+}
+
+export default async function BlogPostPage({ params }) {
+  const { slug } = await params;
+  const post = blogPosts.find((p) => p.slug === slug);
+
+  if (!post) {
+    notFound();
+  }
+
+  const relatedPosts = blogPosts.filter((p) => p.slug !== post.slug).slice(0, 3);
+
+  const formattedDate = new Date(post.publishDate).toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+
+  const blogPostingData = {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: post.title,
+    datePublished: post.publishDate,
+    dateModified: post.publishDate,
+    author: {
+      '@type': 'Person',
+      name: post.author,
+import Link from 'next/link';
+import { notFound } from 'next/navigation';
 import { blogPosts } from '@/data/blog-posts';
 import BlogCard from '@/components/BlogCard';
 import Schema from '@/components/Schema';
