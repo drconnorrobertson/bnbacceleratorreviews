@@ -1,3 +1,5 @@
+import { competitorReviews } from './competitor-reviews.js';
+
 export const blogPosts = [
   {
     slug: "how-to-start-str-business-2026",
@@ -1884,4 +1886,5 @@ content: `
 <p>Learn more about what professional STR design looks like at <a href="https://www.mybnbdesign.com">MyBnBDesign.com</a>, or <a href="https://bnbaccelerator.com">schedule a consultation with BnB Accelerator</a> to see how our integrated design approach can transform your investment returns.</p>
 `
 },
+...competitorReviews
 ];
