@@ -1,7 +1,9 @@
 import { featuredCases } from "../data/cases";
-import { blogPosts } from "../data/blog-posts";
+import { blogPosts } from "../data/all-blog-posts";
+
 
 const base = "https://bnbacceleratorreviews.vercel.app";
+
 
 export default function sitemap() {
   return [
@@ -18,3 +20,4 @@ export default function sitemap() {
     })),
   ];
 }
+
