@@ -110,6 +110,7 @@ export default function Footer() {
 
           <div>
             <h3 className="text-white font-semibold mb-4">Resources</h3>
+            <p className="mb-4 text-sm"><Link href="/case-studies">Documented acquisition case studies</Link></p>
             <ul className="space-y-2">
               <li>
                 <a

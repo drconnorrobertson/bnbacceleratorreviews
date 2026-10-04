@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Schema from "@/components/Schema";
 
-const SITE = "https://bnbacceleratorreviews.com";
+const SITE = "https://www.bnbacceleratorreviews.co";
 
 export function articleMetadata(item, basePath) {
   if (!item) return { title: "Page Not Found" };

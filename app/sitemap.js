@@ -1,23 +1,14 @@
 import { featuredCases } from "../data/cases";
-import { blogPosts } from "../data/all-blog-posts";
-
-
-const base = "https://bnbacceleratorreviews.vercel.app";
-
-
+import { guides } from "../data/guides";
+const base = "https://www.bnbacceleratorreviews.co";
+// Only routes with an explicit index:true override belong in this sitemap.
+// Legacy blog/review pages retain the layout's evidence-quality noindex policy.
 export default function sitemap() {
   return [
-    { url: base, lastModified: new Date("2026-10-03") },
-    { url: `${base}/blog`, lastModified: new Date("2026-10-03") },
-    { url: `${base}/case-studies`, lastModified: new Date("2026-09-26") },
-    ...featuredCases.map((item) => ({
-      url: `${base}/case-studies/${item.slug}`,
-      lastModified: new Date("2026-09-26"),
-    })),
-    ...blogPosts.map((post) => ({
-      url: `${base}/blog/${post.slug}`,
-      lastModified: new Date(post.publishDate || "2026-10-03"),
-    })),
+    { url: base, lastModified: new Date("2026-10-04") },
+    { url: `${base}/case-studies`, lastModified: new Date("2026-10-04") },
+    { url: `${base}/guides`, lastModified: new Date("2026-10-04") },
+    ...featuredCases.map(item => ({ url: `${base}/case-studies/${item.slug}`, lastModified: new Date("2026-09-26") })),
+    ...guides.map(guide => ({ url: `${base}/guides/${guide.slug}`, lastModified: new Date("2026-10-04") })),
   ];
 }
-

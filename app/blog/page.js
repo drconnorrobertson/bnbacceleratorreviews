@@ -13,7 +13,7 @@ export const metadata = {
     description:
       'Expert short-term rental investing tips, STR market analysis, and BnB Accelerator program insights. Learn strategies for Airbnb hosting, rental arbitrage, and scaling your STR portfolio.',
     type: 'website',
-    url: 'https://bnbacceleratorreviews.com/blog',
+    url: 'https://www.bnbacceleratorreviews.co/blog',
     siteName: 'BnB Accelerator Reviews',
   },
   twitter: {
@@ -23,7 +23,7 @@ export const metadata = {
       'Expert short-term rental investing tips, market analysis, and BnB Accelerator program insights.',
   },
   alternates: {
-    canonical: 'https://bnbacceleratorreviews.com/blog',
+    canonical: 'https://www.bnbacceleratorreviews.co/blog',
   },
 };
 
@@ -36,13 +36,13 @@ const breadcrumbData = {
       '@type': 'ListItem',
       position: 1,
       name: 'Home',
-      item: 'https://bnbacceleratorreviews.com',
+      item: 'https://www.bnbacceleratorreviews.co',
     },
     {
       '@type': 'ListItem',
       position: 2,
       name: 'Blog',
-      item: 'https://bnbacceleratorreviews.com/blog',
+      item: 'https://www.bnbacceleratorreviews.co/blog',
     },
   ],
 };

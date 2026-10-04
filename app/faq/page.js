@@ -8,7 +8,7 @@ export const metadata = {
     title: 'BnB Accelerator FAQ - Common Questions Answered',
     description:
       'Get answers about BnB Accelerator cost, pricing, and whether BnB Accelerator is legit. Covers service details, investment, ROI timeline, and what to expect.',
-    url: 'https://bnbacceleratorreviews.com/faq/',
+    url: 'https://www.bnbacceleratorreviews.co/faq/',
     type: 'website',
   },
 };
@@ -119,13 +119,13 @@ const breadcrumbSchema = {
       '@type': 'ListItem',
       position: 1,
       name: 'Home',
-      item: 'https://bnbacceleratorreviews.com/',
+      item: 'https://www.bnbacceleratorreviews.co/',
     },
     {
       '@type': 'ListItem',
       position: 2,
       name: 'FAQ',
-      item: 'https://bnbacceleratorreviews.com/faq/',
+      item: 'https://www.bnbacceleratorreviews.co/faq/',
     },
   ],
 };

@@ -14,7 +14,7 @@ export function generateMetadata({ params }) {
     title,
     description: item.insight ? item.insight.detail : `A sanitized BNB Accelerator acquisition record from ${item.market}. Recorded price and process categories, with no claim of rental performance.`,
     robots: { index: Boolean(item.insight), follow: true },
-    alternates: { canonical: `https://bnbacceleratorreviews.vercel.app/case-studies/${item.slug}` },
+    alternates: { canonical: `https://www.bnbacceleratorreviews.co/case-studies/${item.slug}` },
   };
 }
 

@@ -10,7 +10,7 @@ export const metadata = {
     description:
       'What is BnB Accelerator? A detailed look at the done-for-you STR acquisition service and how clients build profitable short-term rental portfolios with zero operational burden.',
     type: 'website',
-    url: 'https://bnbacceleratorreviews.com/about',
+    url: 'https://www.bnbacceleratorreviews.co/about',
     siteName: 'BnB Accelerator Reviews',
   },
   twitter: {
@@ -29,13 +29,13 @@ const breadcrumbData = {
       '@type': 'ListItem',
       position: 1,
       name: 'Home',
-      item: 'https://bnbacceleratorreviews.com',
+      item: 'https://www.bnbacceleratorreviews.co',
     },
     {
       '@type': 'ListItem',
       position: 2,
       name: 'About',
-      item: 'https://bnbacceleratorreviews.com/about',
+      item: 'https://www.bnbacceleratorreviews.co/about',
     },
   ],
 };

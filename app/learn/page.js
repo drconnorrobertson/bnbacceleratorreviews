@@ -4,7 +4,7 @@ import { learnGuides } from "@/data/learn";
 export const metadata = {
   title: "Short-Term Rental Learning Guides",
   description: "Practical STR guides on underwriting, operations, setup, and strategy, with checklists and clearly labeled illustrative examples.",
-  alternates: { canonical: "https://bnbacceleratorreviews.com/learn" },
+  alternates: { canonical: "https://www.bnbacceleratorreviews.co/learn" },
 };
 
 export default function LearnPage() {

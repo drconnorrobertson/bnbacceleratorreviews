@@ -31,7 +31,7 @@ export async function generateMetadata({ params }) {
       title: post.metaTitle,
       description: post.metaDescription,
       type: 'article',
-      url: `https://bnbacceleratorreviews.com/blog/${post.slug}`,
+      url: `https://www.bnbacceleratorreviews.co/blog/${post.slug}`,
       siteName: 'BnB Accelerator Reviews',
       publishedTime: post.publishDate,
       authors: [post.author],
@@ -42,7 +42,7 @@ export async function generateMetadata({ params }) {
       description: post.metaDescription,
     },
     alternates: {
-      canonical: `https://bnbacceleratorreviews.com/blog/${post.slug}`,
+      canonical: `https://www.bnbacceleratorreviews.co/blog/${post.slug}`,
     },
   };
 }
@@ -55,7 +55,8 @@ export default async function BlogPostPage({ params }) {
     notFound();
   }
 
-  const relatedPosts = blogPosts.filter((p) => p.slug !== post.slug).slice(0, 3);
+  const words = new Set(`${post.title} ${post.category || ''}`.toLowerCase().match(/[a-z]{4,}/g) || []);
+  const relatedPosts = blogPosts.filter(p => p.slug !== post.slug).map(p => ({ post: p, score: (`${p.title} ${p.category || ''}`.toLowerCase().match(/[a-z]{4,}/g) || []).filter(word => words.has(word)).length })).sort((a, b) => b.score - a.score).slice(0, 3).map(item => item.post);
 
   const formattedDate = new Date(post.publishDate).toLocaleDateString('en-US', {
     year: 'numeric',
@@ -76,13 +77,13 @@ export default async function BlogPostPage({ params }) {
     publisher: {
       '@type': 'Organization',
       name: 'BnB Accelerator Reviews',
-      url: 'https://bnbacceleratorreviews.com',
+      url: 'https://www.bnbacceleratorreviews.co',
     },
     description: post.metaDescription,
     articleBody: post.content.replace(/<[^>]*>/g, ''),
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://bnbacceleratorreviews.com/blog/${post.slug}`,
+      '@id': `https://www.bnbacceleratorreviews.co/blog/${post.slug}`,
     },
   };
 
@@ -94,19 +95,19 @@ export default async function BlogPostPage({ params }) {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://bnbacceleratorreviews.com',
+        item: 'https://www.bnbacceleratorreviews.co',
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://bnbacceleratorreviews.com/blog',
+        item: 'https://www.bnbacceleratorreviews.co/blog',
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: post.title,
-        item: `https://bnbacceleratorreviews.com/blog/${post.slug}`,
+        item: `https://www.bnbacceleratorreviews.co/blog/${post.slug}`,
       },
     ],
   };

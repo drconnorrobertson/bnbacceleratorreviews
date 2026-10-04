@@ -4,7 +4,7 @@ import { faqAnswers } from "@/data/faq-answers";
 export const metadata = {
   title: "STR and BnB Accelerator Questions Answered",
   description: "Direct answers to common short-term rental and BnB Accelerator questions, with disclosures about what this company-owned site can and cannot say.",
-  alternates: { canonical: "https://bnbacceleratorreviews.com/faq/answers" },
+  alternates: { canonical: "https://www.bnbacceleratorreviews.co/faq/answers" },
 };
 
 export default function FaqAnswersPage() {

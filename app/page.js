@@ -5,13 +5,13 @@ export const metadata = {
   description:
     "A BNB Accelerator-owned review and evidence website. Review the verification policy, independent ratings, documented client case studies, and service disclosures.",
   robots: { index: true, follow: true },
-  alternates: { canonical: "https://bnbacceleratorreviews.vercel.app" },
+  alternates: { canonical: "https://www.bnbacceleratorreviews.co" },
   openGraph: {
     title: "BNB Accelerator Reviews | Verified Sources and Client Evidence",
     description:
       "Review independent ratings, documented client case studies, and the standards used to publish client evidence.",
     type: "website",
-    url: "https://bnbacceleratorreviews.vercel.app",
+    url: "https://www.bnbacceleratorreviews.co",
     siteName: "BNB Accelerator Reviews",
   },
 };

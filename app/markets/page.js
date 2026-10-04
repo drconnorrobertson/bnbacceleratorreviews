@@ -4,7 +4,7 @@ import { allMarkets } from "@/data/markets";
 export const metadata = {
   title: "Short-Term Rental Market Guides",
   description: "Educational guides to 40 short-term rental markets: demand drivers, seasonality, regulation basics, risks, and a deal checklist for each.",
-  alternates: { canonical: "https://bnbacceleratorreviews.com/markets" },
+  alternates: { canonical: "https://www.bnbacceleratorreviews.co/markets" },
 };
 
 export default function MarketsPage() {

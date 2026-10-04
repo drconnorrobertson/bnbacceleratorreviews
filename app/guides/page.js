@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { guides } from '@/data/guides';
 import Schema from '@/components/Schema';
 
-const BASE = 'https://bnbacceleratorreviews.com';
+const BASE = 'https://www.bnbacceleratorreviews.co';
 
 export const metadata = {
   title: 'STR Program Buyer Guides',

@@ -3,6 +3,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 
 export const metadata = {
+  metadataBase: new URL("https://www.bnbacceleratorreviews.co"),
   title: {
     template: "%s | BnB Accelerator Reviews",
     default: "BNB Accelerator Reviews | Verified Sources and Client Evidence",
@@ -12,7 +13,7 @@ export const metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://bnbacceleratorreviews.vercel.app",
+    url: "https://www.bnbacceleratorreviews.co",
     siteName: "BnB Accelerator Reviews",
     title: "BNB Accelerator Reviews | Verified Sources and Client Evidence",
     description:
@@ -27,9 +28,6 @@ export const metadata = {
   robots: {
     index: false,
     follow: true,
-  },
-  alternates: {
-    canonical: "https://bnbacceleratorreviews.vercel.app",
   },
 };
 

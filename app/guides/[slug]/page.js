@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import { guides } from '@/data/guides';
 import Schema from '@/components/Schema';
 
-const BASE = 'https://bnbacceleratorreviews.com';
+const BASE = 'https://www.bnbacceleratorreviews.co';
 
 export function generateStaticParams() {
   return guides.map((g) => ({ slug: g.slug }));
