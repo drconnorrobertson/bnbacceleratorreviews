@@ -1,2 +1,26 @@
 {
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "bnbacceleratorreviews.com"
+        }
+      ],
+      "destination": "https://www.bnbacceleratorreviews.co/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.bnbacceleratorreviews.com"
+        }
+      ],
+      "destination": "https://www.bnbacceleratorreviews.co/:path*",
+      "permanent": true
+    }
+  ]
 }
