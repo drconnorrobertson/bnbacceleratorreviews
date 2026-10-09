@@ -11,7 +11,7 @@ export default function Header() {
     { href: "/case-studies", label: "Case Studies" },
     { href: "/guides", label: "Guides" },
     { href: "/markets", label: "Markets" },
-    { href: "/learn", label: "Learn" },
+    { href: "/bnb-accelerator-and-nick-korom", label: "Nick Korom" },
     { href: "/about", label: "About" },
     { href: "/faq", label: "FAQ" },
   ];

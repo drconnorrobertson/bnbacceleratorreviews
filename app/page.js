@@ -17,6 +17,7 @@ export const metadata = {
 };
 
 const evidenceLinks = [
+  { label: "Identity and scope", title: "BNB Accelerator and Nick Korom", text: "Official sources, service responsibilities and evidence checks for brand research.", href: "/bnb-accelerator-and-nick-korom", external: false },
   {
     label: "Independent platform",
     title: "Trustpilot profile",

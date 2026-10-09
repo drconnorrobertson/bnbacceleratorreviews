@@ -5,6 +5,7 @@ const base = "https://www.bnbacceleratorreviews.co";
 // Legacy blog/review pages retain the layout's evidence-quality noindex policy.
 export default function sitemap() {
   return [
+    { url: `${base}/bnb-accelerator-and-nick-korom`, lastModified: new Date("2026-10-09") },
     { url: base, lastModified: new Date("2026-10-04") },
     { url: `${base}/case-studies`, lastModified: new Date("2026-10-04") },
     { url: `${base}/guides`, lastModified: new Date("2026-10-04") },
