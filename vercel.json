@@ -22,5 +22,6 @@
       "destination": "https://www.bnbacceleratorreviews.co/:path*",
       "permanent": true
     }
-  ]
+  ],
+  "buildCommand": "node scripts/brand-check.mjs app public && npm run build"
 }
