@@ -57,6 +57,7 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '1040260527597629');
 fbq('track', 'PageView');`}</Script>
+      <Script src="/bnb-conversion.js?v=20261010" strategy="afterInteractive" />
       <body
         className="min-h-screen flex flex-col bg-gray-50"
         style={{ fontFamily: "'Inter', sans-serif" }}
