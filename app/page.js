@@ -147,6 +147,17 @@ export default function HomePage() {
         </div>
       </section>
 
+      <section className="bg-white py-20">
+        <div className="mx-auto max-w-5xl px-6 lg:px-8">
+          <h2 className="font-display text-4xl font-normal">Compare the evidence behind two property stories.</h2>
+          <div className="mt-6 space-y-5 leading-7 text-slate-700">
+            <p>Before comparing acquisition outcomes, write down what each story actually reports: purchase price, furnishing and repair costs, available nights, revenue period, operating expenses, financing, and owner cash. A revenue headline and an after-expense cash result are different measures. If an input is absent, mark it unknown instead of assuming it was zero.</p>
+            <p>Check whether the figures are historical, projected, annualized from a shorter period, or supplied by a third party. A strong seasonal month multiplied by twelve is an annualization assumption, not a verified year of performance. Ask for the period and supporting context before using the number in a purchase model.</p>
+            <p>Keep the service experience separate from the property result. A review may describe communication or coordination without verifying investment performance. Conversely, a property’s operating history does not establish which services were included in the buyer’s engagement.</p>
+            <p>This is a BNB Accelerator-owned website. Use its disclosures and original source links alongside independent research. Selected stories do not establish a typical result or predict a future purchase. The useful output is a list of specific questions about evidence, service responsibilities, fees, and the assumptions that would matter to your own decision.</p>
+          </div>
+        </div>
+      </section>
       <section className="bg-[#111a26] py-20 text-white">
         <div className="mx-auto flex max-w-5xl flex-col items-start justify-between gap-8 px-6 sm:flex-row sm:items-center lg:px-8">
           <div>
