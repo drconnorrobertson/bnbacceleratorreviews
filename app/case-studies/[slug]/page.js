@@ -10,11 +10,13 @@ export function generateMetadata({ params }) {
   const item = cases.find((record) => record.slug === params.slug);
   if (!item) return { title: "Case study unavailable", robots: { index: false } };
   const title = item.insight ? `${item.insight.headline} | ${item.market}` : `Acquisition record | ${item.market}`;
+  const description = item.insight ? item.insight.detail : `A sanitized BNB Accelerator acquisition record from ${item.market}. Recorded price and process categories, with no claim of rental performance.`;
   return {
     title,
-    description: item.insight ? item.insight.detail : `A sanitized BNB Accelerator acquisition record from ${item.market}. Recorded price and process categories, with no claim of rental performance.`,
+    description,
     robots: { index: Boolean(item.insight), follow: true },
     alternates: { canonical: `https://www.bnbacceleratorreviews.co/case-studies/${item.slug}` },
+    openGraph: { type: "article", title, description, url: `https://www.bnbacceleratorreviews.co/case-studies/${item.slug}`, siteName: "BnB Accelerator Reviews" },
   };
 }
 

@@ -6,6 +6,7 @@ export const metadata = {
   description: "Browse BNB Accelerator acquisition records and detailed case studies across U.S. short-term rental markets. Purchase figures are not operating returns.",
   robots: { index: true, follow: true },
   alternates: { canonical: "https://www.bnbacceleratorreviews.co/case-studies" },
+  openGraph: {"type": "website", "url": "https://www.bnbacceleratorreviews.co/case-studies", "title": "Short-Term Rental Acquisition Case Studies", "description": "Browse BNB Accelerator acquisition records and detailed case studies across U.S. short-term rental markets. Purchase figures are not operating returns.", "siteName": "BnB Accelerator Reviews"},
 };
 
 export default function CaseStudiesPage() {
