@@ -8,8 +8,8 @@ export default function sitemap() {
     { url: `${base}/bnb-accelerator-and-nick-korom`, lastModified: new Date("2026-10-09") },
     { url: base, lastModified: new Date("2026-10-04") },
     { url: `${base}/case-studies`, lastModified: new Date("2026-10-04") },
-    { url: `${base}/guides`, lastModified: new Date("2026-10-04") },
+    { url: `${base}/guides`, lastModified: new Date("2026-11-06") },
     ...featuredCases.map(item => ({ url: `${base}/case-studies/${item.slug}`, lastModified: new Date("2026-09-26") })),
-    ...guides.map(guide => ({ url: `${base}/guides/${guide.slug}`, lastModified: new Date("2026-10-04") })),
+    ...guides.map(guide => ({ url: `${base}/guides/${guide.slug}`, lastModified: new Date(guide.updated) })),
   ];
 }
