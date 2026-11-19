@@ -1,10 +1,17 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const menuButton = useRef(null);
+  useEffect(() => {
+    if (!mobileMenuOpen) return;
+    const closeOnEscape = (event) => { if (event.key === "Escape") { setMobileMenuOpen(false); menuButton.current?.focus(); } };
+    document.addEventListener("keydown", closeOnEscape);
+    return () => document.removeEventListener("keydown", closeOnEscape);
+  }, [mobileMenuOpen]);
 
   const navLinks = [
     { href: "/", label: "Evidence" },
@@ -40,7 +47,7 @@ export default function Header() {
             </span>
           </Link>
 
-          <nav className="hidden md:flex items-center space-x-8">
+          <nav className="hidden xl:flex items-center space-x-8">
             {navLinks.map((link) => (
               <Link
                 key={link.href}
@@ -62,9 +69,12 @@ export default function Header() {
 
           <button
             type="button"
-            className="md:hidden p-2 rounded-md text-gray-600 hover:text-gray-900 hover:bg-gray-100"
+            className="xl:hidden p-2 rounded-md text-gray-600 hover:text-gray-900 hover:bg-gray-100"
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-            aria-label="Toggle mobile menu"
+            ref={menuButton}
+            aria-label={mobileMenuOpen ? "Close navigation menu" : "Open navigation menu"}
+            aria-expanded={mobileMenuOpen}
+            aria-controls="mobile-navigation"
           >
             {mobileMenuOpen ? (
               <svg
@@ -100,7 +110,7 @@ export default function Header() {
       </div>
 
       {mobileMenuOpen && (
-        <div className="md:hidden bg-white border-t border-gray-200">
+        <nav id="mobile-navigation" aria-label="Mobile navigation" className="xl:hidden bg-white border-t border-gray-200">
           <div className="px-4 py-3 space-y-2">
             {navLinks.map((link) => (
               <Link
@@ -121,7 +131,7 @@ export default function Header() {
               Visit BnB Accelerator
             </a>
           </div>
-        </div>
+        </nav>
       )}
     
 </header>

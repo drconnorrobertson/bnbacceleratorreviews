@@ -92,7 +92,7 @@ export default function HomePage() {
           <div className="max-w-3xl">
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#967744]">Start with evidence</p>
             <h2 className="font-display mt-4 text-4xl font-normal tracking-[-0.025em] text-[#111a26] sm:text-5xl">
-              Three places to verify what you are reading
+              Source material to support your review
             </h2>
             <p className="mt-5 text-lg leading-8 text-slate-600">
               A credible review should make it easy to distinguish an independent opinion, a company-published case study, and a financial projection.
