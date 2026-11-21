@@ -23,5 +23,5 @@
       "permanent": true
     }
   ],
-  "buildCommand": "node scripts/brand-check.mjs app public && npm run build"
+  "buildCommand": "node scripts/brand-check.mjs app public && npm run build && node scripts/check-published-seo.cjs"
 }

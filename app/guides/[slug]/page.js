@@ -47,7 +47,7 @@ export default async function GuidePage({ params }) {
     headline: guide.title,
     description: guide.metaDescription,
     dateModified: guide.updated,
-    datePublished: guide.updated,
+    datePublished: guide.published || guide.updated,
     author: { '@type': 'Organization', name: 'BnB Accelerator Reviews' },
     publisher: { '@type': 'Organization', name: 'BnB Accelerator Reviews', url: BASE },
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
@@ -93,7 +93,7 @@ export default async function GuidePage({ params }) {
             {guide.title}
           </h1>
           <p className="mt-4 text-sm text-gray-500">
-            BnB Accelerator Reviews Team · Updated <time dateTime={guide.updated}>September 24, 2026</time> · {guide.readTime}
+            BnB Accelerator Reviews Team · Updated <time dateTime={guide.updated}>{new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${guide.updated}T00:00:00Z`))}</time> · {guide.readTime}
           </p>
         </div>
       </header>
