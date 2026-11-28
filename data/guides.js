@@ -224,6 +224,7 @@ export const guides = [
 <p>We are deliberately not publishing projected numbers here. Revenue and returns depend on the specific market, property, purchase terms, and operating decisions, and a generic figure would be more misleading than helpful. Instead, this guide gives you the questions and concepts to evaluate any projection you are shown.</p>
 
 <h2>Results Are a Range, Not a Number</h2>
+<p>Take an illustrative property with 18 booked nights at $180, or $3,240 in room revenue. Subtract $1,200 in operating expenses and $1,650 in debt service to get $390 before taxes and reserves. At 14 booked nights with the same rate and assumed costs, the shortfall is $330. Ask any seller or program for enough data to repeat both calculations, and test how cleaning and other variable costs would change.</p>
 <p>Two properties in the same market, bought in the same year, can perform very differently. Differences in location within the market, layout, sleeping capacity, amenities, design, photography, reviews, and pricing strategy all affect bookings. A projection is an estimate of where a property may land within a range, not a promise. When someone shows you a single number, ask what the low end and high end of their estimate look like, and what assumptions drive each.</p>
 
 <h2>The Ramp-Up Period</h2>
